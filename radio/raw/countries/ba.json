@@ -1,0 +1,1012 @@
+[
+  {
+    "nanoid": "7CrvmiL9tR1GN0",
+    "name": "A Radio 94.4",
+    "sources": {
+      "streams": [
+        "https://aradiostream.atvbl.com/live"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "8xfDW96nkZoxF4",
+    "name": "Alpha 93.1 FM",
+    "sources": {
+      "streams": [
+        "https://kadushi.westream.cloud/listen/alfafm/xstream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Vmxqctu9i6ut2I",
+    "name": "Antena Radio Jelah 88.7",
+    "sources": {
+      "streams": [
+        "https://radio.tnt.ba/radio/8020/live"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "9lsm1bnwtqwvzj",
+    "name": "Antena Sarajevo 90.9 FM",
+    "sources": {
+      "streams": [
+        "https://stream.rsgmedia.ba/listen/antena_sarajevo/radio.mp3"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "2yhVJeE8yOKooC",
+    "name": "Drukčiji Radio 94.7",
+    "sources": {
+      "streams": [
+        "https://stream.drukciji.ba:9998/4"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "fcMHgJEOfw83Mz",
+    "name": "Dub Radio 96.7",
+    "sources": {
+      "streams": [
+        "https://s1.mojstream.eu:8162/;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "VUtxLcIMendRO6",
+    "name": "Esoterica Radio S1",
+    "sources": {
+      "streams": [
+        "https://esoterica.servemp3.com:444/listen/bigroom_electrohouse/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AmDIBTdhhhGopR",
+    "name": "Esoterica Radio S2",
+    "sources": {
+      "streams": [
+        "https://esoterica.servemp3.com:444/listen/darkbasshouse_cyberpunk_hybridtrap/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "f3n6LyIdjKeKAy",
+    "name": "Esoterica Radio S3",
+    "sources": {
+      "streams": [
+        "https://esoterica.servemp3.com:444/listen/darkclubbing_darkelectro/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Gajf8j8EPNx8Ou",
+    "name": "Esoterica Radio S4",
+    "sources": {
+      "streams": [
+        "https://esoterica.servemp3.com:444/listen/psytrance_progressivepsytrance/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5ypRUlcw84pYDx",
+    "name": "Esoterica Radio S5",
+    "sources": {
+      "streams": [
+        "https://esoterica.servemp3.com:444/listen/synthwave_electronicrock/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jBx8LEqc8CTzCv",
+    "name": "Federalni Radio 89.3",
+    "sources": {
+      "streams": [
+        "https://s2.free-shoutcast.com/stream/18170"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "T1nSlefHxWeABd",
+    "name": "Free Radio Prijedor 98.3",
+    "sources": {
+      "streams": [
+        "https://vestreams.com/8008/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "jBx8LEqc8CTzCv",
+    "name": "Federalni Radio 89.3",
+    "sources": {
+      "streams": [
+        "https://s2.free-shoutcast.com/stream/18170"
+      ]
+    },
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T1nSlefHxWeABd",
+    "name": "Free Radio Prijedor 98.3",
+    "sources": {
+      "streams": [
+        "https://vestreams.com/8008/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AwigyK54yBtJPP",
+    "name": "Hard Rock Radio 102.7",
+    "sources": {
+      "streams": [
+        "https://stream.hardrockradio.net/live"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "npbccP7vOeTnIx",
+    "name": "Hrvatski radio Bobovac",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.vmakerhost.com/8027/stream"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "ph6uicq5MnrKCI",
+    "name": "IS Radio",
+    "sources": {
+      "streams": [
+        "https://stream.leftor.com/proxy/radiois/stream/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "UZzy9shvznSDWc",
+    "name": "Kontakt Radio",
+    "sources": {
+      "streams": [
+        "https://s1.mojstream.eu:8114/;",
+        "https://mojstream.eu:8114/kontaktradio"
+      ]
+    },
+    "languages": [
+      "bos",
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "6sDTDGWJUtBaL3",
+    "name": "Kupreški Radio",
+    "sources": {
+      "streams": [
+        "https://ec2s.crolive.com.hr:1265/stream"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "txXqbMPfh14the",
+    "name": "Običan Radio",
+    "sources": {
+      "streams": [
+        "https://stream.leftor.com/proxy/obicanin/stream/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "uh6tGMKStO4Fyj",
+    "name": "ORV Radio",
+    "sources": {
+      "streams": [
+        "https://otv.ovh/live_radio/orv/icecast.audio"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "sjJNr9KZUEaXxC",
+    "name": "Pakao Radio",
+    "sources": {
+      "streams": [
+        "https://securestream.pakaoradio.net/live"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "lbKAdt1AKxHCNQ",
+    "name": "POP FM 97.6",
+    "sources": {
+      "streams": [
+        "https://solid1.streamupsolutions.com/proxy/bnwmfvnq/POPFM"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "2ycnv6ds8TNvDc",
+    "name": "Radio Bihać",
+    "sources": {
+      "streams": [
+        "https://radiobihaclive.radioca.st/;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "bbvR6DFBZw0Y3o",
+    "name": "Radio Bileća",
+    "sources": {
+      "streams": [
+        "https://radio.dukahosting.com/8087/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "NKyNmgWCwhvFAx",
+    "name": "Radio BN",
+    "sources": {
+      "streams": [
+        "https://stream.radiobn.net/;"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "Xw0guLLmAXe20W",
+    "name": "Radio Bosanska Krupa",
+    "stream_urls": [
+      "https://stream.leftor.com/proxy/radiobk/stream/;stream.mp3"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "bi8v3TmZ0O7uga",
+    "name": "Radio Bosanski Brod",
+    "sources": {
+      "streams": [
+        "https://zpilipov-geckohost.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "9wj3Uso0LyPPSh",
+    "name": "Radio Bosna",
+    "sources": {
+      "streams": [
+        "https://stream-162.zeno.fm/qggihjl4mgcvv"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "84YWB82NlqRN4M",
+    "name": "Radio Breza",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.vmakerhost.com/8192/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "EeEAhUinTexLGm",
+    "name": "Radio Bugojno",
+    "sources": {
+      "streams": [
+        "https://s3.free-shoutcast.com/stream/18156"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "JrI0zoVRHY3pn3",
+    "name": "Radio Busovača",
+    "sources": {
+      "streams": [
+        "https://ec2s.crolive.com.hr:1510/stream"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "gBUxf04JAzLHod",
+    "name": "Radio Doboj",
+    "sources": {
+      "streams": [
+        "https://stream.leftor.com/proxy/rtvdobo1/stream/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "01dM5Kf32SV0Ml",
+    "name": "Radio Dobre Vibracije",
+    "sources": {
+      "streams": [
+        "https://ec6.yesstreaming.net:1700/stream"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "VrfFvX1nR2sQKG",
+    "name": "Radio Džungla",
+    "sources": {
+      "streams": [
+        "https://cast2.name.ba/proxy/dzungla/stream"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "VMTkKRwusnvYbv",
+    "name": "Radio Džungla 2",
+    "sources": {
+      "streams": [
+        "https://cast2.name.ba/proxy/dzungla2/stream;"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "wJNsfQl8WXx2sK",
+    "name": "Radio Džungla 3",
+    "sources": {
+      "streams": [
+        "https://cast2.name.ba/proxy/dzungla3/stream;"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "c9rOyh3NEkhmj4",
+    "name": "Radio Feniks",
+    "sources": {
+      "streams": [
+        "https://c30.radioboss.fm:18234/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "1dDnf4KLmW1DSD",
+    "name": "Radio Foča",
+    "sources": {
+      "streams": [
+        "https://stream.leftor.com/proxy/radiofo2/stream/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "dkzCKeY3lrbl9R",
+    "name": "Radio Gacko",
+    "sources": {
+      "streams": [
+        "https://s31.myradiostream.com:14072/;"
+      ]
+    },
+    "languages": [
+      "srp"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y2oaeoXmQCpRgL",
+    "name": "Radio Goražde",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/radio_gorazde.m3u8"
+      ]
+    },
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TjzT0ktgHfO3tn",
+    "name": "Radio Gračanica",
+    "stream_urls": [
+      "https://s31.myradiostream.com:14072/;"
+    ],
+    "country": "ba",
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "FFDXTK0es71RK8",
+    "name": "Radio Herceg-Bosne",
+    "sources": {
+      "streams": [
+        "https://s3.free-shoutcast.com/stream/18038/;"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "wKHNoBw94RxIjr",
+    "name": "Radio Ilijaš",
+    "stream_urls": [
+      "https://stream.leftor.com/proxy/radioili/stream/"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "L3WXN09p7AUl96",
+    "name": "Radio Jablanica",
+    "sources": {
+      "streams": [
+        "https://stream.leftor.com/proxy/rtvjablanica/stream/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "VoRjGJ7rqSk05r",
+    "name": "Radio K3",
+    "sources": {
+      "streams": [
+        "https://s1.mojstream.eu:9164/stream"
+      ]
+    },
+    "languages": [
+      "srp",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "THkKUR6M2zoxOx",
+    "name": "Radio Kameleon",
+    "stream_urls": [
+      "https://radiokameleon.radioca.st/;"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "8xnyuiJX47mLcy",
+    "name": "Radio Konjic",
+    "stream_urls": [
+      "https://s3.free-shoutcast.com/stream/18056ic-uzivo/"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "qOBHTzfWKai8rq",
+    "name": "Radio Laktaši",
+    "sources": {
+      "streams": [
+        "https://radio.laktasiturizam.org/live"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "yCZlmFlpatv2OA",
+    "name": "Radio Livno",
+    "sources": {
+      "streams": [
+        "https://r.name.ba:7322/stream"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "vEZyclAo2RdsUN",
+    "name": "Radio Ljubuški",
+    "sources": {
+      "streams": [
+        "https://s8.iqstreaming.com:8044/stream"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "G9YQcGF48QT3KM",
+    "name": "Radio M",
+    "sources": {
+      "streams": [
+        "https://team-data.ba:9030//;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "8QpU4lVgQwJ57l",
+    "name": "Radio M Cafe",
+    "sources": {
+      "streams": [
+        "https://team-data.ba:9032//;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "SG7LNEY9CDNryp",
+    "name": "Radio Majevica",
+    "sources": {
+      "streams": [
+        "https://live.radiomajevica.com:7520/live"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "2V8ty6ZkHfypTn",
+    "name": "Radio Mix",
+    "sources": {
+      "streams": [
+        "https://stream.rsgmedia.ba/listen/radio_mix/radio.mp3"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "3kJrAT5IZYbbHm",
+    "name": "Radio Nevesinje",
+    "sources": {
+      "streams": [
+        "https://radio.dukahosting.com/8162/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "yh4lCJXvAhmESk",
+    "name": "Radio Osvit",
+    "sources": {
+      "streams": [
+        "https://radio.dukahosting.com/8020/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "0Fjb5GYnmmsy8T",
+    "name": "Radio Padrino",
+    "sources": {
+      "streams": [
+        "https://radio.dukahosting.com/8022/;"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "SjljvDzLPYGtEb",
+    "name": "Radio Prijedor",
+    "sources": {
+      "streams": [
+        "https://eliot.vestreams.com/8004/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "MdLEqF8JjfHlgz",
+    "name": "Radio Prnjavor",
+    "sources": {
+      "streams": [
+        "https://s1.mojstream.eu:8164/stream"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "3uFinT7uE20bd0",
+    "name": "Radio Rama",
+    "sources": {
+      "streams": [
+        "https://stream1.srvnetplus.com:18157/stream"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "31O3IHuxUPfDRL",
+    "name": "Radio Ritmo",
+    "sources": {
+      "streams": [
+        "https://stream-179.zeno.fm/3xufu087fc9uv"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "koYYAbBCo2z40V",
+    "name": "Radio Rujnica",
+    "sources": {
+      "streams": [
+        "https://r.name.ba:7115/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "r8B5zEM6ARqVfU",
+    "name": "Radio Sehara",
+    "sources": {
+      "streams": [
+        "https://cast.name.ba:8000/;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xU2mutBeKWS22Z",
+    "name": "Radio Slobodna Evropa",
+    "sources": {
+      "streams": [
+        "https://n11.radiojar.com/bugesa4nn3quv"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "m1bXZRHBlS8Z7U",
+    "name": "Radio Srbac",
+    "sources": {
+      "streams": [
+        "https://stream1.srvnetplus.com:18000/;"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "8zjXNzUnoJmVRT",
+    "name": "Radio Studio M",
+    "sources": {
+      "streams": [
+        "https://stream.leftor.com/proxy/studiom2/stream/;stream.mp3;"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "vI0Y1iDRU0H05b",
+    "name": "Radio Tomislavgrad",
+    "sources": {
+      "streams": [
+        "https://a4.asurahosting.com:7110/radio.mp3"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "D6Q5HKSS9vD6fp",
+    "name": "Radio Trebinje",
+    "sources": {
+      "streams": [
+        "https://radio.dukahosting.com:7002/;"
+      ]
+    },
+    "languages": [
+      "srp"
+    ]
+  },
+  {
+    "nanoid": "qgDGXxEJLudjnJ",
+    "name": "Radio Tuzla",
+    "sources": {
+      "streams": [
+        "https://uzivo.radiotuzla.ba/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "uV16pMAs7Ksakb",
+    "name": "Radio USK",
+    "stream_urls": [
+      "https://radiousk.radioca.st/stream",
+      "https://radiousk.radioca.st/stream/"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nrBbC1EGeJImvZ",
+    "name": "Radio Valentino",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/radio_valentino.m3u8"
+      ]
+    },
+    "languages": [
+      "bos"
+    ],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dLdo5fJ6A8psEM",
+    "name": "Radio Velika Kladuša",
+    "sources": {
+      "streams": [
+        "https://rvk2021.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "aO07KMyatstRiy",
+    "name": "Radio Vitez",
+    "sources": {
+      "streams": [
+        "https://radio.iti.hr/listen/radio_vitez/radio.mp3"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "u0CpK9VubXpumk",
+    "name": "Radio Zenit",
+    "stream_urls": [
+      "https://uzivo.zenit.ba/stream/"
+    ],
+    "country": "ba",
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "nZ80wocwjU0T5B",
+    "name": "Radiopostaja Mir Međugorje",
+    "sources": {
+      "streams": [
+        "https://mirm.live/mir.mp3"
+      ]
+    },
+    "languages": [
+      "hrv"
+    ]
+  },
+  {
+    "nanoid": "f5aeOmU9rFryU4",
+    "name": "RadiYo Active",
+    "sources": {
+      "streams": [
+        "https://activezenica.radiokitstream.org/activezenica.mp3"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "8oVKhkZd201CkF",
+    "name": "Robot Hit Radio",
+    "sources": {
+      "streams": [
+        "https://slusaj.off.ba/radio/8000/robot"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "fXycOXm6fMZjig",
+    "name": "RSG Radio",
+    "sources": {
+      "streams": [
+        "https://stream.rsgmedia.ba/listen/radio_stari_grad/radio.mp3"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "a4ltspvze9f3yQ",
+    "name": "Trend Radio",
+    "sources": {
+      "streams": [
+        "https://trendradio-codus.radioca.st/;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  },
+  {
+    "nanoid": "AHl9qwlNcppLrZ",
+    "name": "ZOS Radio",
+    "sources": {
+      "streams": [
+        "https://zosradio.radioca.st/;"
+      ]
+    },
+    "languages": [
+      "bos"
+    ]
+  }
+]

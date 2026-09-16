@@ -1,0 +1,26 @@
+[
+  {
+    "nanoid": "nf8KMK09lDBFGX",
+    "name": "Hala FM 102.7",
+    "sources": {
+      "streams": [
+        "https://listen-halafm.sharp-stream.com/halafmlow.mp3"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "JpK25BpTnPvdXI",
+    "name": "Hi FM",
+    "sources": {
+      "streams": [
+        "https://listen-hifmtemp.sharp-stream.com/hifmmid.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  }
+]

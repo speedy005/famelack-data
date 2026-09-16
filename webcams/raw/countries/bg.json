@@ -1,0 +1,26 @@
+[
+  {
+    "nanoid": "nhwNOyjoavza0M",
+    "name": "Stara Zagora",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/R_QLSxuVzsk"
+      ]
+    },
+    "languages": [],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6kSCKa7jzyb6gH",
+    "name": "Veliko Tarnovo Center",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/OsDvrPWjpd8"
+      ]
+    },
+    "languages": [],
+    "country": "bg",
+    "isGeoBlocked": false
+  }
+]

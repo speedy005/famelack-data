@@ -1,0 +1,52 @@
+[
+  {
+    "nanoid": "Xs3GI6E4TeLwyk",
+    "name": "Basma Radio",
+    "stream_urls": [
+      "https://mars.streamerr.co/8342/stream"
+    ],
+    "country": "ps",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Fzf2fcKppRKBN8",
+    "name": "CAMP Radio",
+    "sources": {
+      "streams": [
+        "https://listen.camp:9000/campradio.ogg"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "30Ja2c4vX4xEBS",
+    "name": "Fajer FM",
+    "sources": {
+      "streams": [
+        "https://rstream.hadara.ps/proxy/fajerfm/stream"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "ps",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ChNQgQEhbHOp9Q",
+    "name": "Radio Alhara",
+    "stream_urls": [
+      "https://n08.radiojar.com/78cxy6wkxtzuv",
+      "https://n02.radiojar.com/78cxy6wkxtzuv"
+    ],
+    "country": "ps",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "nanoid": "jvzGsgMa7KyKJu",
+    "name": "AXR Hong Kong",
+    "sources": {
+      "streams": [
+        "https://hongkongstream.axr.online/"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "V1f41VrHUTYx65",
+    "name": "Bluesfan Radio",
+    "sources": {
+      "streams": [
+        "https://bluesfan.stream.laut.fm/bluesfan"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S7phVF23GoFFL1",
+    "name": "Dalian Metropolitan Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp-hw.qtfm.cn/live/1086/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KlwOyjcD008054",
+    "name": "FM Belowground",
+    "sources": {
+      "streams": [
+        "https://listen.belowground.fm/radio/8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rmnKbG2jeaxqLm",
+    "name": "Highfun Radios",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/vzgtzzs0x68uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fVUcEBkFE9XRjc",
+    "name": "La French Radio Hong Kong & Macao",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/333865/stream/382282"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "ROj6IH2z9oHBNC",
+    "name": "Liangyou Radio - Tongxing",
+    "stream_urls": [
+      "https://stream.zeno.fm/2uvcyzjw38ivv",
+      "https://c23.radioboss.fm/stream/194"
+    ],
+    "country": "hk",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "UgFTNpjV82T4Y6",
+    "name": "Liangyou Radio - You Music",
+    "sources": {
+      "streams": [
+        "https://c25.radioboss.fm:8334/stream"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NMGfnERHmvM7TM",
+    "name": "Metro Finance",
+    "sources": {
+      "streams": [
+        "https://1716664847.rsc.cdn77.org/1716664847/tracks-a1/mono.ts.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rACSAGMRg7D48D",
+    "name": "Metro Info",
+    "sources": {
+      "streams": [
+        "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8"
+      ]
+    },
+    "languages": [
+      "zho"
+    ],
+    "country": "hk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7HdiYrvtAzFQyJ",
+    "name": "Original Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rzwzgu0dd8zuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "J9KmsC1julwY27",
+    "name": "RTHK Radio 1",
+    "stream_urls": [
+      "https://stm1.rthk.hk/radio1"
+    ],
+    "country": "hk",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "mkmARmtVoCZlll",
+    "name": "RTHK Radio 1 92.6 FM",
+    "sources": {
+      "streams": [
+        "https://stm.rthk.hk/radio1"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "IulvSJAKeOZbdj",
+    "name": "RTHK Radio 2",
+    "stream_urls": [
+      "https://stm2.rthk.hk/radio2"
+    ],
+    "country": "hk",
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "E1gWA3h6bJeWuU",
+    "name": "RTHK Radio 2 94.8 FM",
+    "sources": {
+      "streams": [
+        "https://stm.rthk.hk/radio2"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "2zoMW5QQisRHxN",
+    "name": "RTHK Radio 3 567 AM",
+    "sources": {
+      "streams": [
+        "https://stm.rthk.hk/radio3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bnP4p1yXHaCak9",
+    "name": "RTHK Radio 4 97.6 FM",
+    "sources": {
+      "streams": [
+        "https://stm.rthk.hk/radio4"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "xpMXDMZ2pll2qC",
+    "name": "RTHK Radio 5 783 AM",
+    "sources": {
+      "streams": [
+        "https://stm1.rthk.hk/radio5"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "lTxzPbZIv26t4Q",
+    "name": "Shenzhen Traffic Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp-hw.qtfm.cn/live/1272/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "EvDrJGRQQgXiMN",
+    "name": "Taishan Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp-hw.qtfm.cn/live/5022062/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "MxxGo2AwLVEXmK",
+    "name": "Zhuhai Comprehensive Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp-hw.qtfm.cn/live/1274/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "xycKL1PQULinJd",
+    "name": "Zhuhai Environmental & Economic Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp-hw.qtfm.cn/live/1275/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  }
+]

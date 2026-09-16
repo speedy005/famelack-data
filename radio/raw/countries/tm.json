@@ -1,0 +1,27 @@
+[
+  {
+    "nanoid": "rnrl8FDDaEwQPK",
+    "name": "Hayatmix Remix",
+    "sources": {
+      "streams": [
+        "https://hayatmix.net/;yayin.mp3/;"
+      ]
+    },
+    "languages": [
+      "tuk",
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "f2jyDNLodJkoQu",
+    "name": "Radio Watan 102.7 FM",
+    "sources": {
+      "streams": [
+        "https://radio.telecom.tm:8010/radio.mp3"
+      ]
+    },
+    "languages": [
+      "tuk"
+    ]
+  }
+]

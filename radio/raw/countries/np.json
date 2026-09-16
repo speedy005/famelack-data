@@ -1,0 +1,132 @@
+[
+  {
+    "nanoid": "5ncJ841Sx88aBd",
+    "name": "BFBS Gurkha Radio",
+    "sources": {
+      "streams": [
+        "https://edge-audio-05-gos2.sharp-stream.com/ssvcbfbs3.mp3",
+        "https://edge-audio-04-thn.sharp-stream.com/ssvcbfbs3.aac",
+        "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac"
+      ]
+    },
+    "languages": [
+      "nep",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bIntZduc6CN2Kd",
+    "name": "CIN Khabar",
+    "sources": {
+      "streams": [
+        "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60"
+      ]
+    },
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "j60VcLFgVKFI8M",
+    "name": "Kool FM 90.3",
+    "sources": {
+      "streams": [
+        "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70"
+      ]
+    },
+    "languages": [
+      "nep",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Eei6qZ3YZDM5y5",
+    "name": "Radio Audio 106.3 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/fvrx47wpg0quv"
+      ]
+    },
+    "languages": [
+      "hin",
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "KBC5MEL240O1hI",
+    "name": "Radio Himalaya",
+    "sources": {
+      "streams": [
+        "https://live.itech.host/himalayaradio"
+      ]
+    },
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "1ysyLazGXnpRDk",
+    "name": "Radio Thaha Sanchar",
+    "sources": {
+      "streams": [
+        "https://streaming.softnep.net:10988/;stream.nsv&type=mp3"
+      ]
+    },
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "UmwBCcLCWNNMcS",
+    "name": "Swadesh FM",
+    "sources": {
+      "streams": [
+        "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3"
+      ]
+    },
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "Wc2mP0gYMEaYZa",
+    "name": "Syangja Radio 89.6",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/fzqwdre3mp8uv"
+      ]
+    },
+    "languages": [
+      "nep"
+    ]
+  },
+  {
+    "nanoid": "kOGP6oFTXXIXcP",
+    "name": "Ujyaalo 90 Network",
+    "stream_urls": [
+      "https://stream.zenolive.com/wtuvp08xq1duv",
+      "https://stream.zeno.fm/h527zwd11uquv"
+    ],
+    "country": "np",
+    "languages": [
+      "eng",
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZBN9TSqyMsKWCp",
+    "name": "Vijaya FM 101.6",
+    "sources": {
+      "streams": [
+        "https://live.itech.host:3320/stream"
+      ]
+    },
+    "languages": [
+      "nep"
+    ],
+    "country": "np",
+    "isGeoBlocked": false
+  }
+]

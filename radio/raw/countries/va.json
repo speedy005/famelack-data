@@ -1,0 +1,181 @@
+[
+  {
+    "nanoid": "WbMXtXEVAStxsS",
+    "name": "Radio Vaticana Italia",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-it"
+      ]
+    },
+    "languages": [
+      "ita",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "uIHtH5M1oUafD7",
+    "name": "Radio Vaticana Polska",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-pl"
+      ]
+    },
+    "languages": [
+      "lat",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "edboDOcH11Vh0z",
+    "name": "Vatican News - Belarusian",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-be"
+      ]
+    },
+    "languages": [
+      "bel",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "foptyylZB03qdI",
+    "name": "Vatican News - Bulgarian",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-bg"
+      ]
+    },
+    "languages": [
+      "bul",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "DYMgh8wiko9ZtL",
+    "name": "Vatican News - Deutsch",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-de"
+      ]
+    },
+    "languages": [
+      "deu",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "sFXnmwKS339b8k",
+    "name": "Vatican News - English",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-en"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BFLOncGJCxQUlg",
+    "name": "Vatican News - Español",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-es"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "19w6wTmnsyffiE",
+    "name": "Vatican News - Hrvatski",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-hr"
+      ]
+    },
+    "languages": [
+      "hrv",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "vXyyMapbsJAta7",
+    "name": "Vatican News - Português",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-pt"
+      ]
+    },
+    "languages": [
+      "por",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "jlevgtUPw5Ox3d",
+    "name": "Vatican News - Română",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-ro"
+      ]
+    },
+    "languages": [
+      "lat",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "wtXzrcItqOjal5",
+    "name": "Vatican News - Slovenčina",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-sk"
+      ]
+    },
+    "languages": [
+      "lat",
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "qW41462LEXeTPJ",
+    "name": "Vatican News - Slovenščina",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-sl"
+      ]
+    },
+    "languages": [
+      "lat",
+      "slv"
+    ]
+  },
+  {
+    "nanoid": "nkLm3acyBeTayF",
+    "name": "Vatican News - Čeština",
+    "stream_urls": [
+      "https://radio.vaticannews.va/stream-cs"
+    ],
+    "country": "va",
+    "languages": [
+      "ces",
+      "lat"
+    ]
+  },
+  {
+    "nanoid": "Jex1VDawDmX9cU",
+    "name": "Vatican News - Українська",
+    "sources": {
+      "streams": [
+        "https://radio.vaticannews.va/stream-uk"
+      ]
+    },
+    "languages": [
+      "lat",
+      "ukr"
+    ]
+  }
+]

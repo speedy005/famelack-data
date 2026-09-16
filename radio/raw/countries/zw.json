@@ -1,0 +1,36 @@
+[
+  {
+    "nanoid": "Y8qwNpxFPgXDlv",
+    "name": "Capitalk FM",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/162_medium.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TnXy9qbCc34tgg",
+    "name": "Central Radio 98.5",
+    "stream_urls": [
+      "https://centralstream.zbc.co.zw:8000/radio.mp3"
+    ],
+    "country": "zw",
+    "languages": []
+  },
+  {
+    "nanoid": "cWAe6kwPSk7cmY",
+    "name": "Star FM Zimbabwe",
+    "sources": {
+      "streams": [
+        "https://edge.iono.fm/xice/159_medium.aac"
+      ]
+    },
+    "languages": [
+      "eng",
+      "sna"
+    ]
+  }
+]

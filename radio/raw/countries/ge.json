@@ -1,0 +1,170 @@
+[
+  {
+    "nanoid": "RT3CrgfS8nFMwC",
+    "name": "LF Radio",
+    "sources": {
+      "streams": [
+        "https://rtn.cdnstream1.com/2582_96.aac"
+      ]
+    },
+    "languages": [
+      "kat",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lcST2mrbJkPWXB",
+    "name": "Mutant Radio",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/282820/stream/328621"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "f5jBy64SQnpbhN",
+    "name": "Radio Adjara",
+    "sources": {
+      "streams": [
+        "https://edge.mixlr.com/channel/bzorq"
+      ]
+    },
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "PmXY8zrKx6mJnA",
+    "name": "Radio Amra International",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/s34b5469e0/listen"
+      ]
+    },
+    "languages": [
+      "kat",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zd1u0JJ21zUKIL",
+    "name": "Radio Commersant",
+    "sources": {
+      "streams": [
+        "https://radio.cdn.xsg.ge/fm-commersant-95.5/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aM4zPHwEfgWo0W",
+    "name": "Radio Fortuna",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/cld9-0386/fortuna/tracks-a1/mono.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "86tQRYt2943voC",
+    "name": "Radio Imedi",
+    "sources": {
+      "streams": [
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/shoutcast",
+        "https://tv.cdn.xsg.ge/radioimedi/stream01/index.m3u8"
+      ]
+    },
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "3OBD5JDSL4Bigy",
+    "name": "Radio Palitra",
+    "sources": {
+      "streams": [
+        "https://radiostream.palitra.ge/stream.mp3"
+      ]
+    },
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "3OBD5JDSL4Bigy",
+    "name": "Radio Palitra",
+    "sources": {
+      "streams": [
+        "https://radiostream.palitra.ge/stream.mp3"
+      ]
+    },
+    "languages": [
+      "kat"
+    ],
+    "country": "ge",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6BjD1gFHeqSAwn",
+    "name": "Radio Positive",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/sr4vzamzfnruv"
+      ]
+    },
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "kZoVAVhMSZq3DS",
+    "name": "Radio Sivrce",
+    "sources": {
+      "streams": [
+        "https://proxy.streamer.mediabox.ge/ice/8000/sivrce"
+      ]
+    },
+    "languages": [
+      "kat"
+    ]
+  },
+  {
+    "nanoid": "E8XDXmeHkwQw9X",
+    "name": "Red Wine Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pcbduafehg0uv"
+      ]
+    },
+    "languages": [
+      "kat",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jbjA8JGHs4EMix",
+    "name": "Sputnik Аҧсны",
+    "sources": {
+      "streams": [
+        "https://icecast-rian.cdnvideo.ru/voicesuh"
+      ]
+    },
+    "languages": [
+      "abk",
+      "rus"
+    ]
+  }
+]

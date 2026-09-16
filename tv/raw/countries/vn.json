@@ -1,0 +1,666 @@
+[
+  {
+    "nanoid": "BqR3EbjIIGHUh7",
+    "name": "360 Entertainment - Bolero & Nhạc Vàng",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/-l6RLurMt5E"
+    ],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "79lqDZYF5l4OvA",
+    "name": "An Ninh TV",
+    "stream_urls": [
+      "https://live.canthotv.vn/live/tv/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aHLC2ZM9DagUy4",
+    "name": "Dak Lak TV",
+    "stream_urls": [
+      "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aHLC2ZM9DagUy4",
+    "name": "Dak Lak TV",
+    "sources": {
+      "streams": [
+        "https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/chunklist.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VCFZo6dbs3n20W",
+    "name": "DGV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ma0MZoCuUec"
+    ],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YbJKFpPbkRwCoQ",
+    "name": "Dien Bien TV",
+    "stream_urls": [
+      "https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId="
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Dc7SrnHIU5efZ9",
+    "name": "Dong Thap TV",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QnYbafq8SSO9v0",
+    "name": "HanoiTV1",
+    "stream_urls": [
+      "https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/chunklist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "MO8deGVLY2zQ9f",
+    "name": "HanoiTV2",
+    "stream_urls": [
+      "https://cloudstreamhntv.tek4tv.vn/live/smil:HN2.smil/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "sb5v19pRAmTp7P",
+    "name": "HTV Key",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/HTVKey/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vbRGA1707QE0Ah",
+    "name": "HTV2",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/HTV2/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IzIeB6PQT3Mcyn",
+    "name": "HTV3",
+    "stream_urls": [
+      "https://liveh12byt.vtvprime.vn/hls/HTV3/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6DolkI5thPr6tu",
+    "name": "HTV7",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/HTV7HD/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PYD65sKTsyBg8u",
+    "name": "Lao Cai TV",
+    "stream_urls": [
+      "https://live.baolaocai.vn/channel2/stream.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "6EdtrtcTzJTHBM",
+    "name": "HTV4",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=9"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mBI5by4rAF4VMT",
+    "name": "Khanh Hoa TV",
+    "sources": {
+      "streams": [
+        "https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nfUMYUgBEhhJaP",
+    "name": "Lao SV TV",
+    "sources": {
+      "streams": [
+        "https://livefta.malimarcdn.com/ftaedge00/laosvtv.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GYggfQq3olGvXb",
+    "name": "Lao-Thai TV",
+    "sources": {
+      "streams": [
+        "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1Z09wt5wx76BFs",
+    "name": "QPVN",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/QPTV/index.m3u8",
+      "https://qpvn.vn/live/qpvn/master.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8vEUzLSiPnJXOB",
+    "name": "Quang Lập Official",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/1STEqf1GSbg"
+    ],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jkQYdQSyLonKfX",
+    "name": "SCTV1",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV1/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bO53QaWUMkNQTa",
+    "name": "SCTV2",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV2/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wkFlSgnzUPYh8q",
+    "name": "SCTV4",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/SCTV4/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6q44PzDBw9qbXM",
+    "name": "SCTV10",
+    "stream_urls": [
+      "https://liveh34.vtvprime.vn/hls/SCTV10/03.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8vEUzLSiPnJXOB",
+    "name": "Quang Lập Official",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/PsjrqBbpEfM"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bO53QaWUMkNQTa",
+    "name": "SCTV2",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv2/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9Bc1NWY7WKYsr6",
+    "name": "SCTV3",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/bsod999cuteptgyoutuber/1234567890/manifest/sctv3/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wkFlSgnzUPYh8q",
+    "name": "SCTV4",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv4/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8kdpWxJQ1i1LcH",
+    "name": "SCTV6",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv6/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "WDpo6d5ejxs4be",
+    "name": "SCTV7",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv7/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jQi7fnVzAGbIPK",
+    "name": "SCTV9",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv9/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5b9jEODV2ZV6m3",
+    "name": "SCTV11",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv11/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qzOpOHIQbhaaz4",
+    "name": "SCTV12",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv12/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "elaBk5LcJ5tYh4",
+    "name": "SCTV13",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv13/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PtNGgQnZDXvlcI",
+    "name": "SCTV14",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv14/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wo8fpFkweOsxrT",
+    "name": "SCTV16",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv16/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "M05odDNtYgQQJN",
+    "name": "SCTV18",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv18/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ehPjIuRierqOaC",
+    "name": "SCTV19",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv19/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X4tYDhUYfh2xFy",
+    "name": "SCTV20",
+    "sources": {
+      "streams": [
+        "https://vtvgolive-sctvdrm.vtvdigital.vn/manifest/sctv20/master.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "78sapvlwKrQ0tt",
+    "name": "Tay Ninh TV",
+    "sources": {
+      "streams": [
+        "https://live-hq.evgcdn.net/live/2851dc2c9af68834814a89e61db0faee561/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "P3wFK2is4nhE2c",
+    "name": "Tea TV",
+    "sources": {
+      "streams": [
+        "https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "pr9APH9dYjEJHa",
+    "name": "Thai Nguyen TV",
+    "sources": {
+      "streams": [
+        "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3ssQc7PdBXGpNU",
+    "name": "Tien Giang TV",
+    "sources": {
+      "streams": [
+        "https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4VBfGEAGOsSdAE",
+    "name": "Tra Vinh TV",
+    "sources": {
+      "streams": [
+        "https://freem3u.xyz/api/live/play.m3u8?vid=91"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OHw1zTMDs2YTrv",
+    "name": "TVB Vietnam",
+    "sources": {
+      "streams": [
+        "https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbvietnam-tvbanywhereus/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gh2TkRWTUyBId2",
+    "name": "Uniquely Thai",
+    "sources": {
+      "streams": [
+        "https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ixbj5BMW5hNHQj",
+    "name": "Vietnam Today",
+    "stream_urls": [
+      "https://amagi-live.ondemandkorea.com/amgplt0456.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HMQVG3VqYbd8Od",
+    "name": "VTV5 Tay Nam Bo",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/VTV5_TNB/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jANbKtRbxTMsEi",
+    "name": "VTV5 Tay Nguyen",
+    "stream_urls": [
+      "https://liveh12.vtvprime.vn/hls/VTV5_TN/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "vie"
+    ],
+    "country": "vn",
+    "isGeoBlocked": true
+  }
+]

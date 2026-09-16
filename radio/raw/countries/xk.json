@@ -1,0 +1,73 @@
+[
+  {
+    "nanoid": "0V285cGFPzBhjV",
+    "name": "Glam Radio",
+    "sources": {
+      "streams": [
+        "https://stream.glamradio.fm:8443/glamradio"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ]
+  },
+  {
+    "nanoid": "aAQL4XYSeu4e9D",
+    "name": "Klan Kosova FM",
+    "sources": {
+      "streams": [
+        "https://s4.radio.co/sd1d1904dc/listen"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ]
+  },
+  {
+    "nanoid": "iEe89K7Z4IEza1",
+    "name": "Kolektiv Radio",
+    "sources": {
+      "streams": [
+        "https://studio28.radiolize.com/radio/8100/radio.mp3"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ]
+  },
+  {
+    "nanoid": "iEe89K7Z4IEza1",
+    "name": "Kolektiv Radio",
+    "sources": {
+      "streams": [
+        "https://studio28.radiolize.com/radio/8100/radio.mp3"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ],
+    "country": "xk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xq8tT7iJh1z5kK",
+    "name": "Radio Plus 102.2 FM",
+    "sources": {
+      "streams": [
+        "https://cast2.my-control-panel.com/proxy/radiopl1/stream"
+      ]
+    },
+    "languages": [
+      "sqi"
+    ]
+  },
+  {
+    "nanoid": "UR2pN7BQ8DBmnh",
+    "name": "Urban FM 103.5",
+    "stream_urls": [
+      "https://radio.itprishtina.com/urbanfm.ogg"
+    ],
+    "country": "xk",
+    "languages": []
+  }
+]

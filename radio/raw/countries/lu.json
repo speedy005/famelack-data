@@ -1,0 +1,223 @@
+[
+  {
+    "nanoid": "ChTt570JE1W9Mo",
+    "name": "Braintrip Radio",
+    "sources": {
+      "streams": [
+        "https://braintrip-radio.stream.laut.fm/braintrip-radio"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SZgoNLYKcXo5Ya",
+    "name": "Eldoradio 80s",
+    "sources": {
+      "streams": [
+        "https://shoutcast.rtl.lu/eldo80s"
+      ]
+    },
+    "languages": [
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "dTLMrnl4Oflg65",
+    "name": "Eldoradio 90s",
+    "sources": {
+      "streams": [
+        "https://shoutcast.rtl.lu/eldo90s"
+      ]
+    },
+    "languages": [
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "2rkIiEvIkNG9nB",
+    "name": "Eldoradio Alternative",
+    "sources": {
+      "streams": [
+        "https://sc.bce.lu/eldoalt",
+        "https://shoutcast.rtl.lu/eldoalt"
+      ]
+    },
+    "languages": [
+      "ltz",
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "FRghqIUdcac235",
+    "name": "Eldoradio Chill",
+    "stream_urls": [
+      "https://sc.bce.lu/eldochill",
+      "https://shoutcast.rtl.lu/eldochill"
+    ],
+    "country": "lu",
+    "languages": [
+      "ltz",
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "Yavk9EA2e0A3fo",
+    "name": "Eldoradio Top 25",
+    "sources": {
+      "streams": [
+        "https://shoutcast.rtl.lu/eldotop25"
+      ]
+    },
+    "languages": [
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "RDBwEMlrnXglqn",
+    "name": "FCE Continuo",
+    "sources": {
+      "streams": [
+        "https://www.radioking.com/play/fce-continuo"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "wkeFF48saoGDWb",
+    "name": "Free Radio Luxembourg",
+    "stream_urls": [
+      "https://www.radioking.com/play/rfm-luxembourg/137599",
+      "https://listen.radioking.com/radio/66160/stream/137599"
+    ],
+    "country": "lu",
+    "languages": [
+      "ltz",
+      "eng",
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "3alsjb8weIfHxD",
+    "name": "L'essentiel Radio",
+    "sources": {
+      "streams": [
+        "https://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra",
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "sdhVUFN8i2wqmd",
+    "name": "Luxembourg Global Radio",
+    "sources": {
+      "streams": [
+        "https://radio.globalradio.lu:8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "lu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tTgontwEamSflU",
+    "name": "Radio 100,7",
+    "stream_urls": [
+      "https://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+      "https://stream.100komma7.lu/100komma7/live/aac/48/stream.aac",
+      "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+      "https://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3"
+    ],
+    "country": "lu",
+    "languages": [
+      "ltz",
+      "eng",
+      "lub",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "3jSf1TQY6kUiMJ",
+    "name": "Radio Gutt Laun",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/sa631ff66a/listen"
+      ]
+    },
+    "languages": [
+      "ltz",
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "Nly9jpOHuGK1QV",
+    "name": "Radio Radijacija",
+    "sources": {
+      "streams": [
+        "https://a12.asurahosting.com/listen/radio_radijacija/radio.mp3"
+      ]
+    },
+    "languages": [
+      "srp",
+      "ltz"
+    ]
+  },
+  {
+    "nanoid": "Kj8QBqVs1saK9k",
+    "name": "RTL Gold",
+    "stream_urls": [
+      "https://shoutcast.rtl.lu/rtlgold"
+    ],
+    "country": "lu",
+    "languages": [
+      "ltz",
+      "lub"
+    ]
+  },
+  {
+    "nanoid": "AgREmnfsVMxwtb",
+    "name": "RTL Radio",
+    "sources": {
+      "streams": [
+        "https://rtlberlin.streamabc.net/rtlb-rtldenational-mp3-192-3082173",
+        "https://stream.rtlradio.de/rtl-de-national/mp3-192",
+        "https://rtlberlin.streamabc.net/rtlb-rtldeukw-mp3-128-2318218"
+      ]
+    },
+    "languages": [
+      "lub",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "5KPGoW1QFE9Zap",
+    "name": "RTL Radio - Die besten Hits",
+    "stream_urls": [
+      "https://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
+      "https://stream.rtlradio.de/rtl-de-beste-hits/mp3-192"
+    ],
+    "country": "lu",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "KXl0CPP90yBNcj",
+    "name": "RTL Schlagerliebe",
+    "stream_urls": [
+      "https://stream.rtlradio.de/schlagerliebe/mp3-192/"
+    ],
+    "country": "lu",
+    "languages": [
+      "deu"
+    ]
+  }
+]

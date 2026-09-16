@@ -1,0 +1,44 @@
+[
+  {
+    "nanoid": "22GUfDaUhwRUJ1",
+    "name": "Netlink TV",
+    "sources": {
+      "streams": [
+        "https://ip.pdtvhd.com/Khmer/streams/ITVHD.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5YmRoWRCWgVS14",
+    "name": "TVK",
+    "sources": {
+      "streams": [
+        "https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "m3PpQXO8kJ3GQC",
+    "name": "TVK 2",
+    "sources": {
+      "streams": [
+        "https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "khm"
+    ],
+    "country": "kh",
+    "isGeoBlocked": false
+  }
+]

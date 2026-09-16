@@ -1,0 +1,759 @@
+[
+  {
+    "nanoid": "tb6DGIV65PpwDR",
+    "name": "Arhea.ORG",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/na6nbx6qqwzuv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cWqmvzq7FKZFGV",
+    "name": "Avto Radio",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
+      "https://25483.live.streamtheworld.com/AVTORADIOAAC_L.aac"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "nP1LC8f2s4j9DC",
+    "name": "BadRock Classic Rock",
+    "sources": {
+      "streams": [
+        "https://play-radio0.jump.bg:7489/live"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "4kB79Kz58QgfaS",
+    "name": "BadRock Hard & Heavy",
+    "sources": {
+      "streams": [
+        "https://play-radio0.jump.bg:7049/live"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "qWRAH2QtX5fAi0",
+    "name": "BG Estrada",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/BG_ESTRADAAAC_L.aac",
+      "https://play.global.audio/bgestrada"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "aQwDll6Pcsd3Wq",
+    "name": "BG Radio",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/bgradio128"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JF2oEnDaeez7yX",
+    "name": "BNR Horizont",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/testb.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "W0gydnfqFjv7Wx",
+    "name": "bTV Radio",
+    "sources": {
+      "streams": [
+        "https://cdn.bweb.bg/radio/btv-radio.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "ABMqKnHpXfYxf2",
+    "name": "Bulgaria On Air",
+    "sources": {
+      "streams": [
+        "https://live.radio.bgonair.bg/RadioBOA"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "CCm2N33NwHubQU",
+    "name": "Cherveniat Papagal",
+    "sources": {
+      "streams": [
+        "https://stream-64.zeno.fm/80qzq207rm0uv"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "AEATu5hUEEe4GR",
+    "name": "Classic FM",
+    "sources": {
+      "streams": [
+        "https://cdn.bweb.bg/radio/classic-fm.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "e4sOTrrPaZCnwI",
+    "name": "DanPen Radio",
+    "sources": {
+      "streams": [
+        "https://server.danpenradio.net/listen/danpen_radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "alW7aYJsdzHpOm",
+    "name": "Darik Radio",
+    "sources": {
+      "streams": [
+        "https://a12.asurahosting.com/listen/darik_radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "vlQ6yzGrTWz8lS",
+    "name": "Dark Wave Radomir",
+    "sources": {
+      "streams": [
+        "https://dwrstream.eu/"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "kwPEYICd9g5jGZ",
+    "name": "Deep Lounge",
+    "sources": {
+      "streams": [
+        "https://radio.jump.bg/proxy/georgi18/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "JdcQNQDrKwANpl",
+    "name": "Deluxe Radio",
+    "sources": {
+      "streams": [
+        "https://play.radiomaxxfm.com/deluxe-high"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "oNvuG4dOX2AEDl",
+    "name": "Easy Radio",
+    "sources": {
+      "streams": [
+        "https://live.easyradio.bg/aac",
+        "https://c30.radioboss.fm:8758/live",
+        "https://live.easyradio.bg/192"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g6nT7YsjhxA7Xu",
+    "name": "Extreme Deep House Radio",
+    "sources": {
+      "streams": [
+        "https://whsh4u-panel.com/proxy/yfryujzw/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jBPnJQnd5HxKB6",
+    "name": "Fred Film Radio",
+    "sources": {
+      "streams": [
+        "https://s10.webradio-hosting.com/proxy/fredradiobg/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "hYftkzjTCllNaW",
+    "name": "Hot Hits FM",
+    "sources": {
+      "streams": [
+        "https://live.hothitsfm.com/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "kjwCWReRo3Y0Lf",
+    "name": "House Music Radio",
+    "sources": {
+      "streams": [
+        "https://home.radionrg.com/hls/housemusic/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BxQPbqQWcdRRNx",
+    "name": "Jazz FM",
+    "sources": {
+      "streams": [
+        "https://cdn.bweb.bg/radio/jazz-fm.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "UM0tmXHSLfE1OQ",
+    "name": "Kolednoto Radio",
+    "stream_urls": [
+      "https://play.global.audio/radio1-koleda.aac",
+      "https://play.global.audio/radio1-koledahi.aac"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "B0DtY21JahvzRw",
+    "name": "Maxx FM",
+    "sources": {
+      "streams": [
+        "https://play.radiomaxxfm.com/maxx-high"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "V56ne7MtrEjCZz",
+    "name": "Note FM",
+    "sources": {
+      "streams": [
+        "https://sc.mpbnl.nl/notefm.mp3"
+      ]
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lJznRqjo71vyhW",
+    "name": "Note Party",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ux3k5mabt18uv"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "mBAWfjKOkPr1IC",
+    "name": "Nova News",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/novanews.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "9miq92ItxGkFNI",
+    "name": "Online DJ Radio",
+    "sources": {
+      "streams": [
+        "https://play.onlinedjradio.com:7000/live"
+      ]
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FTqNwLrMJurVqD",
+    "name": "Radio 1",
+    "sources": {
+      "streams": [
+        "https://play.global.audio:80/radio164"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "wwt6PPQXGXrYUg",
+    "name": "Radio 1 Rock",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/radio1rockhi.aac"
+      ]
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XuemyzBPqtFAzw",
+    "name": "Radio City",
+    "stream_urls": [
+      "https://play.global.audio/cityhi.aac",
+      "https://play.global.audio/city.opus",
+      "https://play.global.audio/city64",
+      "https://play.global.audio/city_low.ogg"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tW6YxUhozIrnUU",
+    "name": "Radio City HipHop R&B",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/cityrabhi.aac",
+        "https://play.global.audio/cityrab.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "ox3Kz9bC9yGEZO",
+    "name": "Radio City Latin",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/citylatinhi.aac",
+        "https://play.global.audio/citylatin.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "2YyW6nOnFdHpai",
+    "name": "Radio Contact",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/490082/stream/546899"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "BXPevbRn1o1L4k",
+    "name": "Radio El Shada",
+    "sources": {
+      "streams": [
+        "https://stream-40.zeno.fm/hku46gxdexquv"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "zRe2CRkOAnfhEd",
+    "name": "Radio Energy",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/nrj128"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "QVBXdmZ17SWQKk",
+    "name": "Radio Energy 00s",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/energy-00s.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "wzBXCwDjoT6ezy",
+    "name": "Radio Energy 90s",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/energy-90s"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "JSMcmrzwyEP2J4",
+    "name": "Radio Focus",
+    "sources": {
+      "streams": [
+        "https://focusradio.dataserv.cc/1"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "U8bc6SJlIY4Ap0",
+    "name": "Radio Folk Mix",
+    "sources": {
+      "streams": [
+        "https://listen.radiofolkmix.com/folkmixios"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "1iTtHKPbgenRZp",
+    "name": "Radio Jugomania",
+    "sources": {
+      "streams": [
+        "https://s8.yesstreaming.net:17051/autodj"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "9AXndTglfqf8KF",
+    "name": "Radio Muzaica",
+    "sources": {
+      "streams": [
+        "https://radio.muzaica.fm:9000/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "3HAol1V3rcqJJU",
+    "name": "Radio N-Joy",
+    "sources": {
+      "streams": [
+        "https://cdn.bweb.bg/radio/njoy.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "L7SGINLEcqh7pq",
+    "name": "Radio Nostalgia",
+    "sources": {
+      "streams": [
+        "https://sc.mpbnl.nl/radionostalgia.mp3"
+      ]
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "EW24RCc6T52Q1S",
+    "name": "Radio Nova",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/nova.opus"
+      ]
+    },
+    "languages": [
+      "bul",
+      "eng"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yGUYWiGSYSjQvZ",
+    "name": "Radio NRG",
+    "sources": {
+      "streams": [
+        "https://home.radionrg.com/hls/live/live.m3u8"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lBuvdTg4moXk6E",
+    "name": "Radio Party Mix",
+    "sources": {
+      "streams": [
+        "https://cast6.asurahosting.com/proxy/iliyan12/stream.mp3"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "2wfXDpWpdNmtOm",
+    "name": "Radio Ruse",
+    "sources": {
+      "streams": [
+        "https://radio.ruse.bg:8010/radioruse"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "7tj4g68xOX7Zwt",
+    "name": "Radio Strimonika",
+    "sources": {
+      "streams": [
+        "https://play-radio0.jump.bg:7666/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "9mw1Y8GazIc747",
+    "name": "Radio Sunny Beach",
+    "sources": {
+      "streams": [
+        "https://sunny-beachradio.stream.laut.fm/sunny-beachradio"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "7esfZ8QICof4SP",
+    "name": "Radio Veronika",
+    "stream_urls": [
+      "https://play.global.audio/veronika64",
+      "https://play.global.audio/veronikahi.aac"
+    ],
+    "country": "bg",
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "IUo6SWTFq5pjLB",
+    "name": "Radio Zig Zag",
+    "sources": {
+      "streams": [
+        "https://radyo.yayin.com.tr:4474/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "P2TEKlb3X5xZtU",
+    "name": "Radio Zorana",
+    "sources": {
+      "streams": [
+        "https://radio.jump.bg/proxy/radio12/stream"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "mdFAWjEeiQrAIB",
+    "name": "Radioplay Cafe",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/cafehi.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "G2cfWg9qfG29fT",
+    "name": "Sweet Radio",
+    "sources": {
+      "streams": [
+        "https://stream.sweetradio.online:8001/HD"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "qeOWLCLtuiVymu",
+    "name": "Vanilla",
+    "sources": {
+      "streams": [
+        "https://play.global.audio/vanillahi.aac"
+      ]
+    },
+    "languages": [
+      "bul"
+    ]
+  },
+  {
+    "nanoid": "IBkJmkoD02mSWa",
+    "name": "Victoria Radio",
+    "sources": {
+      "streams": [
+        "https://play.radiomaxxfm.com/victoriafm"
+      ]
+    },
+    "languages": [
+      "bul"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RriXBboWOWYl1x",
+    "name": "XRaydio 1",
+    "sources": {
+      "streams": [
+        "https://xraydio.ddns.net/live"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "G0iSLZXe73wkwA",
+    "name": "XRaydio 2",
+    "stream_urls": [
+      "https://xraydio.ddns.net/jukebox"
+    ],
+    "country": "bg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "G0iSLZXe73wkwA",
+    "name": "XRaydio 2",
+    "sources": {
+      "streams": [
+        "https://xraydio.ddns.net/jukebox"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2Nw63XxCYk2tOt",
+    "name": "XRaydio 3",
+    "sources": {
+      "streams": [
+        "https://xraydio.ddns.net/xraydio3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "nanoid": "5yMVPwG5ShJ2pT",
+    "name": "Afrik Info",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/mmd6ku3pn8vvv"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "VX7dZsc0dkSGQI",
+    "name": "Madaliou Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/sq92r3bd6qruv"
+    ],
+    "country": "gn",
+    "languages": [
+      "fra"
+    ]
+  }
+]

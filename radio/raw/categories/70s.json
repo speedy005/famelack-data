@@ -1,0 +1,2613 @@
+[
+  {
+    "nanoid": "lrCBP3isU3rbcL",
+    "name": "#1 HITS 70s",
+    "sources": {
+      "streams": [
+        "https://1-hits70s.stream.laut.fm/1-hits70s"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "do9wno3VkaSueZ",
+    "name": "0nlineradio 70er",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/70s"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "YyJnaLl2wx82Za",
+    "name": "0nlineradio Greatest Hits",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/greatest-hits"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "jKB1lKG7Ht1Zlj",
+    "name": "0nlineradio Schlager Oldies",
+    "sources": {
+      "streams": [
+        "https://stream.0nlineradio.com/schlager-oldies"
+      ]
+    },
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FyWV3MC24ttUQC",
+    "name": "1.FM - Absolute 70's Pop",
+    "sources": {
+      "streams": [
+        "https://strm112.1.fm/70s_mobile_mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ZnHeLCdOXOzhu6",
+    "name": "1.FM - Disco Ball 70's-80's",
+    "sources": {
+      "streams": [
+        "https://strm112.1.fm/disco_mobile_mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "U6eEXSflw97Vsm",
+    "name": "1000 70er",
+    "stream_urls": [
+      "https://100070er.stream.laut.fm/100070er"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "V72ka0VbzaAvhg",
+    "name": "1000 Goldies",
+    "stream_urls": [
+      "https://1000goldies.stream.laut.fm/1000goldies"
+    ],
+    "country": "de",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NPK4vicG43AAJO",
+    "name": "104.6 RTL 60er & 70er",
+    "stream_urls": [
+      "https://stream.104.6rtl.com/rtl-60er70er/mp3-128/radio-browser.info/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8CX4CkD7RNZLYH",
+    "name": "192 Radio",
+    "stream_urls": [
+      "https://server-27.stream-server.nl:8192/stream"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "iwnbX1OqGRDgl3",
+    "name": "1A 70er Hits",
+    "sources": {
+      "streams": [
+        "https://stream.1a-webradio.de/saw-70er/mp3-128/radio-browser-1A/stream.mp3",
+        "https://stream.1a-webradio.de/saw-70er/aac-48/radiosure-1a/stream.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "cIb15MU1Omi8rj",
+    "name": "1A Radio - 70er",
+    "sources": {
+      "streams": [
+        "https://1a-70er.radionetz.de/1a-70er.aac"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "pVujirhLXMHM1y",
+    "name": "1A Radio - Oldies",
+    "sources": {
+      "streams": [
+        "https://1a-oldies.radionetz.de/1a-oldies.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "r6RlpBJQjOPaYn",
+    "name": "4ever49 Radio",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "VjQUsERTqguE1T",
+    "name": "4EverRadio",
+    "sources": {
+      "streams": [
+        "https://ex52.voordeligstreamen.nl/8036/stream"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "9XXwh6QIXoJEpi",
+    "name": "5AU 1242 AM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AUG_5AUAAC.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AMECur0ucRkT8W",
+    "name": "70's Classics",
+    "sources": {
+      "streams": [
+        "https://kea.cdnstream.com/1897_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ub7H8x9OEPYyCt",
+    "name": "70's Hits",
+    "sources": {
+      "streams": [
+        "https://quincy.torontocast.com:2500/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0iaOWVaGJ4uOwh",
+    "name": "70s Classics",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/glsntnn7et8vv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "djjLwbD1HE6vWR",
+    "name": "70s Disco Nights",
+    "sources": {
+      "streams": [
+        "https://panel.retrolandigital.com/listen/70s_disco_nights/listen"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "7AG6teS6BcnVdN",
+    "name": "94su FM 94.1",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/94SUFM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Fll0WcqdRI59rt",
+    "name": "A-Z 70s",
+    "sources": {
+      "streams": [
+        "https://ip45.ip-164-132-158.eu/radio/8020/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "O6ratG6NiWUOMG",
+    "name": "America's Greatest 70s Hits",
+    "sources": {
+      "streams": [
+        "https://hydra.cdnstream.com/1823_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "FGSLg6FI0RwaBi",
+    "name": "AMV Oldies and Evergreens",
+    "stream_urls": [
+      "https://streams.antennemv.de/oldies/mp3-192",
+      "https://streams.antennemv.de/oldies/mp3-128/streams.antennemv.de/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "XkSWNzmzzfqaqK",
+    "name": "Antenne Bayern - 70er Hits",
+    "stream_urls": [
+      "https://stream.antenne.de/70er-hits/stream/aacp",
+      "https://s3-webradio.antenne.de/70er-hits/stream/aacp"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ngKQSdoglwwHnK",
+    "name": "Antenne Niedersachsen - Oldies",
+    "stream_urls": [
+      "https://antnds.streamabc.net/ands-antndsoldies-mp3-192-4005366",
+      "https://stream.antenne.com/oldies/mp3-192/linux/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "TxzSeLYZ6cS25I",
+    "name": "antenne SACHSEN",
+    "stream_urls": [
+      "https://hermes.bcs-systems.de/antenne-sachsen_192k_mp3",
+      "https://edge69.radio.antennesachsen.de/antsa-dresden",
+      "https://edge13.radio.antennesachsen.de/antsa-dresden"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "HrcQAGJw443zNG",
+    "name": "antenne SACHSEN - Leipzig",
+    "sources": {
+      "streams": [
+        "https://edge01.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
+        "https://edge84.radio.antennesachsen.de/antsa-leipzig/stream/mp3",
+        "https://web.radio.antennesachsen.de/antsa-leipzig/stream/mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "oH3zjzsLMFYaOI",
+    "name": "Antenne Vorarlberg 70er Hits",
+    "sources": {
+      "streams": [
+        "https://web.radio.antennevorarlberg.at/av-70er"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "jKuBthLREVpJJV",
+    "name": "Arabella Bayern",
+    "stream_urls": [
+      "https://live.stream.radioarabella.de/radioarabella-bayern",
+      "https://live.stream.radioarabella.de/radioarabella-bayern/stream/mp3"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "2LSy7mIH0kki3Z",
+    "name": "Babboleo Suono",
+    "stream_urls": [
+      "https://stream.rcs.revma.com/sv2hu8qqv6bwv"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "2LSy7mIH0kki3Z",
+    "name": "Babboleo Suono",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/sv2hu8qqv6bwv"
+      ]
+    },
+    "languages": [
+      "ita"
+    ],
+    "country": "it",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xSww0qkqZpeYuC",
+    "name": "Bailiwick Radio Classics",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/s20224a067/listen"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yOJZB72Y4J8WsB",
+    "name": "BFBS Rewind",
+    "sources": {
+      "streams": [
+        "https://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs21.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DK8J46gvyuDbyW",
+    "name": "Big R Radio - 70s FM",
+    "sources": {
+      "streams": [
+        "https://bigrradio-edge1.cdnstream.com/5182_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MwpaUMzklfScdv",
+    "name": "Bob Bittner's Memory Station",
+    "sources": {
+      "streams": [
+        "https://bms.x1023.fm/BMS"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "L2et8t0D9kVwmh",
+    "name": "boom 97.3",
+    "sources": {
+      "streams": [
+        "https://newcap.leanstream.co/CHBMFM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "MQcsF3QK2LMXyy",
+    "name": "Boomerang 1970s",
+    "sources": {
+      "streams": [
+        "https://drive.uber.radio/uber/boomerang1970s/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5dfRDP265JQBMF",
+    "name": "Boss Boss Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/b26873_128mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lTmaxXd54jVbt7",
+    "name": "Choice Classic Rock",
+    "sources": {
+      "streams": [
+        "https://streamer.radio.co/s66f2626b4/listen"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S5uo6zrNPMYbi9",
+    "name": "Classic 21 70s",
+    "sources": {
+      "streams": [
+        "https://radios.rtbf.be/wr-c21-70-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "unAjjDeMj3p6aP",
+    "name": "Classic FM",
+    "stream_urls": [
+      "https://webradio.classicfm.dk/classichorsens",
+      "https://netradio.classicfm.dk/cla8d"
+    ],
+    "country": "dk",
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "7nCUH4oHoHfghk",
+    "name": "Classic FM Fyn",
+    "sources": {
+      "streams": [
+        "https://netradio.classicfm.dk/cla12a"
+      ]
+    },
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "jIMAQoJBYxVTzB",
+    "name": "Classic Hits Forest Radio",
+    "sources": {
+      "streams": [
+        "https://c2.prostream365.com:8000/live"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AiCotrWQjYDUfL",
+    "name": "Classic Hits Radio",
+    "sources": {
+      "streams": [
+        "https://radiopanther.radiolebowski.com/play",
+        "https://classichitsradio.streamingmedia.it/usa"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AHs55tojpZQ4ik",
+    "name": "Cleansing 70's",
+    "sources": {
+      "streams": [
+        "https://hemnos.cdnstream.com/1466_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oH36bsTWvNclsc",
+    "name": "Coast 2 Coast Radio Australia",
+    "sources": {
+      "streams": [
+        "https://stream.c2cra.online/live"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QvEWWKnJAiJDGC",
+    "name": "Coast FM 96.3",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCCAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2CCC.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eWOFThdfCsogoj",
+    "name": "Deutscher Soldatensender von 1970",
+    "stream_urls": [
+      "https://deutschersoldatensendervon1970.stream.laut.fm/deutscher_soldatensender_von_1970",
+      "https://deutscher_soldatensender_von_1970.stream.laut.fm/deutscher_soldatensender_von_1970"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "BYHpJY908Fiias",
+    "name": "Dinamo.fm Discotheque",
+    "sources": {
+      "streams": [
+        "https://channels.dinamo.fm/discotheque-mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tur"
+    ]
+  },
+  {
+    "nanoid": "mCtoeG1ItLZIQ4",
+    "name": "Easy 70s",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/uber/easy70/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "g37cV8zznPkDTv",
+    "name": "Estéreo Clásica",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/s0c06b7076/listen"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ufKwNgtuYstJNZ",
+    "name": "Ethio Oldies",
+    "sources": {
+      "streams": [
+        "https://www.ethioldies.com/listen/ethioldies/radio.mp3"
+      ]
+    },
+    "languages": [
+      "amh"
+    ]
+  },
+  {
+    "nanoid": "rCo884u4PqHiBc",
+    "name": "Exclusively Led Zeppelin",
+    "sources": {
+      "streams": [
+        "https://streaming.exclusive.radio/er-app/ledzeppelin/icecast.audio",
+        "https://streaming.exclusive.radio/er/ledzeppelin/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iT33W6WhusjvJY",
+    "name": "Flashbass.FM",
+    "stream_urls": [
+      "https://flashbass-fm.stream.laut.fm/flashbass-fm",
+      "https://server18.streamserver24.com/listen/flashbass/stream"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "98pFd5UmqcmmEH",
+    "name": "FluxFM 70s",
+    "stream_urls": [
+      "https://streams.fluxfm.de/70er/aac-64/audio/",
+      "https://streams.fluxfm.de/70er/mp3-128/audio/",
+      "https://streams.fluxfm.de/70er/mp3-320/audio/",
+      "https://fluxfm.streamabc.net/flx-70er-mp3-320-4383769",
+      "https://streams.fluxfm.de/70er/mp3-320/audio",
+      "https://fluxfm.streamabc.net/flx-70er-mp3-128-3928273"
+    ],
+    "country": "de",
+    "languages": [
+      "deu",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "oYOHwEl1lCut6H",
+    "name": "Focus 103",
+    "sources": {
+      "streams": [
+        "https://f103.nl/mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "A4E2hhbul7nqyy",
+    "name": "Funk U Radio",
+    "sources": {
+      "streams": [
+        "https://furfmcou.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hNuJUdNwWZxvWV",
+    "name": "Funky Radio",
+    "stream_urls": [
+      "https://discofunk.streamingmedia.it/play",
+      "https://my.streamingmedia.it:8020/play",
+      "https://my.streamingmedia.it/listen/discofunk/play"
+    ],
+    "country": "it",
+    "languages": [
+      "ita",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tx2I85g6njL8Us",
+    "name": "Funky Radio",
+    "sources": {
+      "streams": [
+        "https://funkyradio.streamingmedia.it/play.mp3",
+        "https://discofunk.streamingmedia.it/usa",
+        "https://funkyradio.streamingmedia.it/audio.aac"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "vGC1nFhHhG4sii",
+    "name": "Genesis Radio Birmingham",
+    "sources": {
+      "streams": [
+        "https://cast5.my-control-panel.com/proxy/grb/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "QlI2yzPEihO2zy",
+    "name": "Gold Web Radio",
+    "sources": {
+      "streams": [
+        "https://centova.svdns.com.br:19418/stream",
+        "https://centova.svdns.com.br:19418/stream1",
+        "https://centova.svdns.com.br:19418/stream2"
+      ]
+    },
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "f3UN7M7ivHZGtM",
+    "name": "Golden Decades Radio",
+    "stream_urls": [
+      "https://streaming.live365.com/a99471"
+    ],
+    "country": "uk",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "g5EkI0JGbS4fDi",
+    "name": "Guldkanalen 70-tal",
+    "sources": {
+      "streams": [
+        "https://stream.dbmedia.se/gk70talMP3"
+      ]
+    },
+    "languages": [
+      "swe"
+    ]
+  },
+  {
+    "nanoid": "Nk1saDS34yjQwi",
+    "name": "harmony.fm +70er",
+    "stream_urls": [
+      "https://mp3.harmonyfm.de/hrmplus/hq70er.aac"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "7RJDWYBi91hsqB",
+    "name": "HearMe - 70s Rock",
+    "sources": {
+      "streams": [
+        "https://radio.hearme.fm:8240/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "mylDOkpUVDugDd",
+    "name": "Heart 70s",
+    "sources": {
+      "streams": [
+        "https://media-ssl.musicradio.com/Heart70sMP3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "61vvp92QUYkLq3",
+    "name": "Hit Radio",
+    "sources": {
+      "streams": [
+        "https://live-nors.sharp-stream.com/nors2.mp3"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rOKodiCznp7q6U",
+    "name": "Hitparadio",
+    "sources": {
+      "streams": [
+        "https://hitparadio.stream.laut.fm/hitparadio"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "R02tu38Hj5aUJW",
+    "name": "Hits 70s 80s Radio",
+    "sources": {
+      "streams": [
+        "https://azuracast.streams.gr/listen/oldieswebradio/hits70s80sradio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "JRV3d8NwjgxaaA",
+    "name": "HitsRadio 977 - 70s Rock",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/977_CLASSROCK.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "38RFpcANcm5cQQ",
+    "name": "Hot Gold",
+    "sources": {
+      "streams": [
+        "https://stream1.hippynet.co.uk/stream/hotgold/dorset"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4pUpfhhGimf7WX",
+    "name": "J1 GOLD",
+    "sources": {
+      "streams": [
+        "https://jenny.torontocast.com:2000/stream/J1GOLD"
+      ]
+    },
+    "languages": [
+      "jpn",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Kh00eisEVuGd8Q",
+    "name": "Joe",
+    "stream_urls": [
+      "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+      "https://stream.joe.nl/joe/aachigh",
+      "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+      "https://stream.joe.nl/joe/mp3"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "LzAQQ0duVvgFRV",
+    "name": "Jukebox",
+    "sources": {
+      "streams": [
+        "https://jukebox.stream.laut.fm/jukebox"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "RSZHP03AyPABwd",
+    "name": "K-LOVE 70s",
+    "sources": {
+      "streams": [
+        "https://maestro.emfcdn.com/stream_for/k-love-70s/airable/aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Zk0qBnG86KG8NF",
+    "name": "Kiss FM 97.7",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/k7sx1n90g3quv",
+        "https://stream.zenolive.com/1sgzkhhm8ueuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mJkKdtg5BM42X0",
+    "name": "KONA Stream",
+    "sources": {
+      "streams": [
+        "https://jenny.torontocast.com:9002/stereo"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3EcSYrPGKlCTZj",
+    "name": "KRR 98.7 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRR.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/2KRRAAC.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pHZGpdYLPmtK4s",
+    "name": "KX Classics",
+    "sources": {
+      "streams": [
+        "https://mcp-1.streampanel.nl:8020/kxclassics_mp3"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "F8uzRwIrKgQcZ6",
+    "name": "La Ciudad de los Clásicos",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ppyvnq28368uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cRrPEY9HlEzWjZ",
+    "name": "Las Imprescindibles",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR18_s01AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TbrJ2YdFX016sQ",
+    "name": "Las Llegadoras",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR19_s01AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6ZKQikiLJ4zbXx",
+    "name": "Let It Beat",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR27_s01AAC.aac"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "o5ftooaEOzycsP",
+    "name": "LITT Live Yacht Rock",
+    "sources": {
+      "streams": [
+        "https://das-sa39.cdnstream1.com/5605_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "pZWmL6D5QZ4acj",
+    "name": "Love Radio",
+    "sources": {
+      "streams": [
+        "https://loveradio.streamingmedia.it/play",
+        "https://loveradio.streamingmedia.it/usa",
+        "https://ais-sa1.streamon.fm/7009_48k.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3jBpG8ktBE8HhE",
+    "name": "Líder 104.7 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/89mx0qh1trhvv"
+    ],
+    "country": "ve",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vMATc1w53Mfqev",
+    "name": "M Radio Culte 60/70",
+    "sources": {
+      "streams": [
+        "https://mfmwr-022.ice.infomaniak.ch/mfmwr-022.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "3H7giXQRsbzWOE",
+    "name": "M80 70's",
+    "sources": {
+      "streams": [
+        "https://stream-icy.bauermedia.pt/m8070.aac"
+      ]
+    },
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "YjjJKaJj3QozT5",
+    "name": "Majestic Jukebox Radio",
+    "sources": {
+      "streams": [
+        "https://uk3.internet-radio.com/proxy/majesticjukebox/live"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XRWuKxBRkoCug7",
+    "name": "MAMBO Stream",
+    "sources": {
+      "streams": [
+        "https://air.doscast.com/proxy/narashee/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wj9QVydajxJdgA",
+    "name": "Mega FM 94.9",
+    "sources": {
+      "streams": [
+        "https://streamingcwsradio30.com/8262/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "LV5ns6tIF7vD18",
+    "name": "Metro Classic",
+    "sources": {
+      "streams": [
+        "https://live-nors.sharp-stream.com/nors3.mp3"
+      ]
+    },
+    "languages": [
+      "nor"
+    ],
+    "country": "no",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "esIqEhQSdupmHz",
+    "name": "Milestone Radio UK",
+    "sources": {
+      "streams": [
+        "https://cupcake.citrus3.com:8380/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "HljplQcXku5n1Q",
+    "name": "MineMusic - 70er Hits",
+    "sources": {
+      "streams": [
+        "https://70er-abc.stream.laut.fm/70er-abc"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SaseoCqzTVg59t",
+    "name": "Mix 106.5 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHGVAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XHDFMFMAAC.aac"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5lHa2y7XuDalDV",
+    "name": "Nation 70s",
+    "sources": {
+      "streams": [
+        "https://listen-nation.sharp-stream.com/nationradio70s.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9UAMeV2ng2iG8L",
+    "name": "NBC Milano 70-80 Hits",
+    "sources": {
+      "streams": [
+        "https://nr8.newradio.it:19574/stream"
+      ]
+    },
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "eZOyKV5vMI10rQ",
+    "name": "Nostalgie",
+    "stream_urls": [
+      "https://frontend.streamonkey.net/nostalgie-live/stream/mp3",
+      "https://nrj.de/nostalgielivestream",
+      "https://edge83.streamonkey.net/nostalgie-live"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "2IcKZPwY4EJcCl",
+    "name": "Nostalgie Best of 70",
+    "sources": {
+      "streams": [
+        "https://streaming.nrjaudio.fm/ouvtu2oarp52"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "i9DSR67su180eZ",
+    "name": "Nostalgie Rock 70",
+    "sources": {
+      "streams": [
+        "https://streaming.nrjaudio.fm/oug7nsrb92oc"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "vFmy7iPW4MiGUa",
+    "name": "Nostalgie+",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/s9mkgtsqtg0uv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "tT9ihSEfxcRXD8",
+    "name": "NSR - Das Stadt-Radio",
+    "sources": {
+      "streams": [
+        "https://nsr-das-stadtradio.stream.laut.fm/nsr-das-stadtradio"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ICywLgEnBpykqQ",
+    "name": "oe24 Radio - Best of 60s and 70s",
+    "sources": {
+      "streams": [
+        "https://edge65.streamonkey.net/oe24-6070er"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hXXucjqWVy5Act",
+    "name": "Oldie Antenne",
+    "sources": {
+      "streams": [
+        "https://s1-webradio.oldie-antenne.de/oldie-antenne",
+        "https://s6-webradio.antenne.de/oldies-but-goldies",
+        "https://stream.oldie-antenne.de/oldie-antenne/stream/mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZOk3WwQaBOoQbD",
+    "name": "Oldies 104",
+    "sources": {
+      "streams": [
+        "https://das-edge27-sa23-lax02.cdnstream.com/1076_128",
+        "https://streaming.live365.com/b09584_128mp3",
+        "https://ais-edge65-lon01.cdnstream.com/1radio_oldies_128"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FfiucpYceTaIvM",
+    "name": "Oldiewelle Niederbayern",
+    "sources": {
+      "streams": [
+        "https://rs4.stream24.net/oldie-welle.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "47WZ8xZedCcK4w",
+    "name": "OldiVille",
+    "sources": {
+      "streams": [
+        "https://radio.wowzahosting.com/listen/my_oldies_station_today/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6KFr3pcjmTrP8V",
+    "name": "ON 70er",
+    "sources": {
+      "streams": [
+        "https://0n-70s.radionetz.de/0n-70s.aac"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "rdC91NV9WpPp8n",
+    "name": "ON Disco",
+    "sources": {
+      "streams": [
+        "https://0n-disco.radionetz.de/0n-disco.aac"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "gHqVHIJbotEwcy",
+    "name": "ON Evergreens",
+    "sources": {
+      "streams": [
+        "https://0n-evergreens.radionetz.de/0n-evergreens.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "TNcp5x3I40Bts1",
+    "name": "ON Oldies",
+    "sources": {
+      "streams": [
+        "https://0n-oldies.radionetz.de/0n-oldies.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "TNcp5x3I40Bts1",
+    "name": "ON Oldies",
+    "sources": {
+      "streams": [
+        "https://0n-oldies.radionetz.de/0n-oldies.mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Wi4K3RGn4p4zhw",
+    "name": "OnlyHit Gold",
+    "sources": {
+      "streams": [
+        "https://gold.onlyhit.us/play"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "yCfQPzHRqVCQv3",
+    "name": "OÜI FM Rock 70's",
+    "sources": {
+      "streams": [
+        "https://ouifmrock70s.ice.infomaniak.ch/ouifmseventies.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "DNOxJHiSJ1nJqo",
+    "name": "Positively 1970s",
+    "sources": {
+      "streams": [
+        "https://streaming.positivity.radio/pr/posi70s/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "hfAsV0T3eesrA8",
+    "name": "R.SA - 70er Oldies",
+    "sources": {
+      "streams": [
+        "https://rsa.streamabc.net/regc-rsasachsen70erold9456468-mp3-192-1215651?sABC=6n7snq76%230%236rpss038nqr8rq96q0145688375p5296%23fgernzf.efn-fnpufra.qr&aw_0_1st.playerid=streams.rsa-sachsen.de&amsparams=playerid:streams.rsa-sachsen.de;skey:1786752374",
+        "https://streams.rsa-sachsen.de/70er/mp3-192",
+        "https://streams.rsa-sachsen.de/70er/mp3-192/streams.rsa-sachsen.de"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1mxUOjbW1c38Dw",
+    "name": "Radio 10",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "RdFxc1GrX2szqf",
+    "name": "Radio 10 60s & 70s Hits",
+    "sources": {
+      "streams": [
+        "https://28973.live.streamtheworld.com/TLPSTR18_SC",
+        "https://29023.live.streamtheworld.com/TLPSTR18_SC",
+        "https://22603.live.streamtheworld.com/TLPSTR18_SC"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "PK238alkqP0Pnq",
+    "name": "Radio 2Day",
+    "stream_urls": [
+      "https://radio2day.ip-streaming.net/radio2day",
+      "https://radio2day.ip-streaming.net/radio2dayaacp"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "yp8HiH5XpJpaee",
+    "name": "Radio 5",
+    "stream_urls": [
+      "https://streamer.out.gr/8006/stream"
+    ],
+    "country": "gr",
+    "languages": [
+      "ell",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4iuY19gaNJRlJT",
+    "name": "Radio 65",
+    "sources": {
+      "streams": [
+        "https://stream-166.zeno.fm/sf0qn4ddftktv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KBNfjUx9xWCBYd",
+    "name": "Radio 70 80 90",
+    "stream_urls": [
+      "https://rblive.it:8170/radio.mp3",
+      "https://rblive80.it/radiobrand2/8354",
+      "https://rblive.it:8020/radio.mp3"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "W8QM3xbbPeZWBc",
+    "name": "RADIO BOB! 70er Rock",
+    "sources": {
+      "streams": [
+        "https://streams.radiobob.de/70errock/mp3-192/homepage",
+        "https://streams.radiobob.de/70errock/mp3-192/streams.radiobob.de",
+        "https://streams.radiobob.de/70errock/aac-64/streams.radiobob.de"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "tof6aUZkBP9Z0N",
+    "name": "Radio Contact",
+    "sources": {
+      "streams": [
+        "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-192.mp3",
+        "https://radiocontact.ice.infomaniak.ch/radiocontact-mp3-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "kIBkBMzyehSh52",
+    "name": "Radio Experience",
+    "stream_urls": [
+      "https://stream.radioexperience.nl/luisteren",
+      "https://totaal-streaming.de:8030/radio2"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "4VvlfAdnitQ1Y3",
+    "name": "Radio Felicidad 1180 AM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC.aac",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XEFRAMAAC_SC"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6LBqA5mDexdJRi",
+    "name": "Radio Felicidad Toluca",
+    "sources": {
+      "streams": [
+        "https://27283.live.streamtheworld.com/XEFRAM_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FqD5M1gci0lwbN",
+    "name": "radio ffn 607080",
+    "sources": {
+      "streams": [
+        "https://ffn-de-hz-fal-stream03-cluster01.radiohost.de/ffn-607080radio_mp3-192"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "SHJsuVktYUKqao",
+    "name": "radio ffn 708090",
+    "sources": {
+      "streams": [
+        "https://ffn-de-hz-fal-stream09-cluster01.radiohost.de/ffn-708090_mp3-192"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Gd9aEFjZ8MKVNd",
+    "name": "Radio Happy",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/sd9d980ff0/listen"
+      ]
+    },
+    "languages": [
+      "dan"
+    ]
+  },
+  {
+    "nanoid": "bfOqI8KRMUuuyS",
+    "name": "Radio Mi Amigo",
+    "sources": {
+      "streams": [
+        "https://stan319bisbis.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "nld",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8CFzymATdZFGbv",
+    "name": "Radio Mix Retro",
+    "sources": {
+      "streams": [
+        "https://streamingned.com:7084/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bdtg8vXLFXWwnz",
+    "name": "Radio Monique 963 Gold",
+    "stream_urls": [
+      "https://server-10.rcgoldserver.nl/listen/happy_oldies/radio320.mp3",
+      "https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc"
+    ],
+    "country": "nl",
+    "languages": [
+      "nld",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wOooD0L0zjk2RF",
+    "name": "Radio Moscatel 107.1 FM",
+    "sources": {
+      "streams": [
+        "https://axarquia.emisiononline.es/radio/8040/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rell4AnmADwmPv",
+    "name": "Radio Music Sambre",
+    "sources": {
+      "streams": [
+        "https://radiomusicsambre.ice.infomaniak.ch/radiomusicsambre-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "HNnkUI98XUKEYX",
+    "name": "Radio NORA - Oldies",
+    "stream_urls": [
+      "https://norawebstreams-stream23.radiohost.de/nora-oldies_mp3-192",
+      "https://streams.norawebstreams.de/nora-oldies/mp3-192/streams.norawebstreams.de/",
+      "https://norawebstreams-stream22.radiohost.de/nora-oldies_mp3-128",
+      "https://streams.norawebstreams.de/nora-oldies/mp3-128/homepage/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "8RRz8CU6Q8UiKG",
+    "name": "Radio Paradiso NRW",
+    "stream_urls": [
+      "https://streams.paradiso.de/Para-NRW/aac-64/Web/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VPArtoP3Qtw1Kj",
+    "name": "Radio Plus Gent",
+    "sources": {
+      "streams": [
+        "https://live.radiostudio.be/plus"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "XG4QxKJy54xlbe",
+    "name": "Radio Regenbogen - 70er Rock",
+    "sources": {
+      "streams": [
+        "https://streams.regenbogen.de/rr-70errock-128-aac"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ZfTKQQEKXllKG0",
+    "name": "Radio Regenbogen Oldies",
+    "sources": {
+      "streams": [
+        "https://stream.regenbogen.de/oldies/mp3-128/radiobrowser"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "IBDPXwpWRKtChB",
+    "name": "Radio Retro",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/07brb24epkhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oMieDrPLtA1VJY",
+    "name": "Radio Románticas Inolvidables",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6m1ba7yt3vduv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "o9EG5Ux7dJ3373",
+    "name": "radio SAW 70er",
+    "stream_urls": [
+      "https://stream.radiosaw.de/saw-70er/mp3-192/radio-browser/"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "o9EG5Ux7dJ3373",
+    "name": "radio SAW 70er",
+    "sources": {
+      "streams": [
+        "https://stream.radiosaw.de/saw-70er/mp3-192/radio-browser"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "de",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yctMzkqTzOcOkR",
+    "name": "Radio Seefunk RSF - 70er",
+    "sources": {
+      "streams": [
+        "https://webradio.radio-seefunk.de/70er"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "FYAbe6snNzUz6n",
+    "name": "Radio Selenne",
+    "sources": {
+      "streams": [
+        "https://sonic.sistemahost.es/8016/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GVMLQEVXoOSf0u",
+    "name": "Radio TX",
+    "sources": {
+      "streams": [
+        "https://radiotx.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jVgK2VRKpI9sRR",
+    "name": "Radio Zodiac",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/124966/stream/164656",
+        "https://www.radioking.com/play/radio-zodiac-ireland"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "gcyZ86eQSZthMW",
+    "name": "Radio319.Rock",
+    "sources": {
+      "streams": [
+        "https://s4.yesstreaming.net:7011//stream",
+        "https://stream.zeno.fm/kc1f62191d0uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Ay75hTnS2BsMMh",
+    "name": "Radio70",
+    "stream_urls": [
+      "https://radio70.stream.laut.fm/radio70"
+    ],
+    "country": "de",
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Wm8kUmBfbALGw5",
+    "name": "RauteMusik 70s",
+    "sources": {
+      "streams": [
+        "https://0nlineradio.radioho.st/0r-70s"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "jguVtfmVO6SYEz",
+    "name": "RauteMusik Goldies",
+    "sources": {
+      "streams": [
+        "https://rautemusik-de-hz-fal-stream11.radiohost.de/goldies",
+        "https://goldies-high.rautemusik.fm/",
+        "https://rautemusik-de-hz-fal-stream17.radiohost.de/goldies"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "Ruk5Rze9vhbyY1",
+    "name": "RDL Radio",
+    "stream_urls": [
+      "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-64.aac",
+      "https://radiobruaysis.ice.infomaniak.ch/radiobruaysis-128.mp3"
+    ],
+    "country": "fr",
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "8X0G12ET3qSwZr",
+    "name": "RDMIX Italian Vintage",
+    "sources": {
+      "streams": [
+        "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage"
+      ]
+    },
+    "languages": [
+      "ita",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Zigr4B3kAVF7hC",
+    "name": "Record 70s Dance",
+    "sources": {
+      "streams": [
+        "https://radiorecord.hostingradio.ru/197096.aacp"
+      ]
+    },
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "vMnuARV5mpaCbR",
+    "name": "Retro Album Rock",
+    "sources": {
+      "streams": [
+        "https://ais-edge07-live365-dal02.cdnstream.com/a89824",
+        "https://ais-edge104-live365-dal02.cdnstream.com/a89824"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DTZEusmYAhK43T",
+    "name": "Retro Souvenirs",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/108/stream/61183"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "bgRIX89bwEqvlS",
+    "name": "Retro Souvenirs Radio",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/108/stream/890"
+      ]
+    },
+    "languages": [
+      "fra",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "f9zLChIccVFjYN",
+    "name": "RetroHits",
+    "sources": {
+      "streams": [
+        "https://s1.nexuscast.com:8038/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UKxgsvHjk5SFAW",
+    "name": "Rewind 103.9",
+    "sources": {
+      "streams": [
+        "https://newcap.leanstream.co/CHNOFM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Hc7hZuDVALFtmi",
+    "name": "Rhythm 101 FM Online",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/tzn3ovjs0nbvv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ph",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LS6Ty98ICflTKO",
+    "name": "Ride Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a75084",
+        "https://ais-edge08-live365-dal02.cdnstream.com/a75084"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Z0nVpLbxES8hQi",
+    "name": "Ridge Radio",
+    "sources": {
+      "streams": [
+        "https://ais-edge08-live365-dal02.cdnstream.com/a91300"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "37W2ILwezNAzUq",
+    "name": "RMF 70s",
+    "sources": {
+      "streams": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/70S"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zSfqNWmKdM4YJ5",
+    "name": "ROCK ANTENNE - 70er Rock",
+    "sources": {
+      "streams": [
+        "https://s2-webradio.rockantenne.de/70er-rock/stream/mp3",
+        "https://stream.rockantenne.de/70er-rock/stream/mp3"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "1wGe51EyWw6WG6",
+    "name": "ROCK FM - 70er Rock",
+    "sources": {
+      "streams": [
+        "https://stream.regenbogen2.de/70errock/mp3-128/radiobrowser"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "VO1G8QVsVTUtWy",
+    "name": "RPR1. 70er",
+    "sources": {
+      "streams": [
+        "https://stream.rpr1.de/70er/mp3-128/radiobrowser"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "ddzhSxh65WN0Xh",
+    "name": "RPR1. 70er Rock",
+    "sources": {
+      "streams": [
+        "https://streams.rpr1.de/rpr-70errock-128-mp3",
+        "https://stream.rpr1.de/70errock/mp3-128/radiobrowser"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "7PF9gS0XfFIjK5",
+    "name": "RTBF Viva+",
+    "sources": {
+      "streams": [
+        "https://radios.rtbf.be/vivaplus-128.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "EWGAj2WikD0puE",
+    "name": "Rádio Bons Tempos",
+    "stream_urls": [
+      "https://server02.ouvir.radio.br:8050/stream"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "37FyxULUPZdAgf",
+    "name": "Rádio Casa",
+    "stream_urls": [
+      "https://servidor34-5.brlogic.com:7240/live"
+    ],
+    "country": "br",
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "mUdWvddMGMuHY4",
+    "name": "Rádio Vlna: 60-70",
+    "stream_urls": [
+      "https://stream.radiovlna.sk/gold-hi.mp3"
+    ],
+    "country": "sk",
+    "languages": [
+      "slk"
+    ]
+  },
+  {
+    "nanoid": "NCNjNwhlp4XNMz",
+    "name": "Sensational 70's",
+    "sources": {
+      "streams": [
+        "https://live.powerhitz.com/70s"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "AmruwvkPYZ4iil",
+    "name": "Solid Soul Grooves Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/u08ymmrybg8uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "McTBPjWkfdUO0T",
+    "name": "Soul Radio",
+    "sources": {
+      "streams": [
+        "https://listen.soulradio.uk/uk"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lF9vemzS7Nlf5Z",
+    "name": "Sound Radio",
+    "sources": {
+      "streams": [
+        "https://sound.stream.laut.fm/sound"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "BynoT6kVhhcf1l",
+    "name": "Splash 70s",
+    "sources": {
+      "streams": [
+        "https://c4.auracast.net/radio/8040/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "SbR8z7U4PyDFwm",
+    "name": "Star Online Radio",
+    "sources": {
+      "streams": [
+        "https://strcdn.klm99.com/8100/stream"
+      ]
+    },
+    "languages": [
+      "cat",
+      "spa",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "qYVU3P60cCDW3l",
+    "name": "That 70's Channel",
+    "sources": {
+      "streams": [
+        "https://los.cdnstream.com/1101_128",
+        "https://ais-sa5.cdnstream1.com/b68000_128mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bk3cDtcB0KDaVI",
+    "name": "The Lynx Super 70s",
+    "sources": {
+      "streams": [
+        "https://70s-lynxradio.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ddEk92xiDqxtxH",
+    "name": "The Ridge",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a91300"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Nb9vhG5yjj2oTW",
+    "name": "theBIG1510",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a23482"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ZUc9oRGTwKyBJi",
+    "name": "Tick Tock Radio 1970",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1970/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KyNeiIPG0TvuiD",
+    "name": "Tick Tock Radio 1971",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1971/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "tx7EmPVNRcWtwd",
+    "name": "Tick Tock Radio 1972",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1972/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eGRlM2r1RnXJIq",
+    "name": "Tick Tock Radio 1973",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1973/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9GjvLSd7rFFrCU",
+    "name": "Tick Tock Radio 1974",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1974/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "bqlEPFTVZV2xcq",
+    "name": "Tick Tock Radio 1975",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1975/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8TZrHdsC4B1FTt",
+    "name": "Tick Tock Radio 1976",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1976/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NukYYK6eNg5o43",
+    "name": "Tick Tock Radio 1977",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1977/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "8klDsP0ZyaZrCn",
+    "name": "Tick Tock Radio 1978",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1978/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BFUF5GJqooV9MU",
+    "name": "Tick Tock Radio 1979",
+    "sources": {
+      "streams": [
+        "https://streaming.ticktock.radio/tt/1979/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ZwgJ4pAfAbYRF2",
+    "name": "Time Machine Radio",
+    "sources": {
+      "streams": [
+        "https://stationwfos.whro.org/128.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "NKn6Ud4JqNlHhc",
+    "name": "TraxxRadio",
+    "sources": {
+      "streams": [
+        "https://server-28.stream-server.nl:8896/stream"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "q03taAre48xEw5",
+    "name": "True Oldies Channel",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/b92108_128mp3",
+        "https://ais-sa5.cdnstream1.com/b92108_128mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3KXr268FBNmkPN",
+    "name": "Universal Stereo",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/XERC_FMAAC.aac"
+    ],
+    "country": "mx",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Xri0SWD4ss2WOC",
+    "name": "Venenos do Rock",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dy417tqqmd0uv"
+      ]
+    },
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "NhfHaqkFB3NtFC",
+    "name": "Venenos Psicodélicos",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/c5bc53qc3k0uv"
+      ]
+    },
+    "languages": [
+      "por"
+    ]
+  },
+  {
+    "nanoid": "ntLKJnuxXtmlmi",
+    "name": "Venlo Vintage",
+    "sources": {
+      "streams": [
+        "https://stream-10.pmteurope.com:8040/stream"
+      ]
+    },
+    "languages": [
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "PnNp2C7w6qYYKU",
+    "name": "VillageRadio.Net",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a73319",
+        "https://ais-edge09-live365-dal02.cdnstream.com/a73319"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "z6lglzcUHT1N21",
+    "name": "Vinilo ¡Tu Radio Retro!",
+    "sources": {
+      "streams": [
+        "https://panel.innovatestream.pe:10924/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "i8T053icJmTMVy",
+    "name": "Vintage 100.3 FM",
+    "sources": {
+      "streams": [
+        "https://audiostreaming.luz.network/stream/14/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Fqf6szSe2k3Qir",
+    "name": "Vintage 101.3 FM",
+    "sources": {
+      "streams": [
+        "https://audiostreaming.luz.network/stream/2/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GpFzOefjwUy0Ep",
+    "name": "Vintage FM 87.8",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/sd60e90ab1/listen"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "q3aWVgAtNl6j12",
+    "name": "Vinyl Maxi FM",
+    "sources": {
+      "streams": [
+        "https://vinyl-maxi-fm.stream.laut.fm/vinyl-maxi-fm"
+      ]
+    },
+    "languages": [
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "FfF2KBovRT2ATz",
+    "name": "Zoe FM",
+    "stream_urls": [
+      "https://icecast.movemedia.be/zoe128"
+    ],
+    "country": "be",
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FfF2KBovRT2ATz",
+    "name": "Zoe FM",
+    "sources": {
+      "streams": [
+        "https://icecast.movemedia.be/zoe128"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DSGiFCeBTFzh5H",
+    "name": "Дорожное радио - Ностальгия",
+    "sources": {
+      "streams": [
+        "https://hls-01-dorognoe-nostalgia.emgsound.ru/19/96/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ru",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "17BFXCyqRBR4p9",
+    "name": "Радио ЗВЕЗДА",
+    "sources": {
+      "streams": [
+        "https://zvezda-radio-rzv.mediacdn.ru/radio/zvezda/zvezda_128",
+        "https://zvezda-radio128.mediacdn.ru/radio/zvezda/zvezda_128"
+      ]
+    },
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "FAKe5DqSUvy2S7",
+    "name": "Радио Юность",
+    "sources": {
+      "streams": [
+        "https://icecast-vgtrk.cdnvideo.ru/unost_mp3_192kbps"
+      ]
+    },
+    "languages": [
+      "rus"
+    ]
+  }
+]

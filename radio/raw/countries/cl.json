@@ -1,0 +1,2642 @@
+[
+  {
+    "nanoid": "VAZtL7z1T2qH4c",
+    "name": "13C Radio",
+    "stream_urls": [
+      "https://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/5c915497c6fd7c085b29169d"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9BFyf45WhOQ65Y",
+    "name": "ADN Radio",
+    "sources": {
+      "streams": [
+        "https://27413.live.streamtheworld.com/ADNAAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "stgzoTZDyifPDM",
+    "name": "ADN Radio 91.7",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ADNAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "rb168mHdTIckE8",
+    "name": "Alta Fidelidad Radio",
+    "sources": {
+      "streams": [
+        "https://s21.myradiostream.com/14464/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "O1KdnmIATyBeEp",
+    "name": "Alternativa FM",
+    "sources": {
+      "streams": [
+        "https://radio.tvstream.cl/8056/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YiL3HWKnW7iXXL",
+    "name": "Amistad Stereo",
+    "sources": {
+      "streams": [
+        "https://stream-159.zeno.fm/dg69bex4gxquv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SNf7swUP1F36F6",
+    "name": "Beat FM 98.7",
+    "stream_urls": [
+      "https://audio.streaminghd.cl:2000/stream/beatfm-sanfelipe"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GLUQLOKa2JKl5G",
+    "name": "Blu FM 94.9",
+    "sources": {
+      "streams": [
+        "https://sonic.nnw.cl:7009/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YkDweGYc8QgLD6",
+    "name": "BlueRadio",
+    "stream_urls": [
+      "https://stream-175.zeno.fm/udk5orfzet5vv"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "t7MIQsz422lnrC",
+    "name": "Bonita FM",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.chileservidores.cl/8032/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "PbJqa32N9vasJk",
+    "name": "C y S Radio 96.3 FM",
+    "stream_urls": [
+      "https://streaming.chiloestreaming.com:9542/;"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pohwQUau13tNt5",
+    "name": "Cadenza Radio",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8230/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "z4iuXy4JKvEta6",
+    "name": "Canciones Lejanas Anglo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8hv9e0uqb0hvv"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "WnWS5203wc4KLI",
+    "name": "Canciones Lejanas Latina",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5kasc2zta0hvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3ISjp94XxRBqFo",
+    "name": "Chillout FM",
+    "sources": {
+      "streams": [
+        "https://listen2.myradio24.com/8795"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EWvQeTo3hunWA4",
+    "name": "CLG Radio 93.5 FM",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8012/streamstream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KC5wLuhujVGJn9",
+    "name": "Club Dance Chile",
+    "sources": {
+      "streams": [
+        "https://audio.bitsur.cl/8002/stream",
+        "https://stream.clubdance.cl/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mDhdMPVShipEdf",
+    "name": "Club Retro Hits",
+    "sources": {
+      "streams": [
+        "https://v4.tustreaming.cl:8134/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3ULI7IWx5yHnrE",
+    "name": "Conexión Radio",
+    "sources": {
+      "streams": [
+        "https://tunein.radiomaniacos.cl/conexionradio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SmXytJf031FaT0",
+    "name": "Consuelo FM",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/consuelo.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rq88QHMKvn5TSH",
+    "name": "CTM Radio",
+    "stream_urls": [
+      "https://ctmradio.hopto.org:8000/ctmradio.ogg"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZTuivNUJKwxHGn",
+    "name": "CyberNation Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/lcj8aoodegouv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "T4zVhnL6Sgyv0n",
+    "name": "Código Metal Radio",
+    "stream_urls": [
+      "https://streaming.viphosting.cl/8012/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DoIEQ5WD60yiTh",
+    "name": "Digital FM",
+    "stream_urls": [
+      "https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DoIEQ5WD60yiTh",
+    "name": "Digital FM",
+    "sources": {
+      "streams": [
+        "https://unlimited11-cl.dps.live/digitalfm/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4M5M4e4xwRr5V4",
+    "name": "Dinamix FM",
+    "sources": {
+      "streams": [
+        "https://s1.jcbroadcast.org:8000/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "OyRsleVN3IpTPZ",
+    "name": "Distorsión FM",
+    "stream_urls": [
+      "https://radioemisoras.cl/distorsion.flac",
+      "https://radioemisoras.cl/distorsion.mp3",
+      "https://tunein.radiomaniacos.cl/distorsion.mp3"
+    ],
+    "country": "cl",
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EeGS9nUdcejX2d",
+    "name": "ELN Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.chiloestreaming.com:9920/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MxEpz5dTLi53k3",
+    "name": "Estación Ranchera",
+    "stream_urls": [
+      "https://app.sonicpanelradio.com:8588//;type=mp3"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EUSJpJaIUDJNCh",
+    "name": "Europa Beat",
+    "sources": {
+      "streams": [
+        "https://s4.radio.co/s13e4f2090/listen"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wHV0oiYRzizH0l",
+    "name": "FM Okey",
+    "stream_urls": [
+      "https://streaming.fmokey.cl/moviles.mp3",
+      "https://streaming.fmokey.cl/FmOkValpo.mp3"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "G0fvgxVGm5Qy63",
+    "name": "FM Oyeme",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8128/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JuLhiphqd5XgP2",
+    "name": "FM Siete Rock",
+    "sources": {
+      "streams": [
+        "https://sp1.streamingssl.com/8036/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jh7XJ4TdkndWXV",
+    "name": "FMDOS",
+    "sources": {
+      "streams": [
+        "https://23243.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://24413.live.streamtheworld.com/FMDOSAAC_SC",
+        "https://27433.live.streamtheworld.com/FMDOSAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zApwnqSRBS6f25",
+    "name": "Frecuencia Rock",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9206/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r2yfiLy6aF71HW",
+    "name": "La Mega FM",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8478/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Sj8DC0MYr1CAGP",
+    "name": "La Melinkana FM",
+    "sources": {
+      "streams": [
+        "https://audio3.tustreaming.cl/7050/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2Y6BiapJHLYgJb",
+    "name": "La Más Kaliente",
+    "stream_urls": [
+      "https://audio1stream.com/8002/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tnzu5AwaFDS3Se",
+    "name": "La Retro Radio",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co:80/s9ecef4f68/listen"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Vl47N0n9Sjxa47",
+    "name": "La Voz del Ciprés",
+    "sources": {
+      "streams": [
+        "https://live.lavozdelcipres.cl/radiomelinka.ogv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Q5jfIirD22INTf",
+    "name": "La Zarzamora",
+    "sources": {
+      "streams": [
+        "https://radio.latina.red/lazarzamora.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fkcQMiTfXEdtrq",
+    "name": "Libélula Chile",
+    "sources": {
+      "streams": [
+        "https://streaming.viphosting.cl/8278/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RxOWaievNADQsz",
+    "name": "LOS40",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILE_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sjOeAplVQNC6SX",
+    "name": "Mi Radio",
+    "sources": {
+      "streams": [
+        "https://audio1.tustreaming.cl/9020/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "0YQwER9Zc0MplI",
+    "name": "Mirador FM",
+    "sources": {
+      "streams": [
+        "https://encoder.stationlink.cl/listen/mirador_lautaro/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ridrKweCQM0b1x",
+    "name": "Musicoop",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8486/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1xkqbLcuwpp7nn",
+    "name": "Play FM 100.9",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JDLkIvF29luxAq",
+    "name": "Principios Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/i5darmt2oi7tv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "z7Hm6RbqEpHNR0",
+    "name": "Purranque FM",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8396//stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7MMzBLBgHulvCv",
+    "name": "Radio 24/7 Chile",
+    "sources": {
+      "streams": [
+        "https://broadcast.radio247.net/radio/8000/;",
+        "https://broadcast.radio247.net/listen/live/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "CByiGwB3l9yCs4",
+    "name": "Radio 7 Tazas",
+    "stream_urls": [
+      "https://streaming01.xhost.cl/8164/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ocbyUT8zG2p2DQ",
+    "name": "Radio Actual FM 102.9",
+    "stream_urls": [
+      "https://archi-us.digitalproserver.com/actual.aac"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ocbyUT8zG2p2DQ",
+    "name": "Radio Actual FM 102.9",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/actual.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eQwArPkoomQBMu",
+    "name": "Radio Agricultura",
+    "sources": {
+      "streams": [
+        "https://unlimited4-us.dps.live/agricultura/mp3/icecast.audio",
+        "https://unlimited4-us.dps.live/agricultura/gotardis/audio/now/livestream1.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tNH4uLmCFDreT6",
+    "name": "Radio Alegría del Transporte",
+    "sources": {
+      "streams": [
+        "https://streaming01.xhost.cl/8048/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "I8xRooZtH1rkzP",
+    "name": "Radio Almeyda",
+    "sources": {
+      "streams": [
+        "https://sonic.streamingchilenos.com/9974/stream.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Eq9e3maH9LQ614",
+    "name": "Radio Amiga",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/amiga.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Kf6BcgGYABz91X",
+    "name": "Radio Amiga FM",
+    "sources": {
+      "streams": [
+        "https://streams.radiomast.io/aff8c0f0-5d0c-41d6-83b2-71daff574701"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r3vQyGaMGW2Lb3",
+    "name": "Radio Ancoa",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl:10991/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zWtXysIv0U1ql3",
+    "name": "Radio Angelina",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.cl:7025/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CCynMnfag25HdF",
+    "name": "Radio Arcoíris FM",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl/7210/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CCynMnfag25HdF",
+    "name": "Radio Arcoíris FM",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl/7210/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r4zI9S1TjBhR9A",
+    "name": "Radio Armonía",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl:10987/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GFsu6G9t6ufraw",
+    "name": "Radio Atractiva",
+    "sources": {
+      "streams": [
+        "https://sonicstream-puntual.grupozgh.cl/8126/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tzuwJErCNjztZh",
+    "name": "Radio Austral",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/austral.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HOYs7cxRkYZjKm",
+    "name": "Radio Beethoven",
+    "stream_urls": [
+      "https://unlimited4-us.dps.live/beethovenfm/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Pa8K7VBW0zuJtY",
+    "name": "Radio Bío-Bío",
+    "sources": {
+      "streams": [
+        "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
+        "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio",
+        "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8BEO6fgOPw17xT",
+    "name": "Radio Bío-Bío Concepción",
+    "sources": {
+      "streams": [
+        "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "A8QHhuRgogHw3Z",
+    "name": "Radio Bío-Bío Los Ángeles",
+    "sources": {
+      "streams": [
+        "https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oOiLNJOdHtx2jW",
+    "name": "Radio Bío-Bío Santiago",
+    "sources": {
+      "streams": [
+        "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8lhNFu1eF767fH",
+    "name": "Radio Bío-Bío Valdivia",
+    "sources": {
+      "streams": [
+        "https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8RQxOVqniwIsOL",
+    "name": "Radio Bío-Bío Valparaíso",
+    "sources": {
+      "streams": [
+        "https://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2sJM4HxsAjRAto",
+    "name": "Radio Boogaclub",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/777prr0xfm8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Pa8K7VBW0zuJtY",
+    "name": "Radio Bío-Bío",
+    "stream_urls": [
+      "https://unlimited3-cl.dps.live/biobiosantiago/mp3/icecast.audio",
+      "https://unlimited3-cl.dps.live/biobiotemuco/aac/icecast.audio",
+      "https://unlimited3-cl.dps.live/biobiopuertomontt/mp3/icecast.audio",
+      "https://unlimited3-cl.dps.live/biobiovalparaiso/mp3/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8BEO6fgOPw17xT",
+    "name": "Radio Bío-Bío Concepción",
+    "stream_urls": [
+      "https://unlimited3-cl.dps.live/biobioconcepcion/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "A8QHhuRgogHw3Z",
+    "name": "Radio Bío-Bío Los Ángeles",
+    "stream_urls": [
+      "https://unlimited11-cl.dps.live/biobiolosangeles/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oOiLNJOdHtx2jW",
+    "name": "Radio Bío-Bío Santiago",
+    "stream_urls": [
+      "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8lhNFu1eF767fH",
+    "name": "Radio Bío-Bío Valdivia",
+    "stream_urls": [
+      "https://unlimited3-cl.dps.live/biobiovaldivia/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8RQxOVqniwIsOL",
+    "name": "Radio Bío-Bío Valparaíso",
+    "stream_urls": [
+      "https://unlimited11-cl.dps.live/biobiovalparaiso/aac/icecast.audio"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "klM1xU1XHytqo1",
+    "name": "Radio Carabineros de Chile",
+    "sources": {
+      "streams": [
+        "https://streaming.prositel.cl/8374/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7Am5o4Lklo70NG",
+    "name": "Radio Caramelo",
+    "sources": {
+      "streams": [
+        "https://cast.radioservicios.cl:8316/sanvicente"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wxk9dvnQqg4bkk",
+    "name": "Radio Caricia FM",
+    "stream_urls": [
+      "https://sonic.portalfoxmix.club/8244/stream/"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4Vt5GvVyBjNvAu",
+    "name": "Radio Cariñosa",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/carinosa-fm.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BoiZencg9Z5Wu4",
+    "name": "Radio Carnaval",
+    "sources": {
+      "streams": [
+        "https://cp2.streamchileno.cl//listen//radiocarnaval//radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rlc4QjjfavxRh9",
+    "name": "Radio Carnaval Antofagasta",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/carnaval_antofagasta.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zXgJTO7ESViEYi",
+    "name": "Radio Carnaval Viña del Mar",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/carnaval_vinadelmar.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cVRuXsQyoj0IYO",
+    "name": "Radio Carolina",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/sri2de2qdlivv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "PTcooRvLf8Gm25",
+    "name": "Radio Catalina",
+    "stream_urls": [
+      "https://streaming.comunicacioneschile.net/9398/stream/"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CXW8r6ckHpCirc",
+    "name": "Radio Central Clasista",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/m5fw6rwx2tzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bmID3tii6tF0Vr",
+    "name": "Radio Club 80",
+    "sources": {
+      "streams": [
+        "https://stream.radioclub80.cl:8002/clasicos80.flac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Elj0O6FAMhXN0S",
+    "name": "Radio Club 80 Euro",
+    "sources": {
+      "streams": [
+        "https://stream.radioclub80.cl:8032/stream.euro80flac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fvS9s7CaHCgHuZ",
+    "name": "Radio Club 80 Trance",
+    "stream_urls": [
+      "https://stream.radioclub80.cl:8052/trance80.flac"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "avktljHPOa2S9j",
+    "name": "Radio Club Retro Hits",
+    "stream_urls": [
+      "https://v4.tustreaming.cl:8156/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fvS9s7CaHCgHuZ",
+    "name": "Radio Club 80 Trance",
+    "sources": {
+      "streams": [
+        "https://stream.radioclub80.cl:8052/trance80.flac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fod1b7zkN9Xxnw",
+    "name": "Radio Cobremar",
+    "sources": {
+      "streams": [
+        "https://audio.bitsur.cl/8066/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8eV1jZTEZNx0uz",
+    "name": "Radio Colo Colo",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl:10997/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "68fPq7veUjJZZv",
+    "name": "Radio Colombina",
+    "sources": {
+      "streams": [
+        "https://cast.radioservicios.cl:8314/radio"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "iOB2DJuFyvz6kk",
+    "name": "Radio Concierto",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTO_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vIxCkurgJgp31g",
+    "name": "Radio Contexto Ñuble",
+    "sources": {
+      "streams": [
+        "https://streaming.viphosting.cl/8028/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "A7mLzQzyXNJEJb",
+    "name": "Radio Contigo",
+    "sources": {
+      "streams": [
+        "https://streaming.comunicacioneschile.net:9318/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xrJjlJKsYIarl3",
+    "name": "Radio Cooperativa",
+    "sources": {
+      "streams": [
+        "https://unlimited3-cl.dps.live/cooperativafm/mp3/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ybL7EtNfdgbJ5G",
+    "name": "Radio Corazón",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZON_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wl7NH0gwGZAwD3",
+    "name": "Radio Crystal",
+    "sources": {
+      "streams": [
+        "https://radiolatina.live/9980/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r9wuRSBrf0HZwJ",
+    "name": "Radio Del Maipo",
+    "sources": {
+      "streams": [
+        "https://sonic.mallocohosting.cl/8012/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r9wuRSBrf0HZwJ",
+    "name": "Radio Del Maipo",
+    "sources": {
+      "streams": [
+        "https://sonic.mallocohosting.cl/8012/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k2H4oIbUBSmmCV",
+    "name": "Radio Destino",
+    "sources": {
+      "streams": [
+        "https://radio.streemlion.com:3780/stream"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wFILQDzqRuXEqc",
+    "name": "Radio Dinámica",
+    "sources": {
+      "streams": [
+        "https://streaming.comunicacioneschile.net/8030/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VYjb9zP10tCpWd",
+    "name": "Radio Dulce",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yo6udiulqhbvv",
+        "https://stream.zeno.fm/bx6zuwssrnjvv",
+        "https://stream.zeno.fm/dzvavezs85ouv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CxW8o3Ilf6shzu",
+    "name": "Radio Edelweiss",
+    "sources": {
+      "streams": [
+        "https://encoder.stationlink.cl/listen/edelweiss/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fHrTCm85z3H2wY",
+    "name": "Radio El Carbón",
+    "sources": {
+      "streams": [
+        "https://unlimited11-cl.dps.live/elcarbon/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nFd9JnxwSUUW69",
+    "name": "Radio El Conquistador",
+    "stream_urls": [
+      "https://stream10.usastreams.com/9314/stream/",
+      "https://stream10.usastreams.com/9314/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KQPHPGKwGTgtDB",
+    "name": "Radio Encanto",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/encanto_ovalle.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "99u1hYwPCpgDjE",
+    "name": "Radio Estallido Tuitero",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ws9z11fhrd0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Uw5Ba1MQiUIM9F",
+    "name": "Radio Estrella del Mar",
+    "sources": {
+      "streams": [
+        "https://streaming.chiloestreaming.com/9626/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qxNmJHlaOTBGTb",
+    "name": "Radio Exitosa",
+    "sources": {
+      "streams": [
+        "https://stream-024.zeno.fm/dg69bex4gxquv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GflOE5ds89mPWz",
+    "name": "Radio Favorita Ranchera",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pdlp0sxtdjkvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZlkeZxsptQaIFz",
+    "name": "Radio Femenina",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/femenina.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "M5bt8VHwzhcx3N",
+    "name": "Radio Fernanda",
+    "sources": {
+      "streams": [
+        "https://azura.servercast.com.br/listen/radio_fernanda/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Zno0ZnioqvrFAX",
+    "name": "Radio Festival",
+    "sources": {
+      "streams": [
+        "https://stream.festival.cl/1"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "U9zxTxGFSeipCp",
+    "name": "Radio FM Centro",
+    "sources": {
+      "streams": [
+        "https://s02.azuracast.cl/radio/8210/fmcentro"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qlwVZwi4yc9sqh",
+    "name": "Radio FM Dance Chile",
+    "sources": {
+      "streams": [
+        "https://sonic.streamingchilenos.com/8138/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "QQMy9d5m1GUYI9",
+    "name": "Radio FM+",
+    "sources": {
+      "streams": [
+        "https://audio5.tustreaming.cl/8010/fmmas"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sxB55sQViUivmM",
+    "name": "Radio Futuro",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/FUTUROAAC.aac"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8PkHaQmwobMpGn",
+    "name": "Radio Genoveva",
+    "sources": {
+      "streams": [
+        "https://audio.bitsur.cl/8032/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kt0TuDYiLkX9Nd",
+    "name": "Radio Guayacán",
+    "sources": {
+      "streams": [
+        "https://sonic.mallocohosting.cl/8038/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qrfw3Rm65hQOJr",
+    "name": "Radio Iglesia Cristiana La Serena",
+    "sources": {
+      "streams": [
+        "https://servidor32.brlogic.com:7050/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "A2JSpg6IO0qddT",
+    "name": "Radio Ignacio Serrano",
+    "stream_urls": [
+      "https://sonic.portalfoxmix.club/8242/stream/"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bGihM8Ds2x1gDP",
+    "name": "Radio Imagina",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8cFvE6WZvn1Otk",
+    "name": "Radio Incondicionalmente Retro",
+    "stream_urls": [
+      "https://v4.tustreaming.cl:8128/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Fljf2CcYDgTMCs",
+    "name": "Radio Interamericana",
+    "stream_urls": [
+      "https://sonando-us.digitalproserver.com/radiointeramericana.aac"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Fljf2CcYDgTMCs",
+    "name": "Radio Interamericana",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/radiointeramericana.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BoG16PlrPyQMHO",
+    "name": "Radio Isadora",
+    "sources": {
+      "streams": [
+        "https://streaming.comunicacioneschile.net/9326/stream.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Fdfs39qVnsMwrQ",
+    "name": "Radio Isla Negra",
+    "sources": {
+      "streams": [
+        "https://radioislanegra.org/radio/8000/basic.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "d9Tjl4HA4xA3AR",
+    "name": "Radio Isla Negra Slowbeat",
+    "sources": {
+      "streams": [
+        "https://radioislanegra.org/radio/8010/basic.aac"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "XXalHqcDjVe9k0",
+    "name": "Radio Isla Negra Upbeat",
+    "sources": {
+      "streams": [
+        "https://radioislanegra.org/radio/8030/basic.aac"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "p2YHKXON5kDHqs",
+    "name": "Radio La Discusión",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/la-discusion-fm.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5eSICYxOIDHf8a",
+    "name": "Radio La Mexicana",
+    "sources": {
+      "streams": [
+        "https://audio0.tustreaming.cl/7170/casablanca"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kVko7khmxxmQCZ",
+    "name": "Radio La Palabra",
+    "sources": {
+      "streams": [
+        "https://sonic.streamingchilenos.com/8126/stream:8000/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NNDnNQivyUFWA9",
+    "name": "Radio La Sureña",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ssmz1n5vmd0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "rA1aHEwXoNA48L",
+    "name": "Radio La Voz del Mar",
+    "sources": {
+      "streams": [
+        "https://sonic.streamingchilenos.com/8186/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jUiBe2kpHb4pUc",
+    "name": "Radio Lafken Mawida",
+    "sources": {
+      "streams": [
+        "https://radio.latina.red/lafkenmawida.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jUiBe2kpHb4pUc",
+    "name": "Radio Lafken Mawida",
+    "sources": {
+      "streams": [
+        "https://radio.latina.red/lafkenmawida.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "K5o8numdMZ6Lvw",
+    "name": "Radio Las Nieves",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl:8044/stream:8044"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "LQkQH83tGQqNCO",
+    "name": "Radio Lautaro",
+    "sources": {
+      "streams": [
+        "https://audio2.tustreaming.cl/7320/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Q5MVW8f0sVxGrO",
+    "name": "Radio Maipú FM",
+    "stream_urls": [
+      "https://pragustream.live:8040/stream/1/"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BBKr1B1FJWpckB",
+    "name": "Radio Manantial de Vida",
+    "sources": {
+      "streams": [
+        "https://audio3.tustreaming.cl/7080/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2A1bb0wtTw2KRr",
+    "name": "Radio Maray",
+    "sources": {
+      "streams": [
+        "https://video.mediawebchile.com:2000/stream/8212/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "dh5h0nAxPbLGDl",
+    "name": "Radio Marcela",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/marcelafm.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "o3lsxwdJP1FTQJ",
+    "name": "Radio Marisol",
+    "sources": {
+      "streams": [
+        "https://audio0.tustreaming.cl/7620/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gzKZGI7Iq7fjCB",
+    "name": "Radio MiX",
+    "sources": {
+      "streams": [
+        "https://video.mediawebchile.com:2000/stream/radiomixsc/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "PXh8pR1P77Wl1i",
+    "name": "Radio Municipal Iquique",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:2000/stream/radiomunicipaliquique/;stream.mp3",
+        "https://audio.streaminghd.cl:9202/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fqNZpr1yoD7ORR",
+    "name": "Radio Naval",
+    "sources": {
+      "streams": [
+        "https://s4.radio.co/s740f80d28/listen"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qxQVw9nYzrhoxi",
+    "name": "Radio Nuestra",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9016/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "r1LBZ2lZqBaxmN",
+    "name": "Radio Observador",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/la-calera.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KHA7bCledmGP91",
+    "name": "Radio Ocurrente FM",
+    "sources": {
+      "streams": [
+        "https://stream2.mcvhost.com/radioocurrente"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ynr2UrZyKlQWaZ",
+    "name": "Radio Paloma",
+    "sources": {
+      "streams": [
+        "https://audio3.tustreaming.cl/7320/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "dPjd0tO8nmbxrK",
+    "name": "Radio Pamela FM",
+    "sources": {
+      "streams": [
+        "https://sonic-us.arkeo.cl/8562/stream.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "8DTgQuSnsWNsvY",
+    "name": "Radio Paula FM",
+    "stream_urls": [
+      "https://escucha.radiopaulafm.com/"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wIUJoCLXWnCCKb",
+    "name": "Radio Paulina",
+    "sources": {
+      "streams": [
+        "https://sp1.streamingssl.com/8058/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RX1VXMZgbMfRUT",
+    "name": "Radio Picados",
+    "stream_urls": [
+      "https://stream.picados.beer/radio/live"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gKg8nI27AgwoYF",
+    "name": "Radio Picarona",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.cl:7046/;",
+        "https://sonic.portalfoxmix.cl:7045/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rl0OTyCBRuAXOa",
+    "name": "Radio Plaza de la Dignidad",
+    "stream_urls": [
+      "https://stream.zeno.fm/a1ns6n6hfrruv"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rl0OTyCBRuAXOa",
+    "name": "Radio Plaza de la Dignidad",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/a1ns6n6hfrruv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DO2OwTnggUbFnh",
+    "name": "Radio Portales",
+    "sources": {
+      "streams": [
+        "https://audio3.tustreaming.cl:7350/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VYEUBArgb9ptcw",
+    "name": "Radio Positiva",
+    "sources": {
+      "streams": [
+        "https://unlimited4-us.dps.live/positiva/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "PyRCz2JDBmWbdt",
+    "name": "Radio Puangue",
+    "sources": {
+      "streams": [
+        "https://sonic.mallocohosting.cl:8036/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7Z3KfOw2Umo0Ta",
+    "name": "Radio Pudahuel",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/PUDAHUEL_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9MZqtpdJg5wqkw",
+    "name": "Radio Punto 7",
+    "sources": {
+      "streams": [
+        "https://unlimited11-cl.dps.live/p7concepcion/aac/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2CSXleq4zZ79u8",
+    "name": "Radio Quillota",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/quillota-fm.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "aVeOTVfj3NfoMG",
+    "name": "Radio Rara",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.chileservidores.cl/8004/stream"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "PmByntq0oYWsn4",
+    "name": "Radio Rebuena",
+    "sources": {
+      "streams": [
+        "https://audio5.tustreaming.cl/7930/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "PmByntq0oYWsn4",
+    "name": "Radio Rebuena",
+    "sources": {
+      "streams": [
+        "https://audio5.tustreaming.cl/7930/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bhaLgcnMhj7NL0",
+    "name": "Radio Ritmo FM",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.cl/9976/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "h5suQmqFMQooXd",
+    "name": "Radio RTL Curicó",
+    "sources": {
+      "streams": [
+        "https://radio.mediadev.cl/radio/8070/rtlcurico"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1svORNI4Rq9WXe",
+    "name": "Radio Rural Chile",
+    "sources": {
+      "streams": [
+        "https://stm7.voxhd.com.br:10788/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "J0FTw6qRcLMWhg",
+    "name": "Radio Silens Clamor",
+    "sources": {
+      "streams": [
+        "https://www.silensclamor.com/live"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "eQqUUvogmtyeZ2",
+    "name": "Radio Sol",
+    "stream_urls": [
+      "https://us9.maindigitalstream.com/ssl/7389"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "f3Het6wUjXOtIe",
+    "name": "Radio Sol Classic",
+    "stream_urls": [
+      "https://us9.maindigitalstream.com/ssl/radiosol"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "eQqUUvogmtyeZ2",
+    "name": "Radio Sol",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7389"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "f3Het6wUjXOtIe",
+    "name": "Radio Sol Classic",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/radiosol"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bmbFT4laSRnAeT",
+    "name": "Radio Sol Latina",
+    "sources": {
+      "streams": [
+        "https://us9.maindigitalstream.com/ssl/7435"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wC1ghIzIzks5If",
+    "name": "Radio Sunrise Lounge",
+    "sources": {
+      "streams": [
+        "https://sonic-cl.arkeo.cl/8098/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "o9YOlvbzIzp4SG",
+    "name": "Radio Sunrise Online",
+    "sources": {
+      "streams": [
+        "https://sonic-cl.arkeo.cl/8044/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ywg6zdZlawG2rs",
+    "name": "Radio Tiempo Salvador",
+    "sources": {
+      "streams": [
+        "https://cast235.indax.cl/8024/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CMdulH9uBgJoo3",
+    "name": "Radio Tropikal Rancheras",
+    "sources": {
+      "streams": [
+        "https://streaming.viphosting.cl/8034/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UQuTy9ny23uajc",
+    "name": "Radio UdeC",
+    "sources": {
+      "streams": [
+        "https://audio.divalstream.com:7019/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TaHnQwePb515M6",
+    "name": "Radio UNAP",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.club/8276/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gnFneBmylxVgKg",
+    "name": "Radio Universal Malleco",
+    "sources": {
+      "streams": [
+        "https://s02.azuracast.cl/listen/radio_universal_victoria/victoria"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "n2gUcQPNopGmHk",
+    "name": "Radio Universal Pitrufquén",
+    "sources": {
+      "streams": [
+        "https://s02.azuracast.cl/listen/radio_universal/universal"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3o3KVMIA0WziPI",
+    "name": "Radio Universidad de Antofagasta",
+    "sources": {
+      "streams": [
+        "https://sonicstream-puntual.grupozgh.cl/8040/radioua"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Q0p6hP8H0rZPGg",
+    "name": "Radio Universidad de Chile",
+    "sources": {
+      "streams": [
+        "https://sonic-us.arkeo.cl/8186/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "U0tDrX1mh9nw4s",
+    "name": "Radio Vale",
+    "stream_urls": [
+      "https://sp1.streamingssl.com/8056/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "p01m43NUArbcGO",
+    "name": "Radio UVM",
+    "sources": {
+      "streams": [
+        "https://streaming1.tecnoera.com:8020/;stream.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1lc1tBfGxUBtNJ",
+    "name": "Radio Valentín Letelier",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9030/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I9T62idfQ2HmN0",
+    "name": "Radio Venus FM Chile",
+    "sources": {
+      "streams": [
+        "https://streaming.audiplay.cl/listen/venus_radio_fm_chile/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "quEuTqYavJsI7r",
+    "name": "Radio Violeta",
+    "sources": {
+      "streams": [
+        "https://server01.heplayer.com/9390/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oZ0gfaMDJc0tfG",
+    "name": "RadioActiva",
+    "sources": {
+      "streams": [
+        "https://23243.live.streamtheworld.com/ACTIVA_SC",
+        "https://sdmedia.radioactiva.cl/radioactiva/2023/3/19/activa_lajauladelmonoradioactiva_20230319_020000_030000.mp3",
+        "https://stream.zeno.fm/pvs6hqz3crtvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3aYsZki7w6jg9w",
+    "name": "Radioroins",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dd3rxeuxznhvv"
+      ]
+    },
+    "languages": [
+      "spa",
+      "jpn"
+    ]
+  },
+  {
+    "nanoid": "ncQYQwZBnRj4yl",
+    "name": "Raxies FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/annpmyskb4jtv"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "DEmZxE7dVETSmz",
+    "name": "Ritoque FM",
+    "sources": {
+      "streams": [
+        "https://archi-us.digitalproserver.com/ritoquefm_aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MBF18WeYPVt8sS",
+    "name": "Rock & Pop",
+    "sources": {
+      "streams": [
+        "https://24273.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://24373.live.streamtheworld.com/ROCK_AND_POPAAC_SC",
+        "https://24423.live.streamtheworld.com/ROCK_AND_POPAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "uqfgRFKx7dADCF",
+    "name": "RT Noticias",
+    "sources": {
+      "streams": [
+        "https://audio1.tustreaming.cl/9850/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zOCaPayF4WEtrx",
+    "name": "Ruidos FM",
+    "sources": {
+      "streams": [
+        "https://sonic.streamingchilenos.com/9880/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qVtOJZmv1gyxoq",
+    "name": "Sintonizados con Cristo Radio",
+    "sources": {
+      "streams": [
+        "https://audio.streaminghd.cl:9130/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "W2Si2ITNa5B4MO",
+    "name": "Sonar FM",
+    "sources": {
+      "streams": [
+        "https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "dT0Z55tDEYFhzK",
+    "name": "Star Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/sowa6evoo9kvv"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Je6fLjf7GpP8LA",
+    "name": "Sunrise Dance Mix",
+    "sources": {
+      "streams": [
+        "https://sonic-cl.arkeo.cl/8054/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BrniNMxugJq6Z1",
+    "name": "Super45.fm",
+    "sources": {
+      "streams": [
+        "https://s4.radio.co/s421105570/listen"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "H8McFOoWf6jOIJ",
+    "name": "Trending Radio",
+    "stream_urls": [
+      "https://cast6.my-control-panel.com/proxy/trending/stream"
+    ],
+    "country": "cl",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H8McFOoWf6jOIJ",
+    "name": "Trending Radio",
+    "sources": {
+      "streams": [
+        "https://cast6.my-control-panel.com/proxy/trending/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ODe1zq4W3ePvp5",
+    "name": "UCV Radio",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/ucvradio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wbvCq9F3x5ZwG9",
+    "name": "UCV Radio 2",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/ucvradio2"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5vWqnbEYKXjd7z",
+    "name": "Vilas Radio",
+    "sources": {
+      "streams": [
+        "https://sonic.streamingchilenos.com/8072/stream",
+        "https://sonic.portalfoxmix.club/8042/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EPOPJIdlqwRTSX",
+    "name": "VLN Radio",
+    "sources": {
+      "streams": [
+        "https://sonando-us.digitalproserver.com/vln_lo"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KtxrgJJV7Ufyhu",
+    "name": "World Hits Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6vytsnbkb8zuv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  }
+]

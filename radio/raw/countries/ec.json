@@ -1,0 +1,1500 @@
+[
+  {
+    "nanoid": "02yeu4bhzSEviY",
+    "name": "América Estéreo",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:7030/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kxVvMtqtnCozFg",
+    "name": "Antena Uno 90.5 FM",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8202/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "0s39n3fk2KGHRA",
+    "name": "Área Deportiva FM",
+    "sources": {
+      "streams": [
+        "https://cast.uncuartocomunicacion.com/listen/areadeportivafm/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jYo1nKz3ZzCaTC",
+    "name": "Armónica FM",
+    "sources": {
+      "streams": [
+        "https://armonicafm.makrodigital.com:9570/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CnaULXfmoAPyr4",
+    "name": "Brisa Azul FM",
+    "sources": {
+      "streams": [
+        "https://streaming01.radiosenlinea.com.ar/8196/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H1mVSccpOMIbmj",
+    "name": "Bésame Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/5xq756t2gchvv"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "LCHSdXhL5biovt",
+    "name": "Cañar Stereo",
+    "sources": {
+      "streams": [
+        "https://ecuamedios.net:10937/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NIQiNZjgjDtHeo",
+    "name": "Cómplice FM",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8422/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vKW4IGzip6lKej",
+    "name": "Contigo FM",
+    "sources": {
+      "streams": [
+        "https://panel.innovatestream.pe:10852/stream",
+        "https://panel.innovatestream.pe:10852/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hlD4u3ktlZvU82",
+    "name": "Corp. Stereo 94.1 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rgbmruwhtuhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xkuZOigyGnGX9g",
+    "name": "Cuenca TV",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/63eny6sypuhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "NIQiNZjgjDtHeo",
+    "name": "Cómplice FM",
+    "stream_urls": [
+      "https://dattavolt.com/8422/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pzewUFPxxAs1vC",
+    "name": "De Corazón a Corazón",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/g4549vb2a5zuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1cdHtHVg6Y8RPg",
+    "name": "Ecua Stereo Bohemia",
+    "sources": {
+      "streams": [
+        "https://stream-069.zeno.fm/xlrqrx7wuwcvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3NxMc5E3lgBaQ6",
+    "name": "Ecua Zona Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/x8tqc81704zuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "MN2t8NKCbujdZq",
+    "name": "Ecuanonima",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/adu1fbacna0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xfCgwo4cc4PKMY",
+    "name": "Energía Digital",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nuk04rkkp2zuv.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qJ1johxDhWYzUI",
+    "name": "Exa FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ECUADORAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "piUfiQy1ST9UnR",
+    "name": "Expresión FM",
+    "stream_urls": [
+      "https://usa3.lhdserver.es:8031/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "piUfiQy1ST9UnR",
+    "name": "Expresión FM",
+    "sources": {
+      "streams": [
+        "https://usa3.lhdserver.es:8031/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xQgIXanZJVr8xV",
+    "name": "FB Radio",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:7032/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H7JseZlYE3wga3",
+    "name": "Flama Plus",
+    "sources": {
+      "streams": [
+        "https://streaming.viphosting.cl/8286/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3rmerMB7lN9EZ5",
+    "name": "FM Mundo",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:9810/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "POexHLQnzPV1oS",
+    "name": "Gualaceo Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/s74szs5uquhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "0zIiq7P6V0iVT5",
+    "name": "HCJB Kichwa",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8299/hcjb"
+      ]
+    },
+    "languages": [
+      "spa",
+      "que"
+    ]
+  },
+  {
+    "nanoid": "BeML007KrzZyzE",
+    "name": "HCJB La Voz de los Andes",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8287/hcjb"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "11CchXQdvnhpGV",
+    "name": "Hot 106 Fuego",
+    "sources": {
+      "streams": [
+        "https://vmi2217864.contaboserver.net:8000/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YprhSuWU3bxg17",
+    "name": "JC Radio La Bruja",
+    "sources": {
+      "streams": [
+        "https://s7.yesstreaming.net:8040/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "azqk3uiwZIdrm5",
+    "name": "Jumbo Deep Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/juhqepbmmxqvv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "0f3Vj5IBnD3aIR",
+    "name": "Jumbo Hardcore Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/edxq4n064v8uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "CqA7OR1RbKrKoy",
+    "name": "La Chismosa FM",
+    "sources": {
+      "streams": [
+        "https://sp.dattavolt.com/8052/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "grc9aWcG6yWfny",
+    "name": "La Coquetísima",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/529kmm15gv8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tQBjZqfOBEbQE1",
+    "name": "La Dinastia FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/204egk2n5ehvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZEOC0IV4GT2Ixa",
+    "name": "La Dura",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/qtta8cpyd0quv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "i3yYumZevT3ybc",
+    "name": "La Main Street",
+    "sources": {
+      "streams": [
+        "https://radiolatina.info/9930/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Yl7IqifTQssG8d",
+    "name": "La Radio de Moda",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/z0ep8kaffseuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "V2Q1lL6LEjPL3X",
+    "name": "La Radio Redonda",
+    "sources": {
+      "streams": [
+        "https://laredondafm.makrodigital.com:9550/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CXroFhIGbFbWQH",
+    "name": "La Suprema Estación",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8150/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tVexw6Uy4bukgC",
+    "name": "La Tukka",
+    "sources": {
+      "streams": [
+        "https://grupomundodigital.com:8673/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TCRnoVpKciefNG",
+    "name": "La Unika",
+    "sources": {
+      "streams": [
+        "https://stream-150.zeno.fm/rpcvrn769e9uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "a2VkRIpWSKrUa0",
+    "name": "La Voz del Tomebamba",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:8074/lavozdeltomebamba",
+        "https://streamingecuador.net:8074/lavozdeltomebamba"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9OGfxhi2v4Lk5p",
+    "name": "LOS40 Ecuador",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:7051/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "S9ASJXAT5nVbnd",
+    "name": "LV Radio Satelital",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ech627b6u18uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kkKpn6qTvm2aRv",
+    "name": "MachDeportes",
+    "stream_urls": [
+      "https://ss.ecuastreamhd.com:8186/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kkKpn6qTvm2aRv",
+    "name": "MachDeportes",
+    "sources": {
+      "streams": [
+        "https://ss.ecuastreamhd.com:8186/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y19AiySNF8f2tt",
+    "name": "Mega Star",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/4xcrps37zs8uv",
+        "https://stream.zeno.fm/kc5hfz4aqs8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5ZkB2wMKLEAbhU",
+    "name": "Merengazo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/twem5wa0k0hvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gatRSZ5Oxl08fI",
+    "name": "Música Para Ver Llover",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/8ekvqc5urfhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "N7ef8zcTERNcCA",
+    "name": "Pa' Ti Cumbia",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7cm28ptuhxhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JfE4gx1P7IIDPc",
+    "name": "Platinum FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:8160/radioplatinum"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "IUHJ4KM6oWGAzu",
+    "name": "Play FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8008/radioplayfm"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jkoNOdaw6TBjsn",
+    "name": "PM Radio",
+    "sources": {
+      "streams": [
+        "https://as100.globalhost1.com/8010/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tIJWAzqRg8SDeH",
+    "name": "Pon Salsa y Todo Norte",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/eft72w1vrnhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "l7J1gBmoSLXfrx",
+    "name": "Pública FM",
+    "sources": {
+      "streams": [
+        "https://comep.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "A8YE7ppVf3So1B",
+    "name": "Radio 11Q",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8012/radio11q",
+        "https://streamingecuador.net:8012/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jthgimU4FyaaTt",
+    "name": "Radio Activa",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8394/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H4bF4OkPUXMfxy",
+    "name": "Radio Alegría FM",
+    "sources": {
+      "streams": [
+        "https://cloudstream2032.conectarhosting.com/9376/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TWrzk6AhWmG8PN",
+    "name": "Radio Amazonas",
+    "stream_urls": [
+      "https://dattavolt.com/8346/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "TWrzk6AhWmG8PN",
+    "name": "Radio Amazonas",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8346/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EqGPqZsjJyuZSF",
+    "name": "Radio Andina",
+    "sources": {
+      "streams": [
+        "https://grupomundodigital.com:8580/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cTpwWf8fiqC08p",
+    "name": "Radio Antena Sur",
+    "sources": {
+      "streams": [
+        "https://grupomundodigital.com:8504/antenashd"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "04SckcoGuo9ndw",
+    "name": "Radio Armonía",
+    "sources": {
+      "streams": [
+        "https://radiohdstreaming.com/radio/8040/armonia"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "eNEwbyr08o5UKZ",
+    "name": "Radio Atenas",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/63feuw9ezs8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nO9OoobcfrCc28",
+    "name": "Radio Cadena",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/10g8v80ta2zuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mrZmjuCPFm2PDx",
+    "name": "Radio Cadena Country",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/wyr2sxuito5vv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fcqrn2hpazFR6c",
+    "name": "Radio Canela",
+    "sources": {
+      "streams": [
+        "https://canelaradio.makrodigital.com/stream/canelaradiomachala",
+        "https://canelaradio.makrodigital.com/stream/canelaradiochimborazo",
+        "https://canelaradio.makrodigital.com/stream/canelaradioibarra"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Oem3PiE3W3FSUk",
+    "name": "Radio Católica Cuenca",
+    "sources": {
+      "streams": [
+        "https://radiohdstreaming.com/radio/8230/catolica"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qBZomyAoZoh5TS",
+    "name": "Radio Diblu",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:9002/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "uhY31sk90yI5Un",
+    "name": "Radio DJ's Retro",
+    "sources": {
+      "streams": [
+        "https://www.streamingrv.com:8000/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fnyYudYT6w2Rdt",
+    "name": "Radio Elite",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8135/radioelite"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4ruo5AOGUvRx3L",
+    "name": "Radio Eres",
+    "sources": {
+      "streams": [
+        "https://sv70.ecuaradiotv.net:8000/eres933"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GgzGcuQ0nF7sRl",
+    "name": "Radio Evolución",
+    "sources": {
+      "streams": [
+        "https://stream.gradio.net/evolucion"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ANCaIENACdho2B",
+    "name": "Radio Forever",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8014/forever"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "h4nNStimzLZLD2",
+    "name": "Radio Fuego",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8005/radiofuego"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "XubgpxXmeLcaRR",
+    "name": "Radio Gaviota",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:9000/radiogaviota"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2VFQfYyXIdEhm1",
+    "name": "Radio Impacto",
+    "sources": {
+      "streams": [
+        "https://cast.uncuartocomunicacion.com/listen/radioimpacto/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "F6nEvWseEloulC",
+    "name": "Radio La Otra",
+    "sources": {
+      "streams": [
+        "https://laotrafm.makrodigital.com/stream/laotrafmquito"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DmN9zEZXNolHtC",
+    "name": "Radio La Red",
+    "sources": {
+      "streams": [
+        "https://icecast.radiolared.com.ec/radiolared"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DmN9zEZXNolHtC",
+    "name": "Radio La Red",
+    "sources": {
+      "streams": [
+        "https://icecast.radiolared.com.ec/radiolared"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HHp2kVPExCT7dQ",
+    "name": "Radio La Única",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8035/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "IXaHFwdc2lHuI4",
+    "name": "Radio Makro Digital",
+    "stream_urls": [
+      "https://streamingecuador.net:7000/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SiPxgtrwdP4RrV",
+    "name": "Radio Modelo",
+    "stream_urls": [
+      "https://usa3.lhdserver.es:8197/stream"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lWwtS3AFeeXufB",
+    "name": "Radio Mágica 87.7 FM",
+    "sources": {
+      "streams": [
+        "https://usa10.fastcast4u.com:1680/;"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7dY8vb3QcjhTii",
+    "name": "Radio Naval",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8029/Radio_Naval",
+        "https://streamingecuador.net:8029/radionaval"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3IeV8rUPj7BDAa",
+    "name": "Radio Nexo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/xvyq4g94fchvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Zc4PPMYrTo39sS",
+    "name": "Radio Onda Positiva 94.1 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8011/radioondapositiva"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "AY7v49FpdrzMvD",
+    "name": "Radio Pasión 92.5 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:7500/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gLYxfNVabcJI9w",
+    "name": "Radio Pichincha",
+    "sources": {
+      "streams": [
+        "https://icecast.radiopichincha.com/radiopichincha"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gLYxfNVabcJI9w",
+    "name": "Radio Pichincha",
+    "sources": {
+      "streams": [
+        "https://icecast.radiopichincha.com/radiopichincha"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "cZV54EqQTehrj2",
+    "name": "Radio Popular 1230 AM",
+    "sources": {
+      "streams": [
+        "https://stream-50.zeno.fm/py6f6znfntzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oNjl2TTAmQeqKF",
+    "name": "Radio Punto Rojo",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:9086/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "axHkPKrvNmuWWP",
+    "name": "Radio Quito 760 AM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8332/radioquito"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Oaybqcjo6fWoFM",
+    "name": "Radio Romance",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:9090/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CEqs7KVUoab8TK",
+    "name": "Radio RSN",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/wahxwkbdaoduv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lcVMjoOZ7x50ot",
+    "name": "Radio Rumba Network",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8078/radiorumbanetwork"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Op3dMZwgDANEUI",
+    "name": "Radio Son De Manta 93.3 FM",
+    "sources": {
+      "streams": [
+        "https://grupomundodigital.com:8649/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SCcHQZmh5nThqu",
+    "name": "Radio Super Sol",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:8002/radiosupersol"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hpBFm8njb9XIDN",
+    "name": "Radio Tambo Mix",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gey7t9er11zuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qFxVTuaW6nsjas",
+    "name": "Radio Tía",
+    "sources": {
+      "streams": [
+        "https://grupomundodigital.com:9170/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BMvnmDLft5aGoj",
+    "name": "Radio Valle FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/veu31437sm0uv",
+      "https://stream-152.zeno.fm/veu31437sm0uv"
+    ],
+    "country": "ec",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "6zFMzL8QxwePNr",
+    "name": "Radio Zaracay",
+    "sources": {
+      "streams": [
+        "https://stream-36.zeno.fm/as3xhhc0ts8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VdB4xP8x8Csg3P",
+    "name": "RCN Católica Nacional",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8358/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "yNy6q9Ukjulod9",
+    "name": "RCS Chimborazo Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/epr9867v438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RdmIOO3Osk4Ti4",
+    "name": "RCS El Oro Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/v4bvybbw438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "chiokQCVKplLje",
+    "name": "RCS Guayas Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/75b5ah2v438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "z3SAljmF8Wn1kJ",
+    "name": "RCS Imbabura Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/kewgx19v438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "eJZiq4tIGPPXNr",
+    "name": "RCS Manabi Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/esda9vaw438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "jfhJL8UvTLfDwm",
+    "name": "RCS Morona Santiago Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2r6uvhcw438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Lq2VIkEXAZBZTC",
+    "name": "RCS Noticias",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/mz04b1exz08uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "SE9Uc8ENDnrSCn",
+    "name": "RCS Orellana Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pb4351gw438uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gpmuAdR5dlIKXa",
+    "name": "RCS Quito Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/p6dy80yt6s8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "edyvZ0jTu7Z8om",
+    "name": "RNC La Mundialista 103.3 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:7008/radiornc"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "n91qh7AMXksxgo",
+    "name": "Rockeando con Reguetón",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ck2uqw2dgphvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2JfOc2bPvzDaeI",
+    "name": "Rosate con Bachata",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/uagzy1yc5uhvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "chmG9294Rzr9Ur",
+    "name": "RTP 96.5 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8167/radiotropicana"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fitoO0Nl9GEdKr",
+    "name": "Rumiñahui FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.com:9040/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "YhEdz2yDIJ7GRn",
+    "name": "San Fernando FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gqn5xf0fd18uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "OOKo24aYKNjRt8",
+    "name": "Super 9'49",
+    "sources": {
+      "streams": [
+        "https://dattavolt.com/8028/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UEY5i4lwWaslqy",
+    "name": "Tambo FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/uqwrvvpvhm0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ie2MXnXRjmyTPU",
+    "name": "Tu Voz Stereo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/zy7aqxp4q98uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vTHoqkBenwyr5S",
+    "name": "Tucán Radio 105.1 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8023/radiotucan"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vTHoqkBenwyr5S",
+    "name": "Tucán Radio 105.1 FM",
+    "sources": {
+      "streams": [
+        "https://streamingecuador.net:8023/radiotucan"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "ec",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GgJbGGgx4SnUC4",
+    "name": "Xtrema FM",
+    "sources": {
+      "streams": [
+        "https://s1.raudiostream.com:8004/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  }
+]

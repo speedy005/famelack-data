@@ -1,0 +1,14 @@
+[
+  {
+    "nanoid": "dmGSnAFr1ByeQp",
+    "name": "Yarona FM 106.6",
+    "sources": {
+      "streams": [
+        "https://iceant.antfarm.co.za/yarona"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  }
+]

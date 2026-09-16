@@ -1,0 +1,44 @@
+[
+  {
+    "nanoid": "97DWduUX5Hf0aj",
+    "name": "FUSION TV",
+    "sources": {
+      "streams": [
+        "https://edge20.vedge.infomaniak.com/livecast/ik:fusiontv/manifest.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "mq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qcIhqbTEQbBGRN",
+    "name": "Identite Tele Caraibes",
+    "sources": {
+      "streams": [
+        "https://vdo2.pro-fhi.net:3769/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "mq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MBKYOzxWLTlns1",
+    "name": "Tele Zoukla",
+    "sources": {
+      "streams": [
+        "https://vdo.pro-fhi.net:3228/stream/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "mq",
+    "isGeoBlocked": false
+  }
+]

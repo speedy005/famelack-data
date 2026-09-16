@@ -1,0 +1,62 @@
+[
+  {
+    "nanoid": "NFoBg6V7WOsaZQ",
+    "name": "Al Araby Radio",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "SDYFFzWBj4MvyI",
+    "name": "Habaieb FM 93.7",
+    "sources": {
+      "streams": [
+        "https://lit-cast.com/proxy/habaiebfm/stream"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "F2RiffpCmzqIyl",
+    "name": "Qabayan Radio 94.3 FM",
+    "sources": {
+      "streams": [
+        "https://c2.radioboss.fm:8478/live"
+      ]
+    },
+    "languages": [
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "HesRwbRJDo3YTS",
+    "name": "Radio Olive 106.3 FM",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+      "https://22733.live.streamtheworld.com/OLIVE1063.mp3"
+    ],
+    "country": "qa",
+    "languages": [
+      "hin"
+    ]
+  },
+  {
+    "nanoid": "HWsmmbTPbz065a",
+    "name": "Radio Suno 91.7 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3"
+      ]
+    },
+    "languages": [
+      "mal"
+    ]
+  }
+]

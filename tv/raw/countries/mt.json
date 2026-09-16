@@ -1,0 +1,83 @@
+[
+  {
+    "nanoid": "Egywa5AKvhGwrQ",
+    "name": "NET",
+    "stream_urls": [
+      "https://stream.smashmalta.com:25463/live/webplayer/livestream/22.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mlt"
+    ],
+    "country": "mt",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "UsJXOMx0kW72JG",
+    "name": "One",
+    "sources": {
+      "streams": [
+        "https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "mlt"
+    ],
+    "country": "mt",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "UOaikakVsJCVG5",
+    "name": "Parliament of Malta",
+    "stream_urls": [
+      "https://stream.smashmalta.com:25463/live/webplayer/livestream/23.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mlt"
+    ],
+    "country": "mt",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "q0dmzp63aDVtoc",
+    "name": "TVM",
+    "stream_urls": [
+      "https://stream.smashmalta.com:25463/live/webplayer/livestream/19.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "mlt"
+    ],
+    "country": "mt",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "RZf6sd1eGccVGj",
+    "name": "TVMsport+",
+    "stream_urls": [
+      "https://stream.smashmalta.com:25463/live/webplayer/livestream/29.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "mlt"
+    ],
+    "country": "mt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "sU1UtLHoIJ54wV",
+    "name": "Smash TV",
+    "stream_urls": [
+      "https://stream.smashmalta.com:25463/live/webplayer/livestream/47.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "mlt"
+    ],
+    "country": "mt",
+    "isGeoBlocked": false
+  }
+]

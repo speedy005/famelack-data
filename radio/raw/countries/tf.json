@@ -1,0 +1,26 @@
+[
+  {
+    "nanoid": "KPlJFY5LrgJONM",
+    "name": "Sensuelle Radio",
+    "sources": {
+      "streams": [
+        "https://radio10.pro-fhi.net/radio/9169/stream"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "MpndaRpK4gVbWb",
+    "name": "Sensuelle Radio 80",
+    "sources": {
+      "streams": [
+        "https://forwardmystream.com/sensuelleradio"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  }
+]

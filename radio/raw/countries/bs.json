@@ -1,0 +1,146 @@
+[
+  {
+    "nanoid": "47FuuY7AaakROS",
+    "name": "100 Jamz",
+    "sources": {
+      "streams": [
+        "https://ice66.securenetsystems.net/100JAMZ"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vpG9pOWjCB3bos",
+    "name": "103 The Beat",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/01d8c449cyduv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RSL9Zsqo4KG6Et",
+    "name": "96.9 FM Guardian Radio",
+    "stream_urls": [
+      "https://radiostreams.streamcomedia.com:8000/969guardianradio"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ATjqKteUCtGSqd",
+    "name": "Global 99.5 FM",
+    "sources": {
+      "streams": [
+        "https://ice64.securenetsystems.net/GLOBALBS"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IakfUlexXX3OWW",
+    "name": "Gospel 107.1 FM",
+    "stream_urls": [
+      "https://c25.radioboss.fm:8186/stream"
+    ],
+    "country": "bs",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IakfUlexXX3OWW",
+    "name": "Gospel 107.1 FM",
+    "sources": {
+      "streams": [
+        "https://c25.radioboss.fm:8186/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "bs",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FYZdXh9A0UzVTf",
+    "name": "Hot 91.7 FM",
+    "sources": {
+      "streams": [
+        "https://ice25.securenetsystems.net/HOT917FM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "l1WlSfufL0VAuV",
+    "name": "Kiss 96.1 FM",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/96KISSFM"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "xGISo8E1G5jTGO",
+    "name": "Star 106.5 FM",
+    "sources": {
+      "streams": [
+        "https://radiostreams.streamcomedia.com:8020/star1065fm"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "VBNo9VtscpL3jl",
+    "name": "ZNS-1 The National Voice",
+    "sources": {
+      "streams": [
+        "https://radiostreams.streamcomedia.com:8008/zns1540am"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "BML2rSnXpcpa1T",
+    "name": "ZNS-2 Inspiration 107.9 FM",
+    "sources": {
+      "streams": [
+        "https://radiostreams.streamcomedia.com:8006/zns1079fm"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "LYR5KRd53CBm7N",
+    "name": "ZNS-3 The Light 810 AM",
+    "sources": {
+      "streams": [
+        "https://radiostreams.streamcomedia.com:8002/zns810am"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  }
+]

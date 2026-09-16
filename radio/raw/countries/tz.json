@@ -1,0 +1,222 @@
+[
+  {
+    "nanoid": "DeBV19KyyojAEH",
+    "name": "Capital Radio",
+    "sources": {
+      "streams": [
+        "https://capitalradio.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "swa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "l7x1RFX3FETvwN",
+    "name": "Dodoma FM 98.4",
+    "sources": {
+      "streams": [
+        "https://radiotadio.co.tz/dodoma-fm-stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "aI2tuTGkj4TaUG",
+    "name": "East Africa Radio",
+    "sources": {
+      "streams": [
+        "https://eatv.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "ga2LKiBvg9fvdI",
+    "name": "Global Radio",
+    "sources": {
+      "streams": [
+        "https://zas7.ndx.co.za:8026/stream"
+      ]
+    },
+    "languages": [
+      "swa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "sIIfRcdqOzApYk",
+    "name": "Heaven FM Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/eequgfw72hhvv"
+      ]
+    },
+    "languages": [
+      "swa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fjFjs36wBkQRy8",
+    "name": "ImbaNasi",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/dsfhivkawjiuv"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "rwTktPKyP2nWrq",
+    "name": "Ishizwe FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/zhhawbqoikatv"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "0V9VPdgp1A3vJb",
+    "name": "Jambo FM 92.7",
+    "sources": {
+      "streams": [
+        "https://cast3.asurahosting.com/proxy/jambocom/stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "rf8HeG4DQvC54C",
+    "name": "KGT Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2ydchn6cyy8uv"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "ie7N8D1pXJIDgV",
+    "name": "Kiss FM",
+    "stream_urls": [
+      "https://s3.radio.co/sbe50ddddb/listen"
+    ],
+    "country": "tz",
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "ie7N8D1pXJIDgV",
+    "name": "Kiss FM",
+    "sources": {
+      "streams": [
+        "https://s3.radio.co/sbe50ddddb/listen"
+      ]
+    },
+    "languages": [
+      "swa"
+    ],
+    "country": "tz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IkxrgxS9MdCoDx",
+    "name": "Mazingira FM 91.7",
+    "sources": {
+      "streams": [
+        "https://radiotadio.co.tz/mazingira-fm-stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "icxCYUwgFWlxnw",
+    "name": "Morning Star Radio 105.3",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/cumarh23pvduv"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "GgT08nEVnuL0jX",
+    "name": "Mungu Kwanza Online Radio",
+    "sources": {
+      "streams": [
+        "https://mungukwanza.radioca.st/;"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "dz9BckPhfzTIvu",
+    "name": "Nuru FM",
+    "sources": {
+      "streams": [
+        "https://radiotadio.co.tz/nuru-fm-stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "kzD3De6zpDZ3sW",
+    "name": "Radio Ngamia",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/41e3gsdgmdouv"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "0njL5AkSCWOE4T",
+    "name": "Radio One Stereo 89.7",
+    "sources": {
+      "streams": [
+        "https://radioonetanzania.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  },
+  {
+    "nanoid": "aMiVRs1Esj7oMC",
+    "name": "Radio Uhai 94.1 FM",
+    "sources": {
+      "streams": [
+        "https://s2.citrus3.com:8050/stream"
+      ]
+    },
+    "languages": [
+      "swa"
+    ]
+  }
+]

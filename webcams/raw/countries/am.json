@@ -1,0 +1,26 @@
+[
+  {
+    "nanoid": "FhcN86FGXkJRPs",
+    "name": "Northern Bus Station & Yerevan-Sevan highway",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/LvRsT07hJOE"
+      ]
+    },
+    "languages": [],
+    "country": "am",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gHV381PMBEkppR",
+    "name": "Orbeli Street",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/BQY5LAmDEVM"
+      ]
+    },
+    "languages": [],
+    "country": "am",
+    "isGeoBlocked": false
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "nanoid": "BkNvZNcvt4fu9h",
+    "name": "F1 Channel",
+    "stream_urls": [
+      "https://amg12058-c15studio-amg12058c1-lg-us-5787.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "znEq7YZ6MajISX",
+    "name": "Setanta Sports 2 Eurasia",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/235/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ie",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "jE5PruME2i0V9B",
+    "name": "TG4",
+    "sources": {
+      "streams": [
+        "https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "gle"
+    ],
+    "country": "ie",
+    "isGeoBlocked": false
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "nanoid": "12u2jEAEmz9dyj",
+    "name": "Ariana FM 93.5",
+    "sources": {
+      "streams": [
+        "https://streams.radio.co/sa3345aaa8/listen"
+      ]
+    },
+    "languages": [
+      "pus",
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "0lGwsWkiMgDuya",
+    "name": "Enikass Radio",
+    "stream_urls": [
+      "https://stream.zeno.fm/9e880vgncd0uv"
+    ],
+    "country": "af",
+    "languages": []
+  },
+  {
+    "nanoid": "YPW3DFNxwXFFJ3",
+    "name": "Radio Jawanan",
+    "sources": {
+      "streams": [
+        "https://s3.radio.co/s3a13a855f/listen"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "oCPQWKF2JrrktA",
+    "name": "Radio Srood",
+    "sources": {
+      "streams": [
+        "https://stream.radiosrood.com/"
+      ]
+    },
+    "languages": [
+      "fas",
+      "pus"
+    ],
+    "country": "af",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dft1aoxs5ESU5m",
+    "name": "Salam Watandar",
+    "sources": {
+      "streams": [
+        "https://s10.myradiostream.com/:12238/;"
+      ]
+    },
+    "languages": [
+      "pus",
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "dft1aoxs5ESU5m",
+    "name": "Salam Watandar",
+    "stream_urls": [
+      "https://s10.myradiostream.com/:12238/;"
+    ],
+    "country": "af",
+    "languages": [
+      "pus",
+      "fas"
+    ]
+  }
+]

@@ -1,0 +1,228 @@
+[
+  {
+    "nanoid": "OnU6CNngFJRJKk",
+    "name": "88.3Jia",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "5aG5PO4DLFXxLL",
+    "name": "96.3 Hao FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "lok9bpHW6PkUDo",
+    "name": "973FM: Blasts That Last",
+    "stream_urls": [
+      "https://c16.radioboss.fm:8115/autodj",
+      "https://c16.radioboss.fm:18115/stream"
+    ],
+    "country": "sg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4y2s0iWYqCFx80",
+    "name": "987FM",
+    "sources": {
+      "streams": [
+        "https://22393.live.streamtheworld.com/987FM_PREM.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Dul2tKVbXXuzse",
+    "name": "AXR Manila",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rMljb7Vx1dGlqK",
+    "name": "AXR Singapore",
+    "sources": {
+      "streams": [
+        "https://22283.live.streamtheworld.com/AXR_SINGAPOREAAC.aac",
+        "https://singaporestream.axr.online/"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "r8BY8xreeDleHX",
+    "name": "Beam FM",
+    "sources": {
+      "streams": [
+        "https://beamfm.streeemer.com/listen/beam_fm/radio.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "KXGsZ5lEvKmYV5",
+    "name": "Bible Witness Web Radio",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UQQToyRkOREm6D",
+    "name": "CNA938",
+    "sources": {
+      "streams": [
+        "https://22903.live.streamtheworld.com/938NOW_PREM_SC",
+        "https://28333.live.streamtheworld.com/938NOW_PREM_SC",
+        "https://28373.live.streamtheworld.com/938NOW_PREM_SC"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "GwJhya1PpQmXPS",
+    "name": "Gold 905",
+    "sources": {
+      "streams": [
+        "https://22403.live.streamtheworld.com/GOLD905_SC"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cKsDwmsayH0ZmW",
+    "name": "Kiss92",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92AAC.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "cwpKXtlLBvDeZj",
+    "name": "Love 972",
+    "sources": {
+      "streams": [
+        "https://22903.live.streamtheworld.com/LOVE972FMAAC.aac"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "vmTnRt2nmMsVSM",
+    "name": "Money FM 89.3",
+    "sources": {
+      "streams": [
+        "https://22243.live.streamtheworld.com/MONEY_893AAC.aac",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "wA8Fv4r432JW7U",
+    "name": "One FM 91.3",
+    "sources": {
+      "streams": [
+        "https://27223.live.streamtheworld.com/ONE_FM_913AAC_SC",
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913_SC",
+        "https://22243.live.streamtheworld.com/ONE_FM_913AAC_SC"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "sg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4SWnYjTkFtnW0J",
+    "name": "Power 98 Love Songs",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4AkDUUkpfp88sS",
+    "name": "Ria 897",
+    "sources": {
+      "streams": [
+        "https://22393.live.streamtheworld.com/RIA897FM_SC"
+      ]
+    },
+    "languages": [
+      "msa"
+    ]
+  },
+  {
+    "nanoid": "qlZx3KhYvbBeaI",
+    "name": "UFM 100.3",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+        "https://28093.live.streamtheworld.com/UFM_1003AAC.aac"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "cYGS4MtYI1wrJI",
+    "name": "YES 933",
+    "stream_urls": [
+      "https://22893.live.streamtheworld.com/YES933_SC",
+      "https://22903.live.streamtheworld.com/YES933AAC_SC",
+      "https://28453.live.streamtheworld.com/YES933AAC.aac"
+    ],
+    "country": "sg",
+    "languages": [
+      "zho"
+    ]
+  }
+]

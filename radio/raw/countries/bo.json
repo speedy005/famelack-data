@@ -1,0 +1,650 @@
+[
+  {
+    "nanoid": "OHpcQb2pOM26LP",
+    "name": "ATB Radio",
+    "sources": {
+      "streams": [
+        "https://streamingenbolivia.com/8006/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "lFT1Z9i7knlyC8",
+    "name": "Big Radio Bolivia",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/cb4zhgss538uv"
+      ]
+    },
+    "languages": [
+      "spa",
+      "que"
+    ]
+  },
+  {
+    "nanoid": "aTsFOdDVrmF6Ur",
+    "name": "Black Rabbit",
+    "stream_urls": [
+      "https://rfcm.streamguys1.com/jazzsk-mp3"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "oAhbcIoSf4lCby",
+    "name": "Cristo Viene La Red",
+    "sources": {
+      "streams": [
+        "https://stream20.usastreams.com:7000/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7FgouFATDLmhwP",
+    "name": "El Fin del Silencio",
+    "sources": {
+      "streams": [
+        "https://servidor24-1.brlogic.com:7302/live"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Wp7Lt2iFnPMJyF",
+    "name": "Erbol FM",
+    "sources": {
+      "streams": [
+        "https://radio.erbol.com.bo/"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "nJxi5KmuTGKFAs",
+    "name": "Eres Radio",
+    "sources": {
+      "streams": [
+        "https://sp5.servidorrprivado.com/8789/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vM6SuRw1IHyFTG",
+    "name": "esLatino Radio",
+    "sources": {
+      "streams": [
+        "https://spanel.gcomstreaming.com/8030/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "k2jhV7G3DcUrth",
+    "name": "FM Bolivia",
+    "stream_urls": [
+      "https://stm11.xcast.com.br:11300/stream/1/"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wgidoyjiJhFmVR",
+    "name": "FM La Paz 96.7",
+    "sources": {
+      "streams": [
+        "https://spanel.gcomstreaming.com/8018/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CbZLDfoEYQihgq",
+    "name": "Quechua FM",
+    "sources": {
+      "streams": [
+        "https://stream-174.zeno.fm/e78z1h3drd0uv"
+      ]
+    },
+    "languages": [
+      "spa",
+      "que"
+    ]
+  },
+  {
+    "nanoid": "JWzJuO06qlP5Gk",
+    "name": "Radio 24 de Julio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/tu8weq69fwzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "r45ftXX2LSogM6",
+    "name": "Radio Acer",
+    "sources": {
+      "streams": [
+        "https://live.turadiotv.com/8004/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "RQgIWlmMPZMUa7",
+    "name": "Radio Activa",
+    "sources": {
+      "streams": [
+        "https://radio02.com/7002/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fIeaMoXMQMbSqY",
+    "name": "Radio Activa Guanay",
+    "sources": {
+      "streams": [
+        "https://sonic.dattassd.com:10902/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "0W6etoeizFPDV7",
+    "name": "Radio Advenir Internacional",
+    "sources": {
+      "streams": [
+        "https://ec1.yesstreaming.net:2190/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7B3TCJcF7BFgyy",
+    "name": "Radio Aymara",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/du0x9skxum0uv"
+      ]
+    },
+    "languages": [
+      "aym",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4FDkz2Y2xC4Kzp",
+    "name": "Radio Caliente",
+    "sources": {
+      "streams": [
+        "https://eu1.serviaudio.com:10982/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Hd5uAkgw7GQfaU",
+    "name": "Radio Camargo",
+    "sources": {
+      "streams": [
+        "https://stm1.streamproarte.com.br:7020/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7Od6goFRSY0bhc",
+    "name": "Radio CEPRA",
+    "stream_urls": [
+      "https://fm.awanahost.com/8058/cbba"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fRCt5IEiaDOkUj",
+    "name": "Radio Chacaltaya",
+    "sources": {
+      "streams": [
+        "https://cast6.asurahosting.com/proxy/irfradio/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mzJxqjN0JPX0oZ",
+    "name": "Radio Ciudad",
+    "sources": {
+      "streams": [
+        "https://streamingenbolivia.com/8002/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5YeHioqqbDq9Y2",
+    "name": "Radio Constelación",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ks1tsgndvp8uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "qUs6zAppQBzeoa",
+    "name": "Radio Disney",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BOL_SCAAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "UA2GKW9IEAUa2b",
+    "name": "Radio El Sonido de Vida",
+    "sources": {
+      "streams": [
+        "https://stream-158.zeno.fm/c4z6tu9gqeruv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ummaJE2q8PutC9",
+    "name": "Radio Estelar",
+    "sources": {
+      "streams": [
+        "https://a3.asurahosting.com:6080/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wHumMJnBXUM6yn",
+    "name": "Radio Estrella",
+    "sources": {
+      "streams": [
+        "https://cesarradio.realserver.es:8030/radio.mp3",
+        "https://cesarradio.realserver.es/listen/lne_93.1/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "RMf8j7DsFz4q0T",
+    "name": "Radio Gente",
+    "sources": {
+      "streams": [
+        "https://server1.fex.red:8366/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kOVrZZ6gnASWNe",
+    "name": "Radio Gigante",
+    "sources": {
+      "streams": [
+        "https://cloudstream2032.conectarhosting.com:7311/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GDKOz05EpG9qxe",
+    "name": "Radio Kollasuyo 960 AM",
+    "sources": {
+      "streams": [
+        "https://azura2.bitstreaming.net:8000/radio128.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3H3iIX8TpGx6wM",
+    "name": "Radio La Patria",
+    "stream_urls": [
+      "https://inliveserver.com:2000/stream/8136"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "q5E5HyCAGGgMEZ",
+    "name": "Radio Luis de Fuentes 93.1",
+    "sources": {
+      "streams": [
+        "https://stm8.xcast.com.br:10180/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "B2F3bTGU37ehSW",
+    "name": "Radio Majestad 105.7",
+    "stream_urls": [
+      "https://stream-175.zeno.fm/qvqzs5zetwzuv"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "B2F3bTGU37ehSW",
+    "name": "Radio Majestad 105.7",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/qvqzs5zetwzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oSbxrEbcCMhkLD",
+    "name": "Radio Marítima",
+    "sources": {
+      "streams": [
+        "https://spanel.gcomstreaming.com/8004/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4nZGywYubudpS3",
+    "name": "Radio Melodia",
+    "sources": {
+      "streams": [
+        "https://stream.consultoradas.com/8244/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "bo",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "YkWzayRmTdUX8i",
+    "name": "Radio Panamericana",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5hfx7xfambruv",
+        "https://stream.zeno.fm/pnwpbyfambruv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "5KAVVWL5uxw58W",
+    "name": "Radio Pío XII 97.9",
+    "sources": {
+      "streams": [
+        "https://aler.org:8445/pio12cbba.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BeAsvMooc7FMny",
+    "name": "Radio Qhana 98.5",
+    "sources": {
+      "streams": [
+        "https://cast6.asurahosting.com/proxy/radiost4/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WBvQprKhCj7aqj",
+    "name": "Radio Ritmo 97.3",
+    "sources": {
+      "streams": [
+        "https://azura1.bitstreaming.net/listen/radio_ritmo/radio.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "H5vER2z6TwnYGN",
+    "name": "Radio San Gabriel",
+    "sources": {
+      "streams": [
+        "https://spanel.gcomstreaming.com:7004/;"
+      ]
+    },
+    "languages": [
+      "aym",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ahXsQtDdzpUfXQ",
+    "name": "Radio San Gabriel 620 AM",
+    "sources": {
+      "streams": [
+        "https://spanel.gcomstreaming.com:7003/;"
+      ]
+    },
+    "languages": [
+      "aym",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ta4WXc49OBiqhL",
+    "name": "Radio San Miguel 99.1",
+    "sources": {
+      "streams": [
+        "https://stream-179.zeno.fm/n0gybrq4k0hvv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qsGX4YYtnrsCvW",
+    "name": "Radio San Rafael 92.5",
+    "sources": {
+      "streams": [
+        "https://guri.tepuyserver.net:7098/stream"
+      ]
+    },
+    "languages": [
+      "spa",
+      "que"
+    ]
+  },
+  {
+    "nanoid": "DQQ2Y4rDAIsnca",
+    "name": "Radio Santa Cruz 92.2",
+    "sources": {
+      "streams": [
+        "https://azura1.bitstreaming.net:8510/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "827MojeFVm7she",
+    "name": "Radio Splendid",
+    "sources": {
+      "streams": [
+        "https://spanel.gcomstreaming.com/8032/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wnHx67Vjk0WvgJ",
+    "name": "Radio Sucre 1320 AM",
+    "sources": {
+      "streams": [
+        "https://ares.disfrutaenlared.com:7791/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WUhqc78fKQl4gM",
+    "name": "Radio Super Mix 90.9",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/v93yq4bmpm0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cIOESE7d4C9Aum",
+    "name": "Radio Tuti Internacional",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nplf6hpufi5uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fCxgMAiTPpH5qV",
+    "name": "Radio Wiracocha",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/rtui1p0xscetv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1hdk8Ajy9BdeuR",
+    "name": "Radio Éxito",
+    "stream_urls": [
+      "https://cast6.my-control-panel.com/proxy/radiostr/;"
+    ],
+    "country": "bo",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "EZMSodybqXFfO3",
+    "name": "Stereo 97",
+    "sources": {
+      "streams": [
+        "https://stream.consultoradas.com/8340/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "t0W2jJHyjQBhL2",
+    "name": "Sucremanta",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gli54dgn5kwuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  }
+]

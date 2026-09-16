@@ -1,0 +1,124 @@
+[
+  {
+    "nanoid": "pHk3ddWMR8RZko",
+    "name": "109.0 FM Christmas Kids",
+    "stream_urls": [
+      "https://stream.dar.fm/97821"
+    ],
+    "country": "dz",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "S5YgESzcui66bm",
+    "name": "Algérie Chaîne 3",
+    "sources": {
+      "streams": [
+        "https://radiochaine3.ice.infomaniak.ch/chaine3.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "Q6Z507DzG4bvxy",
+    "name": "Antinéa Radio",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/6640/stream/347"
+      ]
+    },
+    "languages": [
+      "fra",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "b5JMOUtDokI6TJ",
+    "name": "GhorbaDz",
+    "stream_urls": [
+      "https://stream-150.zeno.fm/y9rchc1djgavv"
+    ],
+    "country": "dz",
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "kSN5sQwp0KcoJJ",
+    "name": "Hits 1 Algérie",
+    "sources": {
+      "streams": [
+        "https://radio12.pro-fhi.net/listen/whmnrlow/stream"
+      ]
+    },
+    "languages": [
+      "fra",
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "TWv4w86jvtIwGn",
+    "name": "Radio Elibana",
+    "sources": {
+      "streams": [
+        "https://radio.elibana.org/radio/8000/tasfia1"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ZoEuwJ7GGWm6ro",
+    "name": "Radio Sisko",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/p4cea0p314zuv"
+      ]
+    },
+    "languages": [
+      "ara",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "5sTmBlUb2gBmyq",
+    "name": "Radio Tizi Ouzou",
+    "sources": {
+      "streams": [
+        "https://radiotiziouzou.ice.infomaniak.ch/tiziouzou.mp3"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "oXnP5NNdDSxlsm",
+    "name": "Sahabah Stories Radio",
+    "sources": {
+      "streams": [
+        "https://qurango.net/radio/sahabah"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "2J1S3CnB3lT3ot",
+    "name": "Saudi Quran Radio",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/0tpy1h0kxtzuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  }
+]

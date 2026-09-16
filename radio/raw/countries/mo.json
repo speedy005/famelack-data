@@ -1,0 +1,66 @@
+[
+  {
+    "nanoid": "ye9rKg589PKAZJ",
+    "name": "CityFM Macau",
+    "sources": {
+      "streams": [
+        "https://lhttp.qtfm.cn/live/20500153/64k.mp3"
+      ]
+    },
+    "languages": [
+      "por",
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "nuoOGvqgTXTIDX",
+    "name": "Lotus FM Macau",
+    "sources": {
+      "streams": [
+        "https://lhttp.qtfm.cn/live/20533/64k.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "0oqivz2nVgJ6fS",
+    "name": "Lotus Macau Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp.qtfm.cn/live/20133/64k.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "BHsAbnQM7LxWSI",
+    "name": "Smooth FM",
+    "sources": {
+      "streams": [
+        "https://stream-icy.bauermedia.pt/smooth.aac"
+      ]
+    },
+    "languages": [
+      "por",
+      "zho"
+    ]
+  },
+  {
+    "nanoid": "YwXSBgMVHXYH2Y",
+    "name": "YW City Radio",
+    "sources": {
+      "streams": [
+        "https://lhttp.qingting.fm/live/1259/64k.mp3"
+      ]
+    },
+    "languages": [
+      "zho"
+    ]
+  }
+]

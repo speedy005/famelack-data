@@ -1,0 +1,365 @@
+[
+  {
+    "nanoid": "KzVe2SDq8kZ9uY",
+    "name": "AFN 360 Guantanamo Bay",
+    "stream_urls": [
+      "https://28513.live.streamtheworld.com/AFNE_GMO_SC",
+      "https://23543.live.streamtheworld.com/AFNE_GMO_SC",
+      "https://27783.live.streamtheworld.com/AFNE_GMO_SC"
+    ],
+    "country": "cu",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TnRAM0ClEIUWZv",
+    "name": "Canal Radio Cruces",
+    "sources": {
+      "streams": [
+        "https://canalradio.stream.laut.fm/canalradio"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "CKsxmkZtNatU1n",
+    "name": "CMBF Radio Musical Nacional",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/Nbtz7HT3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EI4mz7qSB1CwCS",
+    "name": "CMKC Radio Revolución",
+    "stream_urls": [
+      "https://icecast.teveo.cu/Nbtz7HT3"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hdzA6jFpH910bE",
+    "name": "Cubanía Radio",
+    "sources": {
+      "streams": [
+        "https://streamingv2.shoutcast.com/cubania"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gmicEbEyDkNGM9",
+    "name": "Hostal Azul Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/b4m2tic2ibbtv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wDy4hCj5PP7y8X",
+    "name": "Neon Radio XL",
+    "sources": {
+      "streams": [
+        "https://s12.myradiostream.com:16754/listen.m4a"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "wDy4hCj5PP7y8X",
+    "name": "Neon Radio XL",
+    "stream_urls": [
+      "https://s12.myradiostream.com:16754/listen.m4a"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gYlIHV5Q102lej",
+    "name": "Radio A Toda Mecha",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/gjexooyemj3uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "otSbeEb0TxKdgw",
+    "name": "Radio Bayamo 98.6 FM",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/7hdNcTbM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "E4A8m3Zc3mdsq1",
+    "name": "Radio Cadena Agramonte",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/j99xztkT"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Owdw54YR8ZN2Kj",
+    "name": "Radio Ciudad del Mar",
+    "stream_urls": [
+      "https://icecast.teveo.cu/CL7jRXqn"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Owdw54YR8ZN2Kj",
+    "name": "Radio Ciudad del Mar",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/CL7jRXqn"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eWn9p1bfOlKPyj",
+    "name": "Radio Ciudad Monumento 95.3 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/KR43FF7C"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "gF72AZhqpEbILF",
+    "name": "Radio CMHW",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/TsxMM94R"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "bUb3AehlALm6xO",
+    "name": "Radio COCO",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/fvc4RVRz"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "1YhBYqNSE8PiyN",
+    "name": "Radio Habana Cuba",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/McW3fLhs"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "n7a4Sb7lAsO0dw",
+    "name": "Radio Jaruco 104.9 FM",
+    "stream_urls": [
+      "https://icecast.teveo.cu/KH9tVwrC"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HYCLudGxg2DkFr",
+    "name": "Radio Jiganí",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/nkz3TCfR"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cu",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "kowxErg3TjkbD8",
+    "name": "Radio La Voz del Níquel",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/nj4PLTHR"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FRXh1a0fziuHn0",
+    "name": "Radio Mayabeque",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/Rsrm7P9h"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FRXh1a0fziuHn0",
+    "name": "Radio Mayabeque",
+    "stream_urls": [
+      "https://icecast.teveo.cu/Rsrm7P9h"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "iqOztx1FjRPjR6",
+    "name": "Radio Morón 98.9 FM",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/jJ4JV3FK"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "w1GR2uoRZnvhlT",
+    "name": "Radio Progreso",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/XjfW7qWN"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "vn5x1pALaKEbXy",
+    "name": "Radio Rebelde",
+    "stream_urls": [
+      "https://icecast.teveo.cu/zrXXWK9F",
+      "https://icecast.teveo.cu/kHKL7tWd"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "sFMnvHVm81kwcy",
+    "name": "Radio Reloj",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/b3jbfThq"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "WIsULeHzEIVsLH",
+    "name": "Radio Sagua",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/wHm3qrMx"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "JVOQtGvKVrWI8G",
+    "name": "Radio Taíno",
+    "sources": {
+      "streams": [
+        "https://icecast.teveo.cu/3MCwWg3V"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "msPAua9SG5v6dE",
+    "name": "Radio Victoria",
+    "stream_urls": [
+      "https://icecast.teveo.cu/P77NJX4X",
+      "https://icecast.teveo.cu/F9tgnJVT"
+    ],
+    "country": "cu",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "onWSKSInKUktIW",
+    "name": "Romance 106",
+    "sources": {
+      "streams": [
+        "https://s13.myradiostream.com:41400/listen.m4a"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  }
+]

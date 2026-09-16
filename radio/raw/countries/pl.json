@@ -1,0 +1,5701 @@
+[
+  {
+    "nanoid": "zVk0nwRCsBnMz1",
+    "name": "24Dubstep.pl CalmFlow",
+    "sources": {
+      "streams": [
+        "https://stream.24dubstep.pl/listen/chillstep/mp3_normal"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HM6ADT3ZCreswE",
+    "name": "24Dubstep.pl DropZone Radio",
+    "sources": {
+      "streams": [
+        "https://stream.24dubstep.pl/radio/8000/mp3_normal"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SlfNZYUdTCLCGm",
+    "name": "4Music",
+    "stream_urls": [
+      "https://s1.slotex.pl/shoutcast/7102/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "EDukHiPZ3u5Fa9",
+    "name": "Akademickie Radio Kampus",
+    "sources": {
+      "streams": [
+        "https://stream.radiokampus.fm/kampus"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wqvSZhq1RLKF3y",
+    "name": "Antyradio",
+    "stream_urls": [
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
+      "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+      "https://an.cdn.eurozet.pl/ant-web.mp3",
+      "https://an02.cdn.eurozet.pl/ant-web.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "eza2nv6QnkYrRo",
+    "name": "Antyradio Classic Rock",
+    "sources": {
+      "streams": [
+        "https://an01.cdn.eurozet.pl/ANTCLA.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KpawYe02z51ypI",
+    "name": "Antyradio Covers",
+    "sources": {
+      "streams": [
+        "https://an.cdn.eurozet.pl/ANTCOV.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HIGiCm4nNjgPyn",
+    "name": "Antyradio Greatest Hits",
+    "sources": {
+      "streams": [
+        "https://an02.cdn.eurozet.pl/ANTGRE.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8v2MSCSaQwWtfZ",
+    "name": "Antyradio Hard",
+    "sources": {
+      "streams": [
+        "https://an01.cdn.eurozet.pl/ANTHAR.mp3",
+        "https://an05.cdn.eurozet.pl/ANTHAR.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "IQZm6nu4g3NWWP",
+    "name": "Antyradio Katowice",
+    "sources": {
+      "streams": [
+        "https://an01.cdn.eurozet.pl/ant-kat.mp3",
+        "https://ml02.cdn.eurozet.pl/ant-kat.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "oMSEO5kdAPt4KT",
+    "name": "Antyradio Made In Poland",
+    "sources": {
+      "streams": [
+        "https://an04.cdn.eurozet.pl/ANTPOL.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fMYhLquCcnAV1j",
+    "name": "Antyradio Makak",
+    "sources": {
+      "streams": [
+        "https://an.cdn.eurozet.pl/ANTMAK.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uiu0Ojn3Ov6OYo",
+    "name": "Antyradio Unplugged",
+    "sources": {
+      "streams": [
+        "https://an05.cdn.eurozet.pl/ANTUNP.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nm88D7oeykjsMN",
+    "name": "Awangarda FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/mf9ewmbuaq8uv"
+      ]
+    },
+    "languages": [
+      "pol",
+      "deu",
+      "eng",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "ULLGFZXwl1Wiqg",
+    "name": "Bayer FM",
+    "sources": {
+      "streams": [
+        "https://streaming.radio5.com.pl:8888/bayerfm"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "pO7Q6ZzsHxiJEZ",
+    "name": "Bohema Radio",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7262/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DVTLytgX8QLE5I",
+    "name": "Chillizet",
+    "sources": {
+      "streams": [
+        "https://n-4-1.dcs.redcdn.pl/sc/o2/Eurozet/live/chillizet.livx",
+        "https://ch02.cdn.eurozet.pl/chi-net.mp3",
+        "https://ch.cdn.eurozet.pl/chi-net.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fg5aGY9z1ZT6bi",
+    "name": "Chillizet Covers",
+    "sources": {
+      "streams": [
+        "https://ch01.cdn.eurozet.pl/CHICOV.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "63Lts6ToJcs3nA",
+    "name": "Chillizet Deep",
+    "sources": {
+      "streams": [
+        "https://ch02.cdn.eurozet.pl/CHIDEP.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BKRpJXnOJmsY60",
+    "name": "Chillizet Ladies",
+    "sources": {
+      "streams": [
+        "https://ch01.cdn.eurozet.pl/CHILAD.mp3"
+      ]
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "XeZrbhZ1yzZysL",
+    "name": "Chillizet Salon Polski",
+    "sources": {
+      "streams": [
+        "https://ch03.cdn.eurozet.pl/CHIPOL.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "FnjRjR2bL0xL5I",
+    "name": "Cmp3.eu",
+    "sources": {
+      "streams": [
+        "https://s.radiocmp3.eu/edm256",
+        "https://s.radiocmp3.eu/djset256",
+        "https://s.radiocmp3.eu/stream256"
+      ]
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "ebEQjwZZPntwCY",
+    "name": "CoSTa's Ambient Radio",
+    "sources": {
+      "streams": [
+        "https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "B1ebqvElmdpGps",
+    "name": "CYBERStacja",
+    "sources": {
+      "streams": [
+        "https://sc.cyberstacja.pl:8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5FWGDlYxWRUe8M",
+    "name": "DanisMania DJ Radio",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7512/stream"
+      ]
+    },
+    "languages": [
+      "pol",
+      "deu",
+      "ell"
+    ]
+  },
+  {
+    "nanoid": "CPsecskY9hA39P",
+    "name": "Disco Radio",
+    "sources": {
+      "streams": [
+        "https://n10.rcs.revma.com/cvswvmyewzzuv"
+      ]
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vxArKPnysmUHAY",
+    "name": "DiscoParty.pl - Disco Impreza",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7046/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ngoVbVTX6zCGIV",
+    "name": "DiscoParty.pl - Kanał Club",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7354/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "d7ceQahDI43tup",
+    "name": "DiscoParty.pl - Kanał Disco",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7432/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9mmZ0BZ38PIe2t",
+    "name": "DiscoParty.pl - Lata 90.",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7170/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "PEVjzNHPPECh4n",
+    "name": "DiscoParty.pl - Lata 90s",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7170/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YykQRUU2Ub4a2V",
+    "name": "Dubstep24h",
+    "sources": {
+      "streams": [
+        "https://stream.24dubstep.pl/listen/dubstep24h/live"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fbxlyDyUuyE5Qx",
+    "name": "Eska2 - Kultowe Polskie",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/6040-1.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "NXkjHlTjGIiZTG",
+    "name": "Fitness Music",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7414/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BSsUYUJU1tLuT0",
+    "name": "Folk Radio",
+    "sources": {
+      "streams": [
+        "https://streaming.g-news.pl:8030/fr1"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4NkRiyq3YJvkoq",
+    "name": "Futrzak.FM",
+    "stream_urls": [
+      "https://audio.futrzak.fm/futrzakfm-128",
+      "https://audio.futrzak.fm/futrzakfm-320"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "OcP2C31XQxJEtw",
+    "name": "Happy Station",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7496/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Uvm8QRD6hoPYdm",
+    "name": "House of Funk",
+    "sources": {
+      "streams": [
+        "https://houseoffunk.eu:8443/live"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I9k5oAPH5GnwG1",
+    "name": "I Love Music",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7150/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "LM1A6P4jSwbUOy",
+    "name": "Idź Pod Prąd FM",
+    "sources": {
+      "streams": [
+        "https://idzpodprad.out.airtime.pro:8000/idzpodprad_a"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "tyGdTkjO5xcNVU",
+    "name": "Jazzkultura",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/s1136b59f3/listen"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "sUdKhW1e8csT3r",
+    "name": "Katolickie Radio Rodzina 92.0 FM",
+    "sources": {
+      "streams": [
+        "https://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "u8gYlbd4bpE0Ab",
+    "name": "Katolickie Radio Zamość",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/0n8y7mxcay8uv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Byen9JFFO87zgR",
+    "name": "Kiss FM",
+    "sources": {
+      "streams": [
+        "https://streaming.g-news.pl:8090/kissfm"
+      ]
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9n3Ar6H1j0tlQJ",
+    "name": "Konin FM",
+    "sources": {
+      "streams": [
+        "https://stream2.technologicznie.net/konin.fm"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "2xtr7yPyLD674s",
+    "name": "Lady G4A Gaming Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/e8wz7kbpypiuv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "IuZcRFEvi2xuPX",
+    "name": "Lem.fm",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/2fa0gbhr9bhvv",
+        "https://n08.radiojar.com/2fa0gbhr9bhvv",
+        "https://n0c.radiojar.com/2fa0gbhr9bhvv"
+      ]
+    },
+    "languages": [
+      "pol",
+      "rue"
+    ]
+  },
+  {
+    "nanoid": "sYVdfCik0hgZu7",
+    "name": "Macabris Mix Radio Station",
+    "sources": {
+      "streams": [
+        "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "sYVdfCik0hgZu7",
+    "name": "Macabris Mix Radio Station",
+    "sources": {
+      "streams": [
+        "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "6ztENzo0YCburL",
+    "name": "Margaretka FM",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7260/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "x4suJfVRZuOCkP",
+    "name": "MaxPlay FM",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/8880/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AT7NUuBCEKEMgU",
+    "name": "Mazurske Radijo",
+    "sources": {
+      "streams": [
+        "https://stream-172.zeno.fm/h6af85mhunhvv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nSHqUkxrRJGUri",
+    "name": "Mega Radio",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/q18ty3qhwzzuv",
+        "https://n05a-eu.rcs.revma.com/q18ty3qhwzzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "cKezCsLvliAOng",
+    "name": "Meloradio",
+    "sources": {
+      "streams": [
+        "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx",
+        "https://ml.cdn.eurozet.pl/mel-net.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "eQH0x042KuUCiD",
+    "name": "Meloradio Fast Songs",
+    "sources": {
+      "streams": [
+        "https://ml02.cdn.eurozet.pl/MELFST.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "UMJsgIuV7FmPxn",
+    "name": "Meloradio Hot Dance",
+    "sources": {
+      "streams": [
+        "https://ml02.cdn.eurozet.pl/MELHDN.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "i0vyZQqCcmUFQ4",
+    "name": "Meloradio Katowice",
+    "sources": {
+      "streams": [
+        "https://ml01.cdn.eurozet.pl/mel-ktw.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Zi0rq6fM7XSoXH",
+    "name": "Meloradio Kielce",
+    "sources": {
+      "streams": [
+        "https://ml03.cdn.eurozet.pl/mel-klc.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "10ITGMalB6TfFO",
+    "name": "Meloradio Olsztyn",
+    "sources": {
+      "streams": [
+        "https://ml.cdn.eurozet.pl/mel-ols.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AsgXM863dkIeMT",
+    "name": "Meloradio Opole",
+    "sources": {
+      "streams": [
+        "https://ml02.cdn.eurozet.pl/mel-opl.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9mBtaUvJr3opdO",
+    "name": "Meloradio Poznań",
+    "sources": {
+      "streams": [
+        "https://ml03.cdn.eurozet.pl/mel-poz.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iVVvyRWO51EY6p",
+    "name": "Meloradio Tarnobrzeg",
+    "sources": {
+      "streams": [
+        "https://ml.cdn.eurozet.pl/mel-trb.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iquedxcArFhTas",
+    "name": "Meloradio Wrocław",
+    "sources": {
+      "streams": [
+        "https://ml02.cdn.eurozet.pl/mel-wro.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "tl7SvDOIGoq1HW",
+    "name": "Mittendrin ALT!NEU",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7430/stream",
+        "https://n15a-eu.rcs.revma.com/1nnezw8qz7zuv"
+      ]
+    },
+    "languages": [
+      "pol",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "hPmKV5j9RrqK6w",
+    "name": "Music Family",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7216/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "hPmKV5j9RrqK6w",
+    "name": "Music Family",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7216/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1lEWvEmjr8O99J",
+    "name": "Muzyczna Oaza",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7100/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "7hha5Il6sRM6OE",
+    "name": "Muzyczne Radio",
+    "sources": {
+      "streams": [
+        "https://stream3.technologicznie.net/muzyczne_radio_192.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "0U6xHpNu4xsNPA",
+    "name": "Muzyczny Beat FM",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7034/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "EpA5SjDjH5EjrT",
+    "name": "Nadzieja.fm",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/s34fca8455/listen"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "odl8bRAe248cM4",
+    "name": "Nasze Radio",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7146/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qOJRIYKzoEyA7u",
+    "name": "Nasze Radio 104.7 FM",
+    "sources": {
+      "streams": [
+        "https://online.nasze.fm:8443/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "jXuxcm1qgt6UKW",
+    "name": "Nasze Radio Nostalgicznie 92.1 FM",
+    "sources": {
+      "streams": [
+        "https://online.nasze.fm:9443/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4ytL1MCerO83pb",
+    "name": "Niepokalana.fm",
+    "sources": {
+      "streams": [
+        "https://stream2.technologicznie.net/niepokalana_fm.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "GeR6SqJjkHTRXl",
+    "name": "NNRadio",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7388/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Wm1UGVbIEXeiaa",
+    "name": "Nocne Radio",
+    "sources": {
+      "streams": [
+        "https://stream.nocneradio.pl/"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "eIthXe97uhQmFz",
+    "name": "Odzew.fm",
+    "sources": {
+      "streams": [
+        "https://stream12.hosterion.pl/stream/odzew"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "PkmmD4uifczcY8",
+    "name": "Pallotti.fm",
+    "stream_urls": [
+      "https://s1.slotex.pl:7074/stream",
+      "https://s1.slotex.pl:7074/stream/"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BC87X58mNmn7gS",
+    "name": "Planeta FM",
+    "sources": {
+      "streams": [
+        "https://pa02.cdn.eurozet.pl/pla-net.mp3",
+        "https://pl01.cdn.eurozet.pl/pla-net.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "5twdNJB9yiv3wK",
+    "name": "Polskie Radio - Przeboje PRL",
+    "sources": {
+      "streams": [
+        "https://mpantusa-danidi01.radioca.st/id1"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "apVtgNAvjaij6V",
+    "name": "Polskie Radio Jedynka",
+    "sources": {
+      "streams": [
+        "https://stream11.polskieradio.pl/pr1/pr1.sdp/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xKJ9sRcIsomCH9",
+    "name": "Polskie Radio Kielce",
+    "sources": {
+      "streams": [
+        "https://streaming.g-news.pl:8030/rk2"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "V3MMqwwlU0nkGz",
+    "name": "Polskie Radio Koszalin",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:9680/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "WQvazajX2pjCbG",
+    "name": "Polskie Radio Lublin",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.lublin.pl:8843/128k"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "jaegLjwCHiTFC7",
+    "name": "Polskie Radio Olsztyn",
+    "sources": {
+      "streams": [
+        "https://rostr1.radioolsztyn.pl:8443/RO.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Dx7kILhOT2KG3K",
+    "name": "Polskie Radio Rajdowe",
+    "sources": {
+      "streams": [
+        "https://rostr1.radioolsztyn.pl:8643/ELK"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KCswcDXoLr5dFi",
+    "name": "Polskie Radio Rzeszów",
+    "sources": {
+      "streams": [
+        "https://streaming.g-news.pl:8040/rzeszow"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uM0F7Z6PjEnU4E",
+    "name": "Polskie Radio Słupsk",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:8240/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Md0isVlcvmaQT8",
+    "name": "Radio 1.7",
+    "sources": {
+      "streams": [
+        "https://emisja.radio17.pl/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "PmAoJ9jvWO7skx",
+    "name": "Radio 100",
+    "stream_urls": [
+      "https://s3.slotex.pl:7278/stream/"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "7N65BfDLy4uEyx",
+    "name": "Radio 357",
+    "stream_urls": [
+      "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
+      "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
+      "https://n23a-eu.rcs.revma.com/ye5kghkgcm0uv",
+      "https://n23a-eu.rcs.revma.com/an1ugyygzk8uv",
+      "https://n04a-eu.rcs.revma.com/an1ugyygzk8uv",
+      "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "jmWzMxuTY4pQMf",
+    "name": "Radio 5",
+    "sources": {
+      "streams": [
+        "https://streaming.radio5.com.pl:8888/radio5suwalki"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "O6SkfGv9jvfpfQ",
+    "name": "Radio 7",
+    "sources": {
+      "streams": [
+        "https://stream.radio7.pl/radio7.mp3",
+        "https://stream.radio7.pl/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "PLdv3CdqsApAre",
+    "name": "Radio 7 90.8 FM",
+    "stream_urls": [
+      "https://stream.radio7.pl:443/radio7.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PmAoJ9jvWO7skx",
+    "name": "Radio 100",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7278/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7N65BfDLy4uEyx",
+    "name": "Radio 357",
+    "sources": {
+      "streams": [
+        "https://n-11-26.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx",
+        "https://n09a-eu.rcs.revma.com/ye5kghkgcm0uv",
+        "https://n-11-21.dcs.redcdn.pl/sc/o2/radio357/live/radio357_pr.livx"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UdsJX8rGGRMS5a",
+    "name": "Radio Afera 98.6 FM",
+    "sources": {
+      "streams": [
+        "https://radio.afera.com.pl/afera128.ogg"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qyBhInhLWnIe4n",
+    "name": "Radio Aktywne",
+    "sources": {
+      "streams": [
+        "https://listen.radioaktywne.pl/ramp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "f1cK5L77nPEEzP",
+    "name": "Radio Alex",
+    "sources": {
+      "streams": [
+        "https://frradioq.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "kCOXtBIXz8lDRn",
+    "name": "Radio Andrychów",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7424/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "0ViwPpu9wT8uCF",
+    "name": "Radio Aniołek",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nvz73r6m7yzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "6UR4ET57lDLEsr",
+    "name": "Radio Arkadia",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7238/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "eer4MfQnzLmtua",
+    "name": "Radio Bahary",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7838/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "lrkERHPsYmipzv",
+    "name": "Radio BEST",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/k7z0hu129s3vv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "3kPSR5wrMqLRD2",
+    "name": "Radio Bezpieczna Podróż",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:9344/live",
+        "https://ssl-1.radiohost.pl:9162/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "cery4KqvIa084u",
+    "name": "Radio Bielsko",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/062uq3z3kwzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "yOGjskJVjLwkox",
+    "name": "Radio Bielsko 106.7 FM",
+    "sources": {
+      "streams": [
+        "https://n08.rcs.revma.com/062uq3z3kwzuv",
+        "https://n10a-eu.rcs.revma.com/062uq3z3kwzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ELnKJWypTT3Rmc",
+    "name": "Radio Bon Ton 104.9 FM",
+    "sources": {
+      "streams": [
+        "https://streaming.inten.pl:8020/bonton.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zvocnRJntdov0h",
+    "name": "Radio Borowiaczek",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7228/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KX5HODkJnMGGjs",
+    "name": "Radio Brylant",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7212/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "mUBzQaU6Vpl0D4",
+    "name": "Radio Bunt",
+    "sources": {
+      "streams": [
+        "https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "mUBzQaU6Vpl0D4",
+    "name": "Radio Bunt",
+    "sources": {
+      "streams": [
+        "https://cast6.asurahosting.com/proxy/radiobun/status-json.xsl"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QYEXkfAZi6Mbxo",
+    "name": "Radio CCM",
+    "sources": {
+      "streams": [
+        "https://streaming.live365.com/a16565"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Sx2TaGwLW5YaoQ",
+    "name": "Radio Centrum Lublin 98.2 FM",
+    "sources": {
+      "streams": [
+        "https://radio.centrum.fm/live"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wpeFTzGvSlPGVH",
+    "name": "Radio Chrześcijanin",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7002/mountpoint"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uT49at2dhdgKAh",
+    "name": "Radio Chrześcijanin - Biblia",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7116/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "7uJM1hxVgAZAx0",
+    "name": "Radio Chrześcijanin - Dzieci",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7410/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "pxNwJNOoWmgPXd",
+    "name": "Radio Chrześcijanin 2",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7002/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "riz77awxZ0FaO3",
+    "name": "Radio Club Party",
+    "stream_urls": [
+      "https://s1.cmp3.eu:8555/listen.pls"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Sy9oQlkzLWKT8r",
+    "name": "Radio Cyganeczka Janeczka",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7474/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "d7M6HWPAsEBIk1",
+    "name": "Radio DHT - Kanał 2",
+    "sources": {
+      "streams": [
+        "https://radiodht.com/stream_main",
+        "https://radiodht.com/stream_second"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ihNRIOPeYwxo9g",
+    "name": "Radio Disco-Dance",
+    "sources": {
+      "streams": [
+        "https://radiodd.cloud/radio/8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KRNOBCzOD6rlOW",
+    "name": "Radio Duch",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7174/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "TIYrqj5RwwJl1c",
+    "name": "Radio Dźwięk",
+    "stream_urls": [
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek-mp3",
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek128",
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek64",
+      "https://s3.slotex.pl:7408/;",
+      "https://streamhls.radiodzwiek.slask.pl/dzwiek"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "vRFL3UnJTumtUv",
+    "name": "Radio Elbląg",
+    "sources": {
+      "streams": [
+        "https://rostr1.radioolsztyn.pl:8543/ELBLAG"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "u12HdmkMYBxbEO",
+    "name": "Radio Eska - Do Pracy",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/6140-1.mp3",
+      "https://ic1.smcdn.pl/6140-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YUsBpevuDlCrC9",
+    "name": "Radio Eska - Gorąca 100",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6120-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Ksn5cbNeJPVcpz",
+    "name": "Radio Eska - Gorąca 20",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/6130-1.mp3",
+      "https://ic1.smcdn.pl/6130-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fEAP00rA0IuBT0",
+    "name": "Radio Eska - Impreska",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/6030-1.mp3",
+      "https://ic1.smcdn.pl/6030-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "cjC32FavZmSJXn",
+    "name": "Radio Eska - News Wrocław",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6250-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "vwdy3y1w2QBqrC",
+    "name": "Radio Eska - Summer City",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/6120-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "1CPYb4hQ7sAcl4",
+    "name": "Radio Eska Białystok",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/2020-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "N2lbcVtEsgch5X",
+    "name": "Radio Eska Braniewo",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/2520-2.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "G9ooZ1ethe9p32",
+    "name": "Radio Eska Bydgoszcz",
+    "stream_urls": [
+      "https://ic2.smcdn.pl/2030-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9C3G289v2ICxgX",
+    "name": "Radio Eska Go",
+    "stream_urls": [
+      "https://ic1.smcdn.pl/6200-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vHaY4ax0BO8i9l",
+    "name": "Radio Eska Elbląg",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/2430-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5ws7zoZv6M8Uev",
+    "name": "Radio Eska G100",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/6120-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9C3G289v2ICxgX",
+    "name": "Radio Eska Go",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6200-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "flbqgKZszyZX2G",
+    "name": "Radio Eska Gorąca 20",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/6130-1.aac/playlist.m3u8",
+        "https://radio.stream.smcdn.pl/timeradio-p/6190-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fMmTgm7kVqY9gA",
+    "name": "Radio Eska Gorzów",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/2040-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "a9LJtwLObjuYgP",
+    "name": "Radio Eska Grudziądz",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/2450-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IyWQeyDiJtskBw",
+    "name": "Radio Eska Iława",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/icradio-p/2440-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DbWuhVFXHUrP8I",
+    "name": "Radio Eska Impreska",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/6030-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hMr45JSxrZPpfK",
+    "name": "Radio Eska Kielce",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/timeradio-p/2050-2.aac/playlist.m3u8",
+        "https://radio.stream.smcdn.pl/timeradio-p/2050-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ULxd7WxgYD6B5Z",
+    "name": "Radio Eska Koszalin",
+    "sources": {
+      "streams": [
+        "https://radio.stream.smcdn.pl/icradio-p/2270-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "X48BOewvrAIDrR",
+    "name": "Radio Eska Kraków",
+    "stream_urls": [
+      "https://ic1.smcdn.pl/2070-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SUiPIhX6AJR0KI",
+    "name": "Radio Eska Kraśnik",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/2360-1.mp3",
+        "https://radio.stream.smcdn.pl/timeradio-p/2360-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "t77iobOxRIuwoh",
+    "name": "Radio Eska Lublin",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/2130-1.mp3",
+        "https://radio.stream.smcdn.pl/timeradio-p/2130-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "TdxPSdcCLcBsOA",
+    "name": "Radio Eska Opole",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/2120-1.mp3",
+        "https://waw.ic.smcdn.pl/2120-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "jEtAtQFWGPCbPU",
+    "name": "Radio Eska Ostrzeszów",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/2500-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "f7DCc7LjsxLXBR",
+    "name": "Radio Eska Poznań",
+    "stream_urls": [
+      "https://ic2.smcdn.pl/2140-1.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "IkDBLYddBpFdDU",
+    "name": "Radio Eska Przemyśl",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/2320-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "cHw41q84OuFvd3",
+    "name": "Radio Eska Rock",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/5380-1.mp3",
+        "https://n01-us.rcs.revma.com/1nnezw8qz7zuv",
+        "https://radio.stream.smcdn.pl/icradio-p/5380-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "2UlZ0kDQ8JD1Ml",
+    "name": "Radio Eska Rzeszów",
+    "stream_urls": [
+      "https://ic1.smcdn.pl/2240-1.mp3",
+      "https://waw.ic.smcdn.pl/2240-1.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "QayWw03Q3uNy5h",
+    "name": "Radio Eska Starachowice",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/2400-1.mp3",
+        "https://radio.stream.smcdn.pl/timeradio-p/2400-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4E2eCga2getwdR",
+    "name": "Radio Eska Szczecin",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/2260-1.mp3",
+        "https://radio.stream.smcdn.pl/timeradio-p/2260-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "IHITCbJFpozjKe",
+    "name": "Radio Eska Tarnów",
+    "stream_urls": [
+      "https://ic1.smcdn.pl/2210-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KOoN0WQiIBLtuc",
+    "name": "Radio Eska Warszawa",
+    "stream_urls": [
+      "https://waw.ic.smcdn.pl/2380-2.aac",
+      "https://waw.ic.smcdn.pl/2380-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "OP9xHP4KoM3HFD",
+    "name": "Radio Eska Wrocław",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/2180-1.mp3",
+        "https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8",
+        "https://radio.stream.smcdn.pl/timeradio-p/2180-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JgKa2ndxOvdCyf",
+    "name": "Radio Eska Zamość",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/2230-1.mp3",
+        "https://radio.stream.smcdn.pl/timeradio-p/2230-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "haENT37pMHCD39",
+    "name": "Radio Eska2 Konin",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1530-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "h1b0C07DEkuHpq",
+    "name": "Radio Eska2 Rzeszów",
+    "stream_urls": [
+      "https://ic1.smcdn.pl/1240-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Xrnj7lJ9TyRezi",
+    "name": "Radio Eska2 Stalowa Wola",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/1370-1.mp3",
+        "https://radio.stream.smcdn.pl/timeradio-p/1370-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4fPPJdZIIfseXF",
+    "name": "Radio Eurodance Classic",
+    "sources": {
+      "streams": [
+        "https://quincy.torontocast.com:2965/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "dteZLjoUafiEVL",
+    "name": "Radio Express 92.3 FM",
+    "sources": {
+      "streams": [
+        "https://n12a-eu.rcs.revma.com/yx6cub73kwzuv",
+        "https://n15a-eu.rcs.revma.com/yx6cub73kwzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "84n3eBYGHh6Fbj",
+    "name": "Radio Fest 100.2 FM",
+    "sources": {
+      "streams": [
+        "https://play.radiofest.pl:8443/fest"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qJakHbXcAwcHJp",
+    "name": "Radio Forty Plus",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7178/listen.xtl"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "CDfs1Ed78xtxRX",
+    "name": "Radio FortyPlus",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7178/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ykUUX6m09EkfAe",
+    "name": "Radio Freee",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.lublin.pl:8843/radiofreee"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "rSSQntbarDOuS5",
+    "name": "Radio Freee 89.9 FM",
+    "stream_urls": [
+      "https://streaming.radio.lublin.pl:8843/radiofreeeacp"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "rSSQntbarDOuS5",
+    "name": "Radio Freee 89.9 FM",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.lublin.pl:8843/radiofreeeacp"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oK1uGuEJFIIRje",
+    "name": "Radio FTB - Club",
+    "sources": {
+      "streams": [
+        "https://play.radioftb.net:8000/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "cX2o5L8OWRK7QG",
+    "name": "Radio FTB - Disco Polo",
+    "sources": {
+      "streams": [
+        "https://play.radioftb.net:8022/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "u58uVIhHQ4RhQo",
+    "name": "Radio FTB - Flash FM",
+    "sources": {
+      "streams": [
+        "https://play.radioftb.net:8008/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JcGE6O92usHLYp",
+    "name": "Radio FTB - Rap Music",
+    "sources": {
+      "streams": [
+        "https://play.radioftb.net:8028/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "s2XJs4K3VeJMsQ",
+    "name": "Radio FTB - Retro DJ",
+    "sources": {
+      "streams": [
+        "https://play.radioftb.net:8016/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZHvjqJhlVkKcSr",
+    "name": "Radio FTM",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7792/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "to0jfqijVrAh1Z",
+    "name": "Radio Gdańsk Regiony",
+    "sources": {
+      "streams": [
+        "https://stream.task.gda.pl:8443/rg4"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "LdwCjjmRTEUvi0",
+    "name": "Radio Gold Live",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7062/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8xImsG9cZb9Zki",
+    "name": "Radio Gra Toruń",
+    "sources": {
+      "streams": [
+        "https://rs103-krk.rmfstream.pl/radio_gra"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4zDRSCjU73HT3c",
+    "name": "Radio Gra Wrocław 95.1 FM",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/RMFFM48"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nzW89aX1hRerX0",
+    "name": "Radio Guardian",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7508/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nJAQoP16vqqcE2",
+    "name": "Radio Głos Nadziei",
+    "stream_urls": [
+      "https://ssl-1.radiohost.pl:9548/index"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "XBRfF8d3wpcHK1",
+    "name": "Radio Horyzont",
+    "stream_urls": [
+      "https://s1.slotex.pl:7328/stream/1/"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "TStUA3ED3JxT2O",
+    "name": "Radio i",
+    "sources": {
+      "streams": [
+        "https://ice2.radioi.pl:8443/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "z6MAbgF2jSNQSI",
+    "name": "Radio Imperium",
+    "sources": {
+      "streams": [
+        "https://stream.radioimperium.pl:8443/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HTErVw2m6fYDLo",
+    "name": "Radio Italo4you",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:8018/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "21O5Iz5VUc75u2",
+    "name": "Radio Jasna Góra 100.6 FM",
+    "sources": {
+      "streams": [
+        "https://online.radiojasnagora.pl:9000/rjg"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "6PxObmHHcrDQOE",
+    "name": "Radio Kapitał",
+    "sources": {
+      "streams": [
+        "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "aSqwgGT9PsE35z",
+    "name": "Radio KChT",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/274180/stream/320404",
+        "https://www.radioking.com/play/kcht/320404"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "QcJQYQb2cBOHdg",
+    "name": "Radio KECh Nowogard",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7016/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DEvWuYFLVW7zcj",
+    "name": "Radio Kolor 103 FM",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/zbq79057xd3vv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "O2NAEbSnohf8cA",
+    "name": "Radio Kraków",
+    "sources": {
+      "streams": [
+        "https://stream3.nadaje.com:9117/radiokrakow"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SYk7qmzMlSbl62",
+    "name": "Radio Krupski Młyn",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7346/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "CsDJ5Hs4SlTaof",
+    "name": "Radio Kuropatwa",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/ypspphhxfm8uv",
+        "https://n10.radiojar.com/ypspphhxfm8uv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BXw1bufJtYH0Ff",
+    "name": "Radio Kącik Rodzinny",
+    "stream_urls": [
+      "https://s3.slotex.pl:7374/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "lwkQVVrmMswTbt",
+    "name": "Radio Lagoon FM",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7828/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "hjkl6MstrIfeTO",
+    "name": "Radio Leliwa",
+    "sources": {
+      "streams": [
+        "https://streaming.g-news.pl/radio/8050/leliwa"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "0uEmENkcFwKKgd",
+    "name": "Radio Leliwa 93.5 FM",
+    "sources": {
+      "streams": [
+        "https://streaming.g-news.pl:8050/leliwa"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "f4uB68X3g8q6oK",
+    "name": "Radio Life4Club",
+    "sources": {
+      "streams": [
+        "https://life4club.online/listen/live/l4c.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "UzzmlYaIIX7oOz",
+    "name": "Radio Light Motiv",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7226/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "FGxvGuDjPUSs09",
+    "name": "Radio LUZ 91.6 FM",
+    "sources": {
+      "streams": [
+        "https://stream.radioluz.pl:8443/luz_hifi.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "dlTKg2hOsb6Eq0",
+    "name": "Radio Magic Dance",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7686/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HSWnvLtMsehAYL",
+    "name": "Radio MagMa",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7180/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "QK8FbJ0pUshbHn",
+    "name": "Radio Manhattan",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7780/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "UYabtjMdsH0JOt",
+    "name": "Radio Marconi",
+    "sources": {
+      "streams": [
+        "https://stream12.hosterion.pl/stream/radiomarconi"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "PLgxG7yPJg4zQF",
+    "name": "Radio Max Hit Polska",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7370/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "RC5FpL3Xg0LgTV",
+    "name": "Radio Mbox",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7462/stream",
+        "https://panel.radiombox.pl/radio/8000/RadioMbox128"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HzZa5JcVwmIOxB",
+    "name": "Radio Mbox - Club",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7204/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "rcGD2oRftisESP",
+    "name": "Radio Mbox - Disco Polo",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7222/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "CsK71BKznrSxoW",
+    "name": "Radio Mbox - Gold Hits",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7276/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "isTjBgeYmIEy3N",
+    "name": "Radio Mbox - Polska Muzyka",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7072/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZwEWWJ6EzGTagp",
+    "name": "Radio Melody Express",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7588/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8wGdhxCNWOB7Jr",
+    "name": "Radio Mirage - Italo Dance",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:9569/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "VELylJAAWbSCHZ",
+    "name": "Radio Mirage - Prywatka",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:7214/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "hKIHBhksl8gF0Q",
+    "name": "Radio Mirage - Space",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:9563/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "oNBSHvQiuW2Fn3",
+    "name": "Radio Misiek",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5hfdntgf8yzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "XmRdAP1SoeuD1N",
+    "name": "Radio Mittendrin",
+    "stream_urls": [
+      "https://s1.slotex.pl:7592/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol",
+      "deu"
+    ]
+  },
+  {
+    "nanoid": "XmRdAP1SoeuD1N",
+    "name": "Radio Mittendrin",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7592/stream"
+      ]
+    },
+    "languages": [
+      "deu",
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Il4zmM82Mkt0Ip",
+    "name": "Radio MIX",
+    "sources": {
+      "streams": [
+        "https://radiozender.mpbnetwerken.nl/radiomix.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wM0cuEtYJv4Q14",
+    "name": "Radio Moni Raj",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7646/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "TOHpdZ3Z9T5d6z",
+    "name": "Radio Muzyczny Zakątek",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7336/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "q7253j6JgbMWPe",
+    "name": "Radio Muzyka Dwóch Serc",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7272/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "hJyVyH1OzfTVfw",
+    "name": "Radio Na Stoku 94.8 FM",
+    "sources": {
+      "streams": [
+        "https://sluchaj.link:5443/nastoku"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4icQyQeyPSOAZA",
+    "name": "Radio Nasz Hajmat",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7126/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "O1IN55Pk4aXsXW",
+    "name": "Radio Nestolatki",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7306/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "0XhYnc79K6exm5",
+    "name": "Radio Nowej Generacji",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7488/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JgrYgO97UJNMRZ",
+    "name": "Radio Nowy Świat",
+    "sources": {
+      "streams": [
+        "https://n11.rcs.revma.com/ypqt40u0x1zuv",
+        "https://n13a-eu.rcs.revma.com/5ws0kfn1x1zuv",
+        "https://go-audio.toya.net.pl/63214"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "7aZj4iBQAS7LV8",
+    "name": "Radio Nuta",
+    "sources": {
+      "streams": [
+        "https://n04a-eu.rcs.revma.com/0004tehdxzzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "w4TFpIyrbwGcGq",
+    "name": "Radio OIOM",
+    "stream_urls": [
+      "https://s3.slotex.pl:7240/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "w4TFpIyrbwGcGq",
+    "name": "Radio OIOM",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7240/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "38fVUl27Z5wCxY",
+    "name": "Radio Olsztyn",
+    "sources": {
+      "streams": [
+        "https://rostr1.radioolsztyn.pl:8843/RWiM"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "LR9iM2kuaP7cDg",
+    "name": "Radio ONY 93.1 FM",
+    "sources": {
+      "streams": [
+        "https://n14.rcs.revma.com/yxv344rra2zuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Pkq0SrlyQgGhfj",
+    "name": "Radio Opole",
+    "sources": {
+      "streams": [
+        "https://audio.radio.opole.pl/ro1aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4k6qcOEBllY1Kk",
+    "name": "Radio Orbit",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7390/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "tEgoE2J6CnHdIm",
+    "name": "Radio Orthodoxia",
+    "sources": {
+      "streams": [
+        "https://stream.orthodoxia.pl/stream192.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4SQmfm1N4CNlQD",
+    "name": "Radio Osjaków",
+    "sources": {
+      "streams": [
+        "https://stream20.hosterion.pl:7095/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "RnS2t79dIFTL48",
+    "name": "Radio Ostrowiec 95.2 FM",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7050/stream/1/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "A2hqpRhxHDurr1",
+    "name": "Radio Paranormalium",
+    "stream_urls": [
+      "https://shoutcast.paranormalium.pl:8000/5",
+      "https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8",
+      "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Jtk00sL2RQUx5J",
+    "name": "Radio Park",
+    "sources": {
+      "streams": [
+        "https://sluchaj2.radiopark.biz.pl:8443/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "bYJZMpxuehK2XP",
+    "name": "Radio Pawarota",
+    "sources": {
+      "streams": [
+        "https://pawarota-radio-c82a7d2e.radiocult.fm/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nBSYlk6PL7SJUO",
+    "name": "Radio Paweł Miazga",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7024/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "NjW8W47OI9bmAA",
+    "name": "Radio Pejpal",
+    "sources": {
+      "streams": [
+        "https://radio.pejpal.cloud/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DSTYLM1kEvtrwq",
+    "name": "Radio Pepis",
+    "stream_urls": [
+      "https://radiodht.com/stream_pepis/"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SAkOy7njVGoHC3",
+    "name": "Radio Piekary 88.7 FM",
+    "sources": {
+      "streams": [
+        "https://n21a-eu.rcs.revma.com/0rg0mztk33bwv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "kpAoFeMSf188ww",
+    "name": "Radio Piotrków 98.2 FM",
+    "stream_urls": [
+      "https://stream.zeno.fm/vtt303z7n0quv"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "bmXSNGJxDYT7Ur",
+    "name": "Radio Plus",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/4990-1.mp3",
+        "https://pl02.cdn.eurozet.pl/plu-waw.mp3",
+        "https://waw.ic.smcdn.pl/4990-1.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "50bu9HOKxT2E6j",
+    "name": "Radio Plus Bydgoszcz",
+    "sources": {
+      "streams": [
+        "https://pl.cdn.eurozet.pl/plu-bdg.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fjEEXf8qQe47cl",
+    "name": "Radio Plus Gdańsk",
+    "sources": {
+      "streams": [
+        "https://pl04.cdn.eurozet.pl/plu-gdn.mp3",
+        "https://pl05.cdn.eurozet.pl/plu-gdn.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "C9tJWeG4NVLAX7",
+    "name": "Radio Plus Koszalin",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/4270-1.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JCNaRNhocd70Gh",
+    "name": "Radio Plus Kraków",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/4070-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "3TtwVB9eWenjnC",
+    "name": "Radio Plus Kraków 106.1 FM",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/4070-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DCu6SbBZmNNXjw",
+    "name": "Radio Plus Legnica",
+    "sources": {
+      "streams": [
+        "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "gvBY1iP5Fm1nP2",
+    "name": "Radio Plus Lublin",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/4130-1.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "M7SwHt7FhGit3m",
+    "name": "Radio Plus Olsztyn",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/4110-1.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "xBQ9wQLFer4x7G",
+    "name": "Radio Plus Warszawa",
+    "sources": {
+      "streams": [
+        "https://pl.cdn.eurozet.pl/plu-waw.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JxCTA62DdwPZxs",
+    "name": "Radio Pogoda",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba140-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "N3PPFTi4CASork",
+    "name": "Radio Pogoda Gdańsk 87.8 FM",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba145-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wS9eaf3lsQwbp4",
+    "name": "Radio Pogoda Poznań",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba138-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "w2ibSRJxhSz5TT",
+    "name": "Radio Polmax 2",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/szxcunxzbceuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "czLQvf7kPkZP8S",
+    "name": "Radio Polmax 3",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/2p4yw9sd8yzuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "73fU6H9jaaORv9",
+    "name": "Radio Polmax FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1gg3kbnzbceuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "VNs97Fzb0hIV24",
+    "name": "Radio Polmax Kolędy",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/vorzdeodup8uv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "0XtGQkKF1KEg0g",
+    "name": "Radio Praga",
+    "sources": {
+      "streams": [
+        "https://stream12.hosterion.pl/stream/radiopragapl/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "859l9QDn7od3cc",
+    "name": "Radio Prestige",
+    "stream_urls": [
+      "https://s3.slotex.pl/shoutcast/7524/stream",
+      "https://s3.slotex.pl/shoutcast/7076/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zra83TKy5QvjFd",
+    "name": "Radio PRL",
+    "sources": {
+      "streams": [
+        "https://n13a-eu.rcs.revma.com/prfmwmwy768uv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Ih1GIcbbVVDV1f",
+    "name": "Radio Radio",
+    "sources": {
+      "streams": [
+        "https://c16.radioboss.fm/stream/14"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "3syk6jtp9Px27L",
+    "name": "Radio RAM 89.8 FM",
+    "sources": {
+      "streams": [
+        "https://stream2.prw.pl:8001/radioram"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "urKpqa9ECY3j9i",
+    "name": "Radio Rekord Mazowsze 88.7 FM",
+    "sources": {
+      "streams": [
+        "https://stream6.nadaje.com:8087/ciechanow"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nUEFQpVXlpWdsl",
+    "name": "Radio Rekord Radom 106.2 FM",
+    "sources": {
+      "streams": [
+        "https://stream3.nadaje.com:8007/radom2"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JdS1Bysat4j0mR",
+    "name": "Radio Republika",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiotvrepublika.pl:12698/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "CLcJ0CgSxEyEGd",
+    "name": "Radio RMF24",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/RMF24",
+        "https://rs201-krk.rmfstream.pl/RMF24"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8WYyT4xcxlbFEY",
+    "name": "Radio Safira",
+    "sources": {
+      "streams": [
+        "https://stream12.hosterion.pl/stream/safira"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nCBxjLXNBwpQj8",
+    "name": "Radio Safira Kanoe",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/fxvq8uqcvuhvv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SmTxW3uWzAUton",
+    "name": "Radio SAR",
+    "sources": {
+      "streams": [
+        "https://stream.radiosar.pl/hdmain.mp3"
+      ]
+    },
+    "languages": [
+      "pol",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "v57T6YHo0TVLhd",
+    "name": "Radio Savana",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7434/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Ocj3fCBiSWsnsy",
+    "name": "Radio Sekret",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7556/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ysOD0o6LpnqUSd",
+    "name": "Radio Sierpc",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:10700/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "LZtr7UpYEL09pG",
+    "name": "Radio Silesia 96.2 FM",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7926/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Pr5uMZ4e8BS8sh",
+    "name": "Radio SOK Sulęcin",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7230/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "I7v1MJJaqXjJcd",
+    "name": "Radio Starogard 89.8 FM",
+    "sources": {
+      "streams": [
+        "https://n07a-eu.rcs.revma.com/5wegfyrra2zuv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "xakmZLDMyU6HNO",
+    "name": "Radio Start",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7644/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "CKhtwW0ciakrAX",
+    "name": "Radio Sto",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7278/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "bxeUVFqzY7z2tC",
+    "name": "Radio Strefa Muzy",
+    "sources": {
+      "streams": [
+        "https://radiosm.pl:8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SWCdlb699WmuIv",
+    "name": "Radio Styl FM",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7196/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "V30R2HAcuS50np",
+    "name": "Radio Super Express",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6260-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KsRuShOPOd1aLI",
+    "name": "Radio Super FM 97.5",
+    "sources": {
+      "streams": [
+        "https://stream.super.fm:8443/superfm.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iMO4B6VsOYtcPF",
+    "name": "Radio Synteza",
+    "sources": {
+      "streams": [
+        "https://stream.radio-synteza.pl/synteza"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zORdIzdjyjD2zS",
+    "name": "Radio Tango Uno",
+    "sources": {
+      "streams": [
+        "https://radiotangouno-online.pl/radio/8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8CtFdXXe9o0xao",
+    "name": "Radio ThomCarst",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7248/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "CvShwlsvTDXjdw",
+    "name": "Radio TOK FM",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba10-2.mp3",
+        "https://radiostream.pl/tuba10-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nCCDi1ll5GUYBX",
+    "name": "Radio Ton",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7310/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "f9v6lvhXZhPlzc",
+    "name": "Radio TOP80",
+    "sources": {
+      "streams": [
+        "https://top80.pl:8000/listen.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "dPMtcic4UlcleG",
+    "name": "Radio TPI",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7632/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "aDVY9w1TNcjggd",
+    "name": "Radio UAP",
+    "sources": {
+      "streams": [
+        "https://radiouap.radiocult.fm/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "e8709GywpaaDO9",
+    "name": "Radio Underground",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7604/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "PaIJj0OPTG2Lfm",
+    "name": "Radio Uniwersytet",
+    "sources": {
+      "streams": [
+        "https://www.radiouniwersytet.pl/ru192.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qJVFsw0PP5XWl1",
+    "name": "Radio Vanessa",
+    "stream_urls": [
+      "https://s1.slotex.pl:7358/;;"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "vl90CKyIq43foD",
+    "name": "Radio Warszawa 106.2 FM",
+    "sources": {
+      "streams": [
+        "https://stream2.technologicznie.net/radio_warszawa.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "rCQThSBvQbfSdU",
+    "name": "Radio Warta",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7446/;"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "U07cce6AY4UVzy",
+    "name": "Radio Weekend FM",
+    "sources": {
+      "streams": [
+        "https://stream.rcs.revma.com/vw8w2zwpsy3vv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "kXxy6wnkZ6xRcu",
+    "name": "Radio Wesoła 43",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7650/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "F1LhwmYcK9zmOo",
+    "name": "Radio Wiatraczek",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl:7082/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "K0kvw6paafeiVy",
+    "name": "Radio Wnet",
+    "sources": {
+      "streams": [
+        "https://media.wnet.fm/wnet.fm"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "CqIrbx0MjiAxvL",
+    "name": "Radio Zamek Nadaje",
+    "sources": {
+      "streams": [
+        "https://uksoutha.streaming.broadcast.radio:15190/zameknadaje"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "K5ECWPxu5iFL50",
+    "name": "Radio Zawiercie 92.4 FM",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:9078/live"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "kPzwYKt8PFvmTh",
+    "name": "Radio ZET",
+    "stream_urls": [
+      "https://zt01.cdn.eurozet.pl/zet-old.mp3",
+      "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx",
+      "https://zt01.cdn.eurozet.pl/zet-old.mp3",
+      "https://n-11-21.dcs.redcdn.pl/sc/o2/Eurozet/live/audio.livx"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ASIX7FARV3yW1a",
+    "name": "Radio ZET 2000",
+    "sources": {
+      "streams": [
+        "https://zt04.cdn.eurozet.pl/ZET200.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "opZhG8SfYUSR3a",
+    "name": "Radio ZET 90",
+    "stream_urls": [
+      "https://zt02.cdn.eurozet.pl/ZET090.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "mwEm3Oqus1ExsG",
+    "name": "Radio ZET Dance",
+    "sources": {
+      "streams": [
+        "https://pl01.cdn.eurozet.pl/ZETDAN.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uUedVoj3Iv4yvc",
+    "name": "Radio ZET Impreza",
+    "sources": {
+      "streams": [
+        "https://zt.cdn.eurozet.pl/ZETPAR.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "aD2iuopzzzglvk",
+    "name": "Radio ZET Latino",
+    "sources": {
+      "streams": [
+        "https://ch.cdn.eurozet.pl/ZETLTN.mp3"
+      ]
+    },
+    "languages": [
+      "pol",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zzkaqnAtdk7mDp",
+    "name": "Radio ZET Love",
+    "sources": {
+      "streams": [
+        "https://zt06.cdn.eurozet.pl/ZETLOV.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "xT39xB0ylDTL1X",
+    "name": "Radio ZET na Rower",
+    "sources": {
+      "streams": [
+        "https://zt06.cdn.eurozet.pl/ZETNAR.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "tcuiKaS36LLslw",
+    "name": "Radio ZET na Święta",
+    "sources": {
+      "streams": [
+        "https://zt.cdn.eurozet.pl/ZETSWI.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "1T0OOXQyi8ouCt",
+    "name": "Radio ZET Po Polsku",
+    "sources": {
+      "streams": [
+        "https://zt.cdn.eurozet.pl/ZETPL1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "a4ueJpmWSjAHcW",
+    "name": "Radio ZET Pop Rock",
+    "sources": {
+      "streams": [
+        "https://zt.cdn.eurozet.pl/ZETPRK.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "mU5qRDfSXjZVMO",
+    "name": "Radio ZET Same Hity",
+    "sources": {
+      "streams": [
+        "https://zt.cdn.eurozet.pl/ZETHIT.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "OzAXnlaPP0hTGW",
+    "name": "Radio Ziemi Wieluńskiej",
+    "stream_urls": [
+      "https://stream2.nadaje.com:8023/;stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "OzAXnlaPP0hTGW",
+    "name": "Radio Ziemi Wieluńskiej",
+    "sources": {
+      "streams": [
+        "https://stream2.nadaje.com:8023/;stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mk4xydxXljkbvd",
+    "name": "Radio Złote Przeboje",
+    "stream_urls": [
+      "https://radiostream.pl/tuba8928-1.mp3",
+      "https://radiostream.pl/tuba8900-1.mp3",
+      "https://radiostream.pl/tuba8940-1.mp3",
+      "https://radiostream.pl/tuba9-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "crIjlBIPfjGuii",
+    "name": "Radio Złote Przeboje Bydgoszcz",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba8902-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "E607f5btZ7ipV5",
+    "name": "Radio Złote Przeboje Częstochowa",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba8904-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "xmzOchXUp8FeJZ",
+    "name": "Radio Złote Przeboje Poznań",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba8926-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ctuQvcSxhvAVOr",
+    "name": "Radio Łódź",
+    "stream_urls": [
+      "https://stream.radiolodz.pl/RadioLodz-1-HQ.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9fjVGeRE5YBYkd",
+    "name": "Radio Łódź Extra",
+    "stream_urls": [
+      "https://stream.radiolodz.pl/RadioLodz-2-HQ.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "yr6hogXbOjiibw",
+    "name": "Radio Łódź nad Wartą",
+    "stream_urls": [
+      "https://stream.radiolodz.pl/RadioLodz-NW-HQ.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "R3OioucKtiZut9",
+    "name": "Radio Łódź Sport",
+    "stream_urls": [
+      "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "svD2HkdxWGk8ia",
+    "name": "Radio Śląsk",
+    "stream_urls": [
+      "https://s1.slotex.pl:7022/stream"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zKfHU3B2rkMmLn",
+    "name": "Radio Zmysłowe",
+    "sources": {
+      "streams": [
+        "https://s3.slotex.pl/shoutcast/7166/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "g4FILENjLDOz2O",
+    "name": "Radio Żuławy",
+    "sources": {
+      "streams": [
+        "https://stream.radiojar.com/q87xmtvrrg8uv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YZQuyy6o14locL",
+    "name": "Radioparty.pl",
+    "sources": {
+      "streams": [
+        "https://s1.radioparty.pl:8000/stream",
+        "https://s2.radioparty.pl:7000/stream64aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "84LEIbvoGZORq9",
+    "name": "Radioparty.pl - Energy 2000",
+    "sources": {
+      "streams": [
+        "https://s2.radioparty.pl:8040/energy2000"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zHzA7Y8tDB1v3f",
+    "name": "Radioparty.pl - Kanał Główny",
+    "sources": {
+      "streams": [
+        "https://s2.radioparty.pl:8015/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wI9nWNJC45CAww",
+    "name": "Radioparty.pl - Trance",
+    "sources": {
+      "streams": [
+        "https://s2.radioparty.pl:8020/"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "chPo2ZFdXJjLkl",
+    "name": "Radioparty.pl - Vocal Trance",
+    "sources": {
+      "streams": [
+        "https://s2.radioparty.pl:8025/vocaltrance"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "3cAOcGVVEQbtt4",
+    "name": "RDN Małopolska",
+    "sources": {
+      "streams": [
+        "https://stream1.dabcom.pl/rdn_mpl"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "GNKQ0cwE6018Ec",
+    "name": "Replay News",
+    "sources": {
+      "streams": [
+        "https://replaynewspl.ice.infomaniak.ch/replaynewspl-128.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qBuyvdKO8rSxeA",
+    "name": "RMC - Radio Muzyka Człowiek",
+    "stream_urls": [
+      "https://s1.slotex.pl:7030/stream/"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "79KR8GyPzkj1XC",
+    "name": "RMF 2 Pop",
+    "sources": {
+      "streams": [
+        "https://rs103-krk.rmfstream.pl/RMF2"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "19vs8xsLb2QDxN",
+    "name": "RMF 2000",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/2000"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "WPnpPdzf1SjmZL",
+    "name": "RMF 3 Pop Rock",
+    "stream_urls": [
+      "https://rs102-krk-cyfronet.rmfstream.pl/RMF3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wG1iHyPpdZ4xvc",
+    "name": "RMF 36 lat",
+    "stream_urls": [
+      "https://rs101-krk-cyfronet.rmfstream.pl/20LAT"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YxFn6shrif8k8g",
+    "name": "RMF 4 Dance & RNB",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/RMF4"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AGQjucygQBkrPv",
+    "name": "RMF 5 Łagodne Przeboje",
+    "stream_urls": [
+      "https://rs102-krk.rmfstream.pl/RMF5"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "XDUogjJ0ZP4pdX",
+    "name": "RMF 50s",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/50S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BxfErrJlSKjom4",
+    "name": "RMF 60s",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/60S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "37W2ILwezNAzUq",
+    "name": "RMF 70s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/70S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "j5uYdSp4xYMM1U",
+    "name": "RMF 80s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/80S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "1JaJX2fvknpd9u",
+    "name": "RMF 80s Disco",
+    "stream_urls": [
+      "https://rs101-krk.rmfstream.pl/80SDISCO"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "50jLZPJy9FNYhq",
+    "name": "RMF 90s",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/90S"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uVYEHGzjYxcyK6",
+    "name": "RMF 90s Dance",
+    "stream_urls": [
+      "https://rs103-krk-cyfronet.rmfstream.pl/90SDANCE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "okbNXwUUaARUtM",
+    "name": "RMF Alternatywa",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/ALTERNATYWA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BYC4oafCCYmspz",
+    "name": "RMF Ballady",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/NOSTALGIA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zfPnm9a5BA693Y",
+    "name": "RMF Beatlemania",
+    "sources": {
+      "streams": [
+        "https://rs203-krk.rmfstream.pl/BEATLEMANIA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZWVaDlbGZ7ugiJ",
+    "name": "RMF Blues",
+    "sources": {
+      "streams": [
+        "https://rs103-krk.rmfstream.pl/BLUES"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9GczIAzeoa5031",
+    "name": "RMF Celtic",
+    "sources": {
+      "streams": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/CELTIC"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HMgGKzc8ArmwPf",
+    "name": "RMF Chillout",
+    "sources": {
+      "streams": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/CHILLOUT"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nJu47IDHoPjmPL",
+    "name": "RMF Chopin",
+    "sources": {
+      "streams": [
+        "https://rs203-krk.rmfstream.pl/CHOPIN"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Eb9q6Cgye96vTA",
+    "name": "RMF Classic",
+    "sources": {
+      "streams": [
+        "https://rs103-krk.rmfstream.pl/RMFCLASSIC48"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "LMD8fDkE5ZQrWK",
+    "name": "RMF Classic Rock",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/CLASSICROCK"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9Lwx2bLajAuYFO",
+    "name": "RMF Club",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/CLUB"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "4yj1Q3Vcuou0hm",
+    "name": "RMF Cuba",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/CUBA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "haMucXyBFa19VQ",
+    "name": "RMF Dance",
+    "sources": {
+      "streams": [
+        "https://rs202-krk.rmfstream.pl/DANCE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "SupsFM1fHTIk0V",
+    "name": "RMF Depeche Mode",
+    "sources": {
+      "streams": [
+        "https://rs202-krk.rmfstream.pl/DEPECHEMODE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "q46csBzRZdmWwl",
+    "name": "RMF Disco Polo",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/DISCOPOLO"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iCjkwdw7F5zNXW",
+    "name": "RMF Dla dzieci",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/BABY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "luzzRWIy9t9hBx",
+    "name": "RMF Fitness",
+    "sources": {
+      "streams": [
+        "https://rs201-krk-cyfronet.rmfstream.pl/FITNESS"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "uXQguVBW6Kj1Mh",
+    "name": "RMF FM",
+    "stream_urls": [
+      "https://rs203-krk-cyfronet.rmfstream.pl/RMFFM48",
+      "https://rs101-krk.rmfstream.pl/rmf_fm"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "h6wVhRpCYwdQZd",
+    "name": "RMF Français",
+    "sources": {
+      "streams": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/FRANCAIS"
+      ]
+    },
+    "languages": [
+      "pol",
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "utKOyXo3YiYs5q",
+    "name": "RMF Gold",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/GOLD"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "BoROSEyXPOpBDY",
+    "name": "RMF Grunge",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/GRUNGE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "D6jLsv0Iw0BifO",
+    "name": "RMF Hard & Heavy",
+    "sources": {
+      "streams": [
+        "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "J1bUNC2nkzIAB5",
+    "name": "RMF Hip Hop",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/HIPHOP"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "1NtI10dYVJCym4",
+    "name": "RMF Hot New",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/HOTNEW"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AHqYKnEfsV0P1r",
+    "name": "RMF K-Pop",
+    "sources": {
+      "streams": [
+        "https://rs8-krk2-cyfronet.rmfstream.pl/GAMEMUSIC"
+      ]
+    },
+    "languages": [
+      "pol",
+      "kor"
+    ]
+  },
+  {
+    "nanoid": "gYRrJ2MKDojTZu",
+    "name": "RMF Kolędy",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/KOLEDY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fq7QoSX8D71y1I",
+    "name": "RMF Lady Pank",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/LADYPANK"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "jTvn83xEgcZzlV",
+    "name": "RMF Latino",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/LATINO"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "yibCkIglUZ0V1P",
+    "name": "RMF MAXX",
+    "sources": {
+      "streams": [
+        "https://rs203-krk.rmfstream.pl/RMFMAXXX48"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "V2ARpBHtBFj2Rx",
+    "name": "RMF MAXX Bydgoszcz",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXBYD"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "DOUwnwqxRgrilE",
+    "name": "RMF MAXX Hop Bęc",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/HOPBEC"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "gjltfLLggAlPsp",
+    "name": "RMF MAXX Kielce",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXKIE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ULgG5PsbJ1ZpH9",
+    "name": "RMF MAXX Kraków",
+    "sources": {
+      "streams": [
+        "https://rs102-krk.rmfstream.pl/MAXXXKRA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "F0GeIhTNafzAY4",
+    "name": "RMF MAXX Krosno",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXKSN"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "R3xxjcqDwv5ebw",
+    "name": "RMF MAXX Mazowsze",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXCIE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "c6bTBDlOXNnNN4",
+    "name": "RMF MAXX Podlasie",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXLOM"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "b6p9wMJIVMxb0q",
+    "name": "RMF MAXX Pomorze",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXSLU"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Eib5UReaqqvxis",
+    "name": "RMF MAXX Poznań",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXPOZ"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Xg0L5NT3ALFwgA",
+    "name": "RMF MAXX Sunrise Festival",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXSUNF"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9hYkes0ptVXKb6",
+    "name": "RMF MAXX Szczecin",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXSZC"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HM0Hu4V1Ukm45P",
+    "name": "RMF MAXX Warszawa",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXWAW"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ClDkIDUjMyxR1x",
+    "name": "RMF MAXX Włocławek",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/MAXXXWLC"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "5fwoHICkZGURKr",
+    "name": "RMF MAXX Śląsk",
+    "stream_urls": [
+      "https://rs201-krk.rmfstream.pl/MAXXXSLK"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "VMJvfBJwm1SHPR",
+    "name": "RMF Michael Jackson",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/MICHALEJACKSON"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zUSSS9edjUL5el",
+    "name": "RMF Muzyka Filmowa",
+    "sources": {
+      "streams": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/MUZYKAFILMOWA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "FcNxpPZkKIbdmD",
+    "name": "RMF Muzyka Klasyczna",
+    "sources": {
+      "streams": [
+        "https://rs202-krk.rmfstream.pl/MUZYKAKLASYCZNA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "G3903ohvaRDMUV",
+    "name": "RMF Największe Polskie Przeboje",
+    "sources": {
+      "streams": [
+        "https://rs102-krk.rmfstream.pl/NPPRMFON"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "r7vm7bdGOYQtws",
+    "name": "RMF Niezapomniane Melodie",
+    "sources": {
+      "streams": [
+        "https://rs201-krk-cyfronet.rmfstream.pl/NIEZAPOMNIANEMELODIE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "D7aSxZQmTMLLoL",
+    "name": "RMF Party",
+    "sources": {
+      "streams": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/PARTY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "w5wIuKmEDGTjhB",
+    "name": "RMF Piosenka Filmowa",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/PIOSENKAFILMOWA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "3RGNg8G3rIIi5R",
+    "name": "RMF Piosenka Literacka",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/PIOSENKALITERACKA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8E3eFDUPgFtHe5",
+    "name": "RMF Pobudka",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/POBUDKA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "iIBMI6on02K9Io",
+    "name": "RMF Polska Alternatywa",
+    "sources": {
+      "streams": [
+        "https://rs102-krk.rmfstream.pl/POLSKAALTERNATYWA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "wKMBAe5D5cyBGM",
+    "name": "RMF Polska Prywatka",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/POLSKAPRYWATKA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "pgRZWnhzg88tnK",
+    "name": "RMF Polski Hip Hop",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/TOP18"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "p9qYIOGAv7a55n",
+    "name": "RMF Polski Rock",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/POLSKIROCK"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "IDsFvVlMYy5riD",
+    "name": "RMF Polskie Przeboje",
+    "sources": {
+      "streams": [
+        "https://rs103-krk.rmfstream.pl/PPRZEBOJE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "K3LRb38ECtkw1i",
+    "name": "RMF Poplista",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/POPLISTA"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "shisw970KhL99O",
+    "name": "RMF PRL",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/PRL"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ranKQpv4wAw22R",
+    "name": "RMF Przebój Roku",
+    "sources": {
+      "streams": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/PRZEBOJROKU"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "VmeskbIbbCiU5t",
+    "name": "RMF Queen",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/QUEEN"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YSBCLZoZsxRIaX",
+    "name": "RMF Reggae",
+    "sources": {
+      "streams": [
+        "https://rs101-krk.rmfstream.pl/REGGAE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "qviBGNZuLxd5Zl",
+    "name": "RMF Relaks",
+    "sources": {
+      "streams": [
+        "https://rs202-krk.rmfstream.pl/RELAKS"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Zzy1MmachuCPBx",
+    "name": "RMF Rock",
+    "sources": {
+      "streams": [
+        "https://rs201-krk.rmfstream.pl/ROCK"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "KmXesjqByHVRr4",
+    "name": "RMF Rock Progresywny",
+    "sources": {
+      "streams": [
+        "https://rs203-krk.rmfstream.pl/ROCKPROGRESYWNY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AkZgTssEKMQafd",
+    "name": "RMF Smooth Jazz",
+    "sources": {
+      "streams": [
+        "https://rs102-krk.rmfstream.pl/SJAZZ"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "GWLm2eyj4JTbrd",
+    "name": "RMF Styl",
+    "sources": {
+      "streams": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/STYL"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "sKtXLbGNux8zL5",
+    "name": "RMF Szanty",
+    "sources": {
+      "streams": [
+        "https://rs201-krk-cyfronet.rmfstream.pl/SZANTY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "bD2luohJ6OakOr",
+    "name": "RMF Słoneczne Przeboje",
+    "stream_urls": [
+      "https://rs101-krk-cyfronet.rmfstream.pl/SPRZEBOJE"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "0NsxrHaa84ocUI",
+    "name": "RMF Top 3",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/TOP3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "E6IeL7DxbRdJgs",
+    "name": "RMF Top 30 PL",
+    "sources": {
+      "streams": [
+        "https://rs203-krk-cyfronet.rmfstream.pl/TOP5PL"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YUsBOYTbAuBSH6",
+    "name": "RMF Top 30 Pop",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/TOP5POP"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "zN1RZ0xpZymynk",
+    "name": "RMF Top 5",
+    "stream_urls": [
+      "https://rs202-krk.rmfstream.pl/TOP5"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ub9NvLiT5mwCLy",
+    "name": "RMF Top Disco Polo",
+    "sources": {
+      "streams": [
+        "https://rs203-krk.rmfstream.pl/TOP2"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZG1GHHProyplst",
+    "name": "RMF Trend Sounds",
+    "sources": {
+      "streams": [
+        "https://rs202-krk-cyfronet.rmfstream.pl/TRENDSOUNDS"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "5mSl13QP8P5U7o",
+    "name": "RMF Vibe",
+    "sources": {
+      "streams": [
+        "https://rs102-krk-cyfronet.rmfstream.pl/VIBE"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "h58iAxUkoy96Vv",
+    "name": "RMF Viral",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/BRAVO"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "XZvKhLkIiKx7YC",
+    "name": "RMF W pracy",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/WPRACY"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "U4EG9OpL6RKhk7",
+    "name": "RMF Wakacyjne TOP 100",
+    "sources": {
+      "streams": [
+        "https://rs103-krk.rmfstream.pl/TOP4"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "8CXj5INoJca4i2",
+    "name": "RMF Święta",
+    "stream_urls": [
+      "https://rs101-krk-cyfronet.rmfstream.pl/SWIETA"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fc5fWQtP0SHQC3",
+    "name": "Rock Radio",
+    "sources": {
+      "streams": [
+        "https://25633.live.streamtheworld.com/RADIO_ROCK.mp3",
+        "https://radiostream.pl/tuba8-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "cYo2OOms0BDNXR",
+    "name": "Rock Radio Klasyka Rocka",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ROCK.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "MfUNt5CkqJT7YH",
+    "name": "Rock Radio Kraków",
+    "sources": {
+      "streams": [
+        "https://radiostream.pl/tuba9000-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Lev7dMphJRfZtz",
+    "name": "Rockserwis.fm",
+    "sources": {
+      "streams": [
+        "https://radio.rockserwis.fm/live"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "yitBg1zxf2LJS3",
+    "name": "Sizeer FM",
+    "sources": {
+      "streams": [
+        "https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "6udDTi7uBjSXjv",
+    "name": "SmoothJazz.com.pl",
+    "stream_urls": [
+      "https://bcast.vigormultimedia.com:48888/sjcomplflac",
+      "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+      "https://bcast.vigormultimedia.com:48888/sjcompl64aac"
+    ],
+    "country": "pl",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rdLa6M7pdoWEh0",
+    "name": "Studio Kołobrzeg",
+    "sources": {
+      "streams": [
+        "https://ssl-1.radiohost.pl:11578/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9ITJ8GajikkTAg",
+    "name": "SuperNova",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1070-2.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "fbfP9Th8Pw0qx5",
+    "name": "SuperNova Gdańsk",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1170-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "TN0aNM81fKS8SN",
+    "name": "SuperNova Jelenia Góra",
+    "stream_urls": [
+      "https://ic1.smcdn.pl/1480-1.mp3"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "TN0aNM81fKS8SN",
+    "name": "SuperNova Jelenia Góra",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1480-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mdu8vVoHGuSh0P",
+    "name": "SuperNova Kielce",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1050-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "7pdzzojfOPTHcZ",
+    "name": "SuperNova Party",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/6160-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "nvm7lqsGz5vM5b",
+    "name": "SuperNova Rock",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/6090-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "GINzb6bjJqJvNS",
+    "name": "SuperNova Super 13",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/6230-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HeOZ1uZPiAIEm5",
+    "name": "SuperNova Szczecin",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1260-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HF7kCEMT9leI5d",
+    "name": "SuperNova Trzebnica",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1510-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "NbP12DEOefgLb6",
+    "name": "SuperNova Wrocław",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/1180-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "JJdggADiN1P7dc",
+    "name": "SuperOrbita",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7086/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "t1envOsrvaBZUr",
+    "name": "TobiFM",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl/shoutcast/7822/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "2LlwCsCCAKMjBm",
+    "name": "Trendy Radio",
+    "sources": {
+      "streams": [
+        "https://stream.trendyradio.pl/m"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "9iBeEf3NuJglMH",
+    "name": "Trip Radio",
+    "sources": {
+      "streams": [
+        "https://a13.asurahosting.com/listen/trip-radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "Znu3xbeEnrUCbH",
+    "name": "TyfloRadio",
+    "sources": {
+      "streams": [
+        "https://radio.tyflopodcast.net/"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "F17BG7B4RJCbYw",
+    "name": "U-Radio Trance",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/n8yr1d9g9whvv"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "tNBgvHPTpLmzA9",
+    "name": "UJOT FM",
+    "sources": {
+      "streams": [
+        "https://stream.ujot.fm/"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "k2pWPjtCjdWQNK",
+    "name": "VibeFM",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/6490-1.aac"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "HbjoL9Wr8WDaBf",
+    "name": "VOX FM",
+    "sources": {
+      "streams": [
+        "https://ic2.smcdn.pl/3990-1.mp3",
+        "https://radio.stream.smcdn.pl/icradio-p/3990-1.aac/playlist.m3u8",
+        "https://radio.stream.smcdn.pl/timeradio-p/3990-1.aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "r4Gb06FyVPN1de",
+    "name": "VOX FM Best Lista",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6100-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "OO6akwVkkm7XAy",
+    "name": "VOX FM Disco 90",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6170-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZFuipuSTnbdAcY",
+    "name": "VOX FM Disco Party",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6180-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "UgqQenH4st2H6N",
+    "name": "VOX FM DJ Mix",
+    "sources": {
+      "streams": [
+        "https://waw.ic.smcdn.pl/6020-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "rC1xZL4Y6omMBg",
+    "name": "VOX FM Hit 22",
+    "sources": {
+      "streams": [
+        "https://ic1.smcdn.pl/6020-1.mp3"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "AQ3DngE3Yz5vMf",
+    "name": "Wasze Radio FM",
+    "sources": {
+      "streams": [
+        "https://sluchaj.link:5443/wasze"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "YpQqVgZ7lo8F1V",
+    "name": "Xvibe",
+    "sources": {
+      "streams": [
+        "https://xvibe.pl/stream.php"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "ZySAhJzg9rhnRa",
+    "name": "Zaebista Imprezka",
+    "sources": {
+      "streams": [
+        "https://s1.slotex.pl:7722/stream"
+      ]
+    },
+    "languages": [
+      "pol"
+    ]
+  },
+  {
+    "nanoid": "oly9eqJQ8ZiJ6h",
+    "name": "Śląskie Radio",
+    "stream_urls": [
+      "https://stream10.hosterion.pl:7032/;"
+    ],
+    "country": "pl",
+    "languages": [
+      "pol"
+    ]
+  }
+]

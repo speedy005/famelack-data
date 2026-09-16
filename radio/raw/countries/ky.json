@@ -1,0 +1,62 @@
+[
+  {
+    "nanoid": "46GJqA1ygwunrT",
+    "name": "Island FM",
+    "sources": {
+      "streams": [
+        "https://iriefm-hurleysmedia.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "3VjuqCiH9sddnW",
+    "name": "Paradise Radio",
+    "sources": {
+      "streams": [
+        "https://radiostreamcast.com/listen/paradise_radio/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "TEpsDyTxR2Nbaf",
+    "name": "Rooster 101",
+    "sources": {
+      "streams": [
+        "https://rooster101-hurleysmedia.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "5P9fv4MMU1Kkli",
+    "name": "X107.1",
+    "sources": {
+      "streams": [
+        "https://ice23.securenetsystems.net/X1071"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Xfo9LFGvign1eA",
+    "name": "Z99",
+    "sources": {
+      "streams": [
+        "https://z99-hurleysmedia.radioca.st/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  }
+]

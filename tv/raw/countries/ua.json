@@ -1,0 +1,902 @@
+[
+  {
+    "nanoid": "POgdAT0qPokYdw",
+    "name": "1+1 International",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_one_plus_one_int_tizen/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "t5EqKCIIOMVoUI",
+    "name": "1+1 Marafon",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/1plus1_marathon/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IizLYzsxKE01t8",
+    "name": "5 канал",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/PDho7mi2Kq8"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "D4yTc59L8E3C7q",
+    "name": "24 Канал онлайн",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/mWkb-BLcGAY"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rYwjqhp39J7oO0",
+    "name": "36.6 TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Scw8Lr2omhvthD",
+    "name": "ATR",
+    "sources": {
+      "streams": [
+        "https://stream.mcquack.net/244/index.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "H0fTRstAnfWOk3",
+    "name": "Avers",
+    "sources": {
+      "streams": [
+        "https://avers.pp.ua/hls/efir.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jOAIqaLMKe2dyy",
+    "name": "BTQ - Телеканал",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/We2KhpVn8us"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "OTZ19e4QL89Emf",
+    "name": "Espreso",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ScdUZNkwcYc"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1noDMwg9YAlG9Y",
+    "name": "Espreso TV",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_espresso/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_espresso/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mIGSyXqUZvMvq1",
+    "name": "EWTN Ukraine",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/1/WjduMm1tYnlwNXQx/M01NV3Uz/hls/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xbUgKyNJkUd9WG",
+    "name": "FilmUA Live",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "0r210a3FA40XwI",
+    "name": "FilmUADrama",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QgJCPkx1daMycI",
+    "name": "FREEDOM",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_uatv/playlist.m3u8",
+        "https://dash4.antik.sk/live/test_uatv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "iK2kLMwkLCeU8A",
+    "name": "Freedom (FREEДOM) (UATV)",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/2D0PyPWo8vc"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QoGBfp2S5Hqmo0",
+    "name": "Happy Radio TV",
+    "sources": {
+      "streams": [
+        "https://tv.mediacp.eu:8081/happyradio/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dS9WZLHmmG45EL",
+    "name": "History Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/History_HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zguiwIb77EwhFw",
+    "name": "History2 Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/H2-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TTjsj6LVCttYVT",
+    "name": "Hollywood Ukraine",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/Hollywood-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "e9rrXwLSK5cgba",
+    "name": "Inter+",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Rg0feSG7xyITpH",
+    "name": "Islandia",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2ijBxrnqlhILuI",
+    "name": "ITV",
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WoGHZ2NiobEniJ",
+    "name": "Izmail TV",
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mqffvBQ8XNfThQ",
+    "name": "K2",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/k2-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "RCrPTSQMxm28NU",
+    "name": "Kus-Kus",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/test_kuskus_tv_atktv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aTKMVMY4VnZK2B",
+    "name": "M1",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/M1-HD/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VuNeaocCdf0jve",
+    "name": "Mega",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n4cYNsGP5quUZZ",
+    "name": "Muzvar",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/muzvar-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "llmTLpa7nLu2lO",
+    "name": "NASHE Music",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/nashemus-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yuVSQWMuHA1KqE",
+    "name": "NTK TV",
+    "sources": {
+      "streams": [
+        "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "oKqpFMnvfZtb0e",
+    "name": "NTN",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/ntn-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ylXWvKt3UmAowg",
+    "name": "One Planet",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/OnePlanet/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IAHNNM2HDRUGA0",
+    "name": "Pixel TV",
+    "sources": {
+      "streams": [
+        "https://cdn15.live-tv.cloud/ua_infinitas_tv/pixel-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zd0xHBMJgy6qgu",
+    "name": "Prokino",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/ProKino/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BbQTAaHxQO2kHl",
+    "name": "PTV",
+    "stream_urls": [
+      "https://stream.ntktv.ua/s/ntk/ntk.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nm3WREqkCV8Rax",
+    "name": "RAZ 3",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g2NS90cmFja3MtdjJhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDcxMDcwMCZzdD1MXzZYc2M4elNra3RCaWYyVzU1dWF3&master=180"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8U4fmHOblgoXqY",
+    "name": "RAZ 3 International",
+    "sources": {
+      "streams": [
+        "https://dash2.antik.sk/live/kvartal_tv/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Ow650uw0Y3b6my",
+    "name": "Rivne 1",
+    "sources": {
+      "streams": [
+        "https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZqrDz64QgMJgYB",
+    "name": "SONATA TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/I2mWqNL0IsY"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
+    "stream_urls": [
+      "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CcIIP6g1fBAGPV",
+    "name": "Tretiy Cifrovoy",
+    "stream_urls": [
+      "https://cdn15.live-tv.cloud/ua_infinitas_tv/3tvod-abr/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KNtnaXZuhjC6uj",
+    "name": "TIS TV",
+    "sources": {
+      "streams": [
+        "https://cdn10.live-tv.cloud/riood/tisod-abr/riood/tisod720/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WcoZqsaKguXix1",
+    "name": "TUSO",
+    "sources": {
+      "streams": [
+        "https://tuso.cdn-01.cosmonova.net.ua/hls/tuso_ua.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "TSbUr1OhqLkxuT",
+    "name": "TVA",
+    "stream_urls": [
+      "https://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8",
+      "https://rtsp.cdn.ua/tva.ua_live/livestream/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uxcw4wRAcuUgkj",
+    "name": "UPL.TV",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/UPL-TV/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Y0erRqDz4zrYeR",
+    "name": "Viasat Explore",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/Viasat-Explore/index.m3u8",
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODUvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMyOTgmc3Q9eWVMNVRuX0tiUlAwVWd0UjctYTBMZw%3D%3D&master=79"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PfbaswQwxPL2la",
+    "name": "Viasat History",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODYvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTM0ODYmc3Q9MVprUlhpb2xfODRPc2RMR2R0VDNzQQ%3D%3D&master=78"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ny7Wt1WBD8NyDP",
+    "name": "Viasat Kino",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/Viasat_Kino/index.m3u8",
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ni90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5NzA2MyZzdD1IMENxaGExNldkUTV0YWFSaW04QWlR&master=104"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8S6XWyiADx3IBB",
+    "name": "Viasat Kino Action",
+    "sources": {
+      "streams": [
+        "https://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8",
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjUxOjcwMDAvY2g0Ny90cmFja3MtdjFhMS9tb25vLm0zdTg%2FbGl2ZT0xJmlwPTE3OC4xMzYuNDIuMjIwJmlkPTk0ODg2NSZzZWNyZXQ9bjF1N3VpMDYmc3NsPTEmMjF5bz0wJmU9MTc5MDU5OTA0MiZzdD1tVWRSQVFvbDY4SHVMTEc2MENpeTFn&master=105"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lat",
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3KIbg37PQUOdm7",
+    "name": "Viasat Kino Comedy",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lat",
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DrX3v9SZK4N49f",
+    "name": "Viasat Kino World",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xZQtLilWvREvvM",
+    "name": "Viasat Nature",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoODQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3NTMxMTAmc3Q9dTZrbUNadl9LWlpqMllkWVJRbDVBdw%3D%3D&master=77"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZcTlJjeaCc55j6",
+    "name": "Viasat Serial",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDUvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA2MDExNzAmc3Q9VS12czVHQmhOdF9WQXJ4bHVYVzR2dw%3D%3D&master=599"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QObKB9usM9CdhJ",
+    "name": "Viasat True Crime Ukraine",
+    "sources": {
+      "streams": [
+        "https://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoMjgvdHJhY2tzLXYyYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA3MDczMDImc3Q9ZzIyOUNTdUZudUd6dm9UbkJNNzJ6dw%3D%3D&master=1091"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "33aYR9EbXeoJbc",
+    "name": "Ми - Україна",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/Mv6PEi0hRmg"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "LFw2IVZK55i3Eh",
+    "name": "Суспільне Новини",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EHiuKvFUr2w"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "58lrZlgzryEpin",
+    "name": "Телеканал 1+1: FREEДОМ",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/lnrp2S2L6qk"
+      ]
+    },
+    "languages": [
+      "rus"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "tke53J9UPinmCQ",
+    "name": "Телеканал Конкурент TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Kt-6t8BIqIM"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "j4guaLVmU1qeBF",
+    "name": "Телеканал Прямий",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/-9FO57Sk_oY"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SMG6eHvZY0KKF6",
+    "name": "Телеканал Рада",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ecD39ojnQxQ"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lgFlddJ7s9T4qn",
+    "name": "ТСН: Єдині новини: 1+1",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/WY8sDvZdWEA"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6nxwpbCBqRLYc",
+    "name": "ЦЕНТР",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/I0SkyX3lXBY"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6nxwpbCBqRLYc",
+    "name": "ЦЕНТР",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/FlqTZKF3z98"
+    ],
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "I6nxwpbCBqRLYc",
+    "name": "ЦЕНТР",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/MORD7iA-API"
+      ]
+    },
+    "languages": [
+      "ukr"
+    ],
+    "country": "ua",
+    "isGeoBlocked": false
+  }
+]

@@ -1,0 +1,487 @@
+[
+  {
+    "nanoid": "stdOuqnqLDYMz4",
+    "name": "101.7 Your Love FM",
+    "sources": {
+      "streams": [
+        "https://radio.905heartfm.com:8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "AbN1qY3yj0YVR3",
+    "name": "13x",
+    "stream_urls": [
+      "https://stream.zeno.fm/rduelmumm6buv"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "KlyYjnUrlTSHBN",
+    "name": "Afro 505",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/7wozjkc8x0vvv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "kur"
+    ]
+  },
+  {
+    "nanoid": "uqubR0eDOaBCfp",
+    "name": "Alif Alif FM",
+    "sources": {
+      "streams": [
+        "https://alifalifjobs.com/radio/8000/AlifAlifLive.mp3"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "BMMqO0Kx2zl1WI",
+    "name": "Asmaaxx",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/nkukhjz4vgtuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "TZUsQ5POUtxjkZ",
+    "name": "Bestfriend FM",
+    "sources": {
+      "streams": [
+        "https://stream-47.zeno.fm/ewvmpjn7kultv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "0aLqjIFfqRE4t1",
+    "name": "Dance FM 101.5",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/cygwwun7a5zuv"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "UEYmliuvuPu6ng",
+    "name": "Dance FM 104.3",
+    "sources": {
+      "streams": [
+        "https://stream-155.zeno.fm/cygwwun7a5zuv"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4yTZBdDR0Mqj71",
+    "name": "Dance FM 89.1",
+    "stream_urls": [
+      "https://stream-157.zeno.fm/cygwwun7a5zuv"
+    ],
+    "country": "sa",
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "9ioGEufFtQ3Diu",
+    "name": "Dreamstar Radio KSA",
+    "sources": {
+      "streams": [
+        "https://stream-173.zeno.fm/h0y9yu8hzk8uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zKOUh0kIiLSSP7",
+    "name": "Energy Radio KSA 80s",
+    "sources": {
+      "streams": [
+        "https://nl4.mystreaming.net/uber/boomerang1980s/icecast.audio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4JZYtsNRplLb0B",
+    "name": "Fred Film Radio (Arabic)",
+    "sources": {
+      "streams": [
+        "https://s10.webradio-hosting.com/proxy/fredradioar/stream"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "J0h8proZrcKCbR",
+    "name": "Galaxy FM KSA",
+    "sources": {
+      "streams": [
+        "https://eu10.fastcast4u.com:6300/;"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "y7rKVGZvfCH0di",
+    "name": "Jeddah Radio 96.2 FM",
+    "sources": {
+      "streams": [
+        "https://live.kwikmotion.com/sbrksajeddahradiolive/ksajeddahradio/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hpGJqvlTUw1RIB",
+    "name": "Maura Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/fpasc3up26ptv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "36Vu4nT4OSwPHq",
+    "name": "Mp3Quran",
+    "sources": {
+      "streams": [
+        "https://qurango.net/radio/mix"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "mvFtKpWqjW9nrT",
+    "name": "MX2",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/66gp9qukxaquv"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "A0D59TuWOde7Qj",
+    "name": "OFW Kabayan Radio",
+    "sources": {
+      "streams": [
+        "https://c2.radioboss.fm:18478/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "vfQbINYEyE50GJ",
+    "name": "OFW Tambayan FM",
+    "sources": {
+      "streams": [
+        "https://stream-170.zeno.fm/82bb4d2uz68uv"
+      ]
+    },
+    "languages": [
+      "eng",
+      "tgl"
+    ]
+  },
+  {
+    "nanoid": "m5AI57BebWdepP",
+    "name": "Precious Hearts Radio",
+    "sources": {
+      "streams": [
+        "https://stream-172.zeno.fm/yyzp7bv9qchvv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "4XU0VXPYQPdQs5",
+    "name": "Quran Radio",
+    "sources": {
+      "streams": [
+        "https://n09.radiojar.com/0tpy1h0kxtzuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Twh83wNeQgMzvN",
+    "name": "Radio Asharq",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "wrcN8igxlCycCu",
+    "name": "Radio Asharq",
+    "sources": {
+      "streams": [
+        "https://svs.itworkscdn.net/asharqradiovlive/asharqradiov/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "b2OGVTbnU4KWuq",
+    "name": "Radio Asharq with Bloomberg",
+    "sources": {
+      "streams": [
+        "https://l3.itworkscdn.net/asharqradioalive/asharqradioa/icecast.audio"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "0s2D8s6kZq6Nwe",
+    "name": "Remix S-DJ",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/pdeizhgrtrstv"
+      ]
+    },
+    "languages": [
+      "ara",
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "lSW60FMMnsUCPN",
+    "name": "Replay News",
+    "sources": {
+      "streams": [
+        "https://replaynewsar.ice.infomaniak.ch/replaynewsar-128.mp3"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "5SNsKy7ge0VILo",
+    "name": "Riyadh Radio 91.5 FM",
+    "sources": {
+      "streams": [
+        "https://stream-154.zeno.fm/pdeizhgrtrstv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "TZPU3oLrUp1Ntn",
+    "name": "Saudi Quran Radio",
+    "sources": {
+      "streams": [
+        "https://n01.radiojar.com/0tpy1h0kxtzuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "sa",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3nxxk117eczTnx",
+    "name": "Saudia Radio 103.6 FM",
+    "sources": {
+      "streams": [
+        "https://stream-154.zeno.fm/t4ww4awfps8uv"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "rEIGjtiI96lNbw",
+    "name": "SkyRadio 105.5 FM",
+    "sources": {
+      "streams": [
+        "https://cast.skyradio105.com/proxy/skyradio105/stream"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "fgYVLw3dzxv08A",
+    "name": "The Salaf Way FM",
+    "sources": {
+      "streams": [
+        "https://airtime.salafwayfm.ly/"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "AHqqD82u5MhE4N",
+    "name": "UFM 95.5",
+    "sources": {
+      "streams": [
+        "https://stream.ufmradio.com:8003/;"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "ORyO8xy03JUyrc",
+    "name": "Voice of Grace",
+    "sources": {
+      "streams": [
+        "https://securestreams5.reliastream.com:1820/;"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "q8ZTXMwo3YFkzo",
+    "name": "إذاعة القرآن الكريم (Makkah Quran Radio)",
+    "sources": {
+      "streams": [
+        "https://n05.radiojar.com/4wqre23fytzuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "Nr2ABpJQvxBAoQ",
+    "name": "القارئ علي الحذيفي (Ali Al-Huthaifi)",
+    "sources": {
+      "streams": [
+        "https://qurango.net/radio/ali_alhuthaifi_qalon"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "IjHOoHOZD3wNT8",
+    "name": "تفسير القرآن الكريم (Quran Tafseer)",
+    "sources": {
+      "streams": [
+        "https://qurango.net/radio/tafseer"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "FFE2O2xqosKlvl",
+    "name": "عظمها وافي و غاربها طويل",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/9i7dabxxfwsuv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "3IUf3InApSRNmu",
+    "name": "مختصر السيرة",
+    "sources": {
+      "streams": [
+        "https://qurango.net/radio/almukhtasar_fi_alsiyra"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "2GUzRt6KMrrCux",
+    "name": "مقدمة رسالة ابن أبي زيد القيرواني",
+    "sources": {
+      "streams": [
+        "https://www.al-badr.net/download/esound/choroohat/abuzaid_alkirawani/001.mp3"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  }
+]

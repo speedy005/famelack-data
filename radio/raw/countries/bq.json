@@ -1,0 +1,67 @@
+[
+  {
+    "nanoid": "VvQAs8qLfFtI8y",
+    "name": "Alpha 93.1 FM",
+    "sources": {
+      "streams": [
+        "https://kadushi.westream.cloud:8100/xstream"
+      ]
+    },
+    "languages": [
+      "spa",
+      "pap"
+    ]
+  },
+  {
+    "nanoid": "jeIo4emckiebjd",
+    "name": "Mega Hit FM",
+    "sources": {
+      "streams": [
+        "https://megahitfm.krioyohosting.com:1012/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "9vVwOv1HV23Gq4",
+    "name": "Radio Karpata",
+    "sources": {
+      "streams": [
+        "https://stream-174.zeno.fm/fpc440mz3tzuv"
+      ]
+    },
+    "languages": [
+      "pap",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "E2jk2FQTIh3YMe",
+    "name": "Studio De Groene Knuppel",
+    "sources": {
+      "streams": [
+        "https://mars.streamerr.co/8238/studiodegroeneknuppel"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "bq",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "4IZ8rAQ25UaMiD",
+    "name": "Tropical Spice Radio",
+    "sources": {
+      "streams": [
+        "https://auds1.intacs.com/tropicalspiceradio"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  }
+]

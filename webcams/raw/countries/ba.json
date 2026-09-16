@@ -1,0 +1,26 @@
+[
+  {
+    "nanoid": "8bzmH7mKbP5vnq",
+    "name": "Ali Pasha's Mosque",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/ud6OgjE6duo"
+      ]
+    },
+    "languages": [],
+    "country": "ba",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XizNs7nXeHK4hH",
+    "name": "Sarajevo City Centre",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/8F_Q634VyXY"
+      ]
+    },
+    "languages": [],
+    "country": "ba",
+    "isGeoBlocked": false
+  }
+]

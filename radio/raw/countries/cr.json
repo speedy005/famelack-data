@@ -1,0 +1,376 @@
+[
+  {
+    "nanoid": "lmjfwmWkxgHPgR",
+    "name": "95.5 Jazz",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/s36bd2a451/listen"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zcdq34UbXkDH9s",
+    "name": "959 Conexión",
+    "sources": {
+      "streams": [
+        "https://29308.live.streamtheworld.com/CRC_959AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "kPgMQOPFLSbqVX",
+    "name": "Amor FM 93.9",
+    "sources": {
+      "streams": [
+        "https://player.hostingtico.com/proxy/8094"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "p7LdsBaB75wNPj",
+    "name": "Avance Radio",
+    "sources": {
+      "streams": [
+        "https://radios.solumedia.com:6512/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "4Um07xRJxNQhWo",
+    "name": "Azul 99.9 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "GeP7o6mKg52r9r",
+    "name": "Cientotres 103.1 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7LQtzzN14kfvTo",
+    "name": "Classics Pop & Rock",
+    "sources": {
+      "streams": [
+        "https://c9.radioboss.fm:8035/stream"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "pAFKNjgH680tdX",
+    "name": "Club Dance Music",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/5x4sda9kxtzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "VzAak85LCtzyag",
+    "name": "Colosal FM 88.3",
+    "sources": {
+      "streams": [
+        "https://5eac7b031d945.streamlock.net/canal3/canal3/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AR3x81g3JGfMbx",
+    "name": "Columbia Estéreo 92.7 FM",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/sca838cc60/listen"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "FkjTujN3plgByH",
+    "name": "Conexión Espiritual",
+    "sources": {
+      "streams": [
+        "https://uk14freenew.listen2myradio.com/live.mp3?typeportmount=s1_26552_stream_280649313"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fhpNnDhMnrDQ3H",
+    "name": "Control Music 88.2 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/41p4wfy92mruv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "y2uiuztlKAO6CJ",
+    "name": "Elite Radio 88.5 FM",
+    "sources": {
+      "streams": [
+        "https://stream20.usastreams.com/8008/;",
+        "https://stream20.usastreams.com/8008/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Rrcb6MIbYmpCxc",
+    "name": "Dabar Radio",
+    "sources": {
+      "streams": [
+        "https://a1.asurahosting.com:8720/radio.mp3",
+        "https://a1.asurahosting.com:8720/radio.mp3/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "y2uiuztlKAO6CJ",
+    "name": "Elite Radio 88.5 FM",
+    "stream_urls": [
+      "https://stream20.usastreams.com/8008/stream",
+      "https://stream20.usastreams.com/8008/;"
+    ],
+    "country": "cr",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "y2uiuztlKAO6CJ",
+    "name": "Elite Radio 88.5 FM",
+    "sources": {
+      "streams": [
+        "https://stream20.usastreams.com/8008/;",
+        "https://stream20.usastreams.com/8008/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "329ILd8luHLhZU",
+    "name": "Faro del Caribe",
+    "sources": {
+      "streams": [
+        "https://sp.unoredcdn.net/8032/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ZFLLJwVOP7cCFh",
+    "name": "MCC - Música Cristiana Conservadora",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ufd5gasyvn0tv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HrPaFXcsmJqNsw",
+    "name": "Mundo Rock Radio",
+    "stream_urls": [
+      "https://cloudstream2030.conectarhosting.com/8196/stream",
+      "https://as100.globalhost1.com/8046/stream"
+    ],
+    "country": "cr",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "cPjTuRlR8BdVte",
+    "name": "Planet 107.5 FM",
+    "sources": {
+      "streams": [
+        "https://stream20.usastreams.com/8094/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "L2Gx8220ALUlps",
+    "name": "Radio 94.7 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "hGY8aKaSdySFc2",
+    "name": "Radio Casino 98.3 FM",
+    "sources": {
+      "streams": [
+        "https://host.rowrigo.com/listen/radiocasino/radiocasino"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tNzKB3mjoDzO0s",
+    "name": "Radio Costa",
+    "stream_urls": [
+      "https://sonicpanel.globalstream.pro:10979/;"
+    ],
+    "country": "cr",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tNzKB3mjoDzO0s",
+    "name": "Radio Costa",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.globalstream.pro:10979/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xkrfGTmVL2WKu4",
+    "name": "Radio Hit 104.7 FM",
+    "stream_urls": [
+      "https://live.turadio.stream:7004/stream;",
+      "https://live.turadio.stream:7004/stream"
+    ],
+    "country": "cr",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "99m260P6hjCxms",
+    "name": "Radio Mil Recuerdos",
+    "sources": {
+      "streams": [
+        "https://sechin.grupocentroserver.com/radio/8060/radio.mp3"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "HfLhqJdxLgtPCJ",
+    "name": "Radio Musical 97.5 FM",
+    "sources": {
+      "streams": [
+        "https://live.turadio.stream:7005/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "BzzGZkO5AIhciN",
+    "name": "Radio Revolución",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/ftcx2988uwzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KvdfVQmBNAxy4y",
+    "name": "Teletica Radio 91.5 FM",
+    "sources": {
+      "streams": [
+        "https://g2qd375ol7an-hls-live.5centscdn.com/Radio/eae835e83c0494a376229f254f7d3392.sdp/chunks.m3u8"
+      ]
+    },
+    "languages": [
+      "spa"
+    ],
+    "country": "cr",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uPzft8PoKfTKPU",
+    "name": "Tiquicia Rock",
+    "sources": {
+      "streams": [
+        "https://usa19.fastcast4u.com:5860/;"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  }
+]

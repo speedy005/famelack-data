@@ -1,0 +1,45 @@
+[
+  {
+    "nanoid": "2hs4FzDgKk1l2e",
+    "name": "Almagharibia TV: المغاربية",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/gJE0PnGBA7w"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "ara",
+      "eng",
+      "fra"
+    ],
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2hs4FzDgKk1l2e",
+    "name": "Almagharibia TV: المغاربية",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Arsme-Xb8g0"
+    ],
+    "languages": [
+      "ara"
+    ],
+    "country": "dz",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "3spET73XcwPAv7",
+    "name": "El-Heddaf TV",
+    "sources": {
+      "streams": [
+        "https://live.elheddaftv.com:8081/elheddaftv/index.m3u8"
+      ]
+    },
+    "languages": [
+      "ara"
+    ],
+    "country": "dz",
+    "isGeoBlocked": false
+  }
+]

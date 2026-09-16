@@ -1,0 +1,485 @@
+[
+  {
+    "nanoid": "NFTpqRAbFkc1d2",
+    "name": "Easy FM",
+    "sources": {
+      "streams": [
+        "https://netradio.ziniur.lt/easyfm.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "eGJV7yPwyU6VHP",
+    "name": "European Hit Radio",
+    "sources": {
+      "streams": [
+        "https://stream.ehr.lt:8443/ehr"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "PpDaeARtLrltzs",
+    "name": "Fred Film Radio",
+    "sources": {
+      "streams": [
+        "https://s10.webradio-hosting.com/proxy/fredradiolt/stream"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "D5AEmVuqYIGF7c",
+    "name": "Fréquence Protestante",
+    "sources": {
+      "streams": [
+        "https://freqpro.streamakaci.com/frequenceprotestante.mp3"
+      ]
+    },
+    "languages": [
+      "fra"
+    ]
+  },
+  {
+    "nanoid": "BSlfvmDV1wgeLl",
+    "name": "Geras FM",
+    "sources": {
+      "streams": [
+        "https://stream.goldfm.lt/gerasfm.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "j1BPxCaVLouKyV",
+    "name": "Gold FM",
+    "sources": {
+      "streams": [
+        "https://stream.goldfm.lt/goldfm.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "uWNoHLiSTMZUK8",
+    "name": "KAB Radio",
+    "stream_urls": [
+      "https://node-25.zeno.fm/29xtapvkzhhvv"
+    ],
+    "country": "lt",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "6Pz7JeWO758ZYA",
+    "name": "Laluna",
+    "sources": {
+      "streams": [
+        "https://radio.m-1.fm/laluna/high",
+        "https://radio.m-1.fm/laluna/mp3"
+      ]
+    },
+    "languages": [
+      "lit",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "wy0n7nMu8vmDBB",
+    "name": "Leproradio",
+    "sources": {
+      "streams": [
+        "https://live.leproradio.com/bender.ogg"
+      ]
+    },
+    "languages": [
+      "lit"
+    ],
+    "country": "lt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8bSGuqcYrW4jK0",
+    "name": "Lietus",
+    "sources": {
+      "streams": [
+        "https://radio.m-1.fm/LIETUS",
+        "https://radio.m-1.fm/lietus/mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "dq53UWXxz4tLU4",
+    "name": "M-1",
+    "sources": {
+      "streams": [
+        "https://radio.m-1.fm/m1/mp3",
+        "https://stream.m-1.fm/M-1aacp"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "WHK5Z5UuNYBrLg",
+    "name": "M-1 Dance",
+    "sources": {
+      "streams": [
+        "https://radio.m-1.fm/m-1dance/aac"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "X0BSt0gDeLsuzm",
+    "name": "M-1 Plius",
+    "stream_urls": [
+      "https://radio.m-1.fm/m1plius/mp3",
+      "https://radio.m-1.fm/m1plius/aacp64"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "nG6PoZ6KR5izP7",
+    "name": "Palanga Street Radio",
+    "sources": {
+      "streams": [
+        "https://stream.palanga.live:8443/palanga128.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "zfR8RHAFT9b0qI",
+    "name": "Pasaulio muzikos radijas (PMR)",
+    "sources": {
+      "streams": [
+        "https://pmr.lt/streams/pmr-1",
+        "https://pmr.lt/streams/pmr-3",
+        "https://pmr.lt/streams/pmr-4"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "bzLH14yRYfaTLI",
+    "name": "Patejago Radijas",
+    "sources": {
+      "streams": [
+        "https://stream-46.zeno.fm/f6m1zbud5p8uv"
+      ]
+    },
+    "languages": [
+      "lit"
+    ],
+    "country": "lt",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "jzqN5qOvFSO4no",
+    "name": "Play Radio",
+    "sources": {
+      "streams": [
+        "https://n08.radiojar.com/d9cm273ystzuv"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "NcXLLaWVfxabpA",
+    "name": "Power Hit Radio",
+    "sources": {
+      "streams": [
+        "https://ice.leviracloud.eu/phr192-mp3",
+        "https://ice2.powerhitradio.lt/PHR_AAC",
+        "https://n02a-eu.rcs.revma.com/f31w7e0fveuvv"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "yEIWjyKSTM1HZI",
+    "name": "Pulsas",
+    "sources": {
+      "streams": [
+        "https://pulsas.lt/stream"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "uQPWTmycvESPoc",
+    "name": "RA-8",
+    "stream_urls": [
+      "https://stream.zeno.fm/aae76827qtzuv"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "0GmK9gvkV3hTNm",
+    "name": "Radijo-Musikií",
+    "sources": {
+      "streams": [
+        "https://stream.radijo-musikii.net/radio/8000/radio.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "K3zzd3uiy1zodT",
+    "name": "Radio Fiesta",
+    "sources": {
+      "streams": [
+        "https://stream2.radiofiesta.lt/rfs128.mp3"
+      ]
+    },
+    "languages": [
+      "lit",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KMN4K1XaYHy8yJ",
+    "name": "Radiocentras",
+    "sources": {
+      "streams": [
+        "https://stream2.rc.lt/rc128.mp3",
+        "https://stream2.rockfm.lt/crf128.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "74tX69mySBmjiU",
+    "name": "Relax FM",
+    "sources": {
+      "streams": [
+        "https://stream1.relaxfm.lt/relaxfm128.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "nu6abCB7a66WDa",
+    "name": "Relax FM 100 Hitų",
+    "sources": {
+      "streams": [
+        "https://klausyk.radijas.lt/listen/100hitu/live"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "49DDbx0MlGZq5O",
+    "name": "Relax FM Sentimentai",
+    "sources": {
+      "streams": [
+        "https://klausyk.radijas.lt/listen/sentimentai/live"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "5rR0GuRPj57MAn",
+    "name": "Remix RA",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/46tdskm12tzuv"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "00yTmedOVcsdgA",
+    "name": "Rock FM",
+    "stream_urls": [
+      "https://stream3.rc.lt/rockfm.mp3"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "6esQIwLzplFDmq",
+    "name": "Start FM",
+    "sources": {
+      "streams": [
+        "https://eteris.startfm.lt/startfm.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "BvYAUWVNdMND0R",
+    "name": "Tavo Balsas",
+    "sources": {
+      "streams": [
+        "https://c18.radioboss.fm:8529/stream"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "lmuBwknzQ6ejyx",
+    "name": "Top FM",
+    "sources": {
+      "streams": [
+        "https://radio.topfm.lt/listen/topfm/topfm-320"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "QiRgRed5dllkSU",
+    "name": "Utenos Radijas",
+    "sources": {
+      "streams": [
+        "https://gyvai.ursrv.eu/stream"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "yIusRyUZ8xdTzC",
+    "name": "Vilnius FM",
+    "sources": {
+      "streams": [
+        "https://stream.vilniusfm.lt/stream"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "HhBwVLKvWEhTqB",
+    "name": "ZIP FM",
+    "sources": {
+      "streams": [
+        "https://stream1.zipfm.lt/zipfm128.mp3",
+        "https://stream2.zipfm.lt/zipfm128.mp3"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "XYNjrMKaclu68b",
+    "name": "ZIP FM Iš Kasetės",
+    "sources": {
+      "streams": [
+        "https://klausyk.radijas.lt/listen/is-kasetes/live"
+      ]
+    },
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "WC03EPooRwCCnD",
+    "name": "Žinių radijas",
+    "stream_urls": [
+      "https://netradio.ziniur.lt/ziniur_64.mp3"
+    ],
+    "country": "lt",
+    "languages": [
+      "lit"
+    ]
+  },
+  {
+    "nanoid": "lFrSqktk3Dxos3",
+    "name": "Наша Лента (Nasha Lenta)",
+    "sources": {
+      "streams": [
+        "https://streaming.broadcastrd.com/audio/radio-lenta.mp3"
+      ]
+    },
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "oNOMS5KOHxfLVU",
+    "name": "Радио Свободных Народов",
+    "sources": {
+      "streams": [
+        "https://radio.freenations.online/listen/radio_free_nations/radio.mp3"
+      ]
+    },
+    "languages": [
+      "rus",
+      "kom",
+      "tat"
+    ]
+  },
+  {
+    "nanoid": "CxMTdP4Iv5XZjl",
+    "name": "Радио Сигнал",
+    "sources": {
+      "streams": [
+        "https://streaming.broadcastrd.com/audio/radio-singnal.mp3"
+      ]
+    },
+    "languages": [
+      "rus"
+    ]
+  }
+]

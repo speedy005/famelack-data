@@ -1,0 +1,98 @@
+[
+  {
+    "nanoid": "ybVGFNnhwmZ0GU",
+    "name": "Chandel TV",
+    "sources": {
+      "streams": [
+        "https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fEhuSbh6UZiVWk",
+    "name": "NW Economie",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-economie/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "U8UvJgA1tWsWiC",
+    "name": "NW Info",
+    "sources": {
+      "streams": [
+        "https://hls.newworldtv.com/nw-info/video/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nN6XpsyJ7rKqSF",
+    "name": "RT JVA",
+    "sources": {
+      "streams": [
+        "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9SSAW7tNi1dY8x",
+    "name": "Television Espoir 47",
+    "sources": {
+      "streams": [
+        "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nN6XpsyJ7rKqSF",
+    "name": "RT JVA",
+    "stream_urls": [
+      "https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9SSAW7tNi1dY8x",
+    "name": "Television Espoir 47",
+    "stream_urls": [
+      "https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "tg",
+    "isGeoBlocked": false
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "nanoid": "A1fBMrJlBMibks",
+    "name": "Adoration Gospel FM",
+    "sources": {
+      "streams": [
+        "https://auds1.intacs.com/adorationgospelfm"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "DnGEHS5dRg4ew5",
+    "name": "Caltex Music",
+    "sources": {
+      "streams": [
+        "https://n13.radiojar.com/cp13r2cpn3quv"
+      ]
+    },
+    "languages": [
+      "fas"
+    ],
+    "country": "ir",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "px0KtJYRsrfFuk",
+    "name": "Iran International",
+    "sources": {
+      "streams": [
+        "https://radio.iraninternational.app/iintl_c",
+        "https://stream.radiojar.com/iintl_c"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "G33RIRkfefORQx",
+    "name": "Iran On Air",
+    "sources": {
+      "streams": [
+        "https://ice41.securenetsystems.net/KIRN"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "VHQTe0W1Qlc9NW",
+    "name": "Radio Donya",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/v5kxmagseg0uv"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "00VkYiggT84v9c",
+    "name": "Radio Faaz",
+    "sources": {
+      "streams": [
+        "https://free.rcast.net/230792"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "75ptiFq69DNkUF",
+    "name": "Radio Gachsaran",
+    "sources": {
+      "streams": [
+        "https://radio.gachsaran.org/gach"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "2l1pY4L3GdYCU1",
+    "name": "Radio Mojahed",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/s830691c74/listen"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "dsE44jzNBzSuVD",
+    "name": "Radio Mojdeh",
+    "sources": {
+      "streams": [
+        "https://ic2326.c1261.fastserv.com/rm128"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "4dXXAMz0aZTbDh",
+    "name": "Radio Navahang",
+    "sources": {
+      "streams": [
+        "https://navairan.com/;stream.nsv"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "MpUtg7EdhEDJXC",
+    "name": "Radio Simorgh",
+    "stream_urls": [
+      "https://stream.zeno.fm/jl8n7thgcdftv",
+      "https://stream.zeno.fm/9svfnobkrxrvv"
+    ],
+    "country": "ir",
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "atnNDDJqSZHz2n",
+    "name": "Radio Yar Plus",
+    "sources": {
+      "streams": [
+        "https://stream-163.zeno.fm/yxemzpoaocavv"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "XB9ZY25FkmHoMK",
+    "name": "Radio ZZA",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/526993/stream/585379"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  }
+]

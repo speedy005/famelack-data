@@ -1,0 +1,366 @@
+[
+  {
+    "nanoid": "4DDmEJVZ2nLb4G",
+    "name": "Focul din Vatră",
+    "sources": {
+      "streams": [
+        "https://aiciascult.eu/radio"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "hv2QPGlGKg0RGx",
+    "name": "Glowwave-FM",
+    "stream_urls": [
+      "https://commandcenter.tail5a820f.ts.net/stream"
+    ],
+    "country": "md",
+    "languages": [
+      "deu",
+      "eng",
+      "hin",
+      "nld"
+    ]
+  },
+  {
+    "nanoid": "eisSxu82vdtyKu",
+    "name": "Hit FM 2000s Hits",
+    "sources": {
+      "streams": [
+        "https://radio3.dixi.md/listen/hit_fm_2000s_hits/hitfm2000hit128.aac"
+      ]
+    },
+    "languages": [
+      "eng",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "HDUquilPktC1P4",
+    "name": "Hit FM Best Hits",
+    "sources": {
+      "streams": [
+        "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "0XAgOTpwEhExxt",
+    "name": "Hit FM Dance",
+    "sources": {
+      "streams": [
+        "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "qcaPdM09SZclB9",
+    "name": "Hit FM Drive Mode",
+    "sources": {
+      "streams": [
+        "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "tHnSqwff5Zbtqk",
+    "name": "Hit FM Hot Hits",
+    "sources": {
+      "streams": [
+        "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "MyqXve23SAfBwW",
+    "name": "Hit FM Russkoe Hitovoe",
+    "sources": {
+      "streams": [
+        "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac"
+      ]
+    },
+    "languages": [
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "ToiPzgnayevbRc",
+    "name": "Hit FM Summer Hits",
+    "sources": {
+      "streams": [
+        "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "YKTEjxoqIh0UCK",
+    "name": "Jurnal FM",
+    "sources": {
+      "streams": [
+        "https://audio.jurnalfm.md/hq"
+      ]
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "OpfeFyivLlPIS2",
+    "name": "Kiss FM",
+    "sources": {
+      "streams": [
+        "https://live.kissfm.md/kissfm.chisinau",
+        "https://dc.digi.live.kissfm.ro/kissfm.chisinau"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "HfsyuqSjInyxAn",
+    "name": "Master Class FM",
+    "sources": {
+      "streams": [
+        "https://listen3.myradio24.com/master1"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "0StAIk9gQVhz09",
+    "name": "Megapolis FM",
+    "sources": {
+      "streams": [
+        "https://megapolisfm.md:8443/886"
+      ]
+    },
+    "languages": [
+      "ron",
+      "rus"
+    ]
+  },
+  {
+    "nanoid": "uPUZfJ7L2QyYJI",
+    "name": "Muz FM",
+    "stream_urls": [
+      "https://live.muzfm.md/muzfm",
+      "https://live.muzfm.md//muzfmhd"
+    ],
+    "country": "md",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "PwulYg7YwIstTb",
+    "name": "PRO Dj Radio",
+    "sources": {
+      "streams": [
+        "https://live.prodjradio.net:8000/;"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "xnt9fZHqzSc8bC",
+    "name": "Radio Ai Noștri",
+    "sources": {
+      "streams": [
+        "https://s5.radio.co/sfd9f42d1d/listen"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "Nm9omZGWEzOla8",
+    "name": "Radio Fresh MD",
+    "sources": {
+      "streams": [
+        "https://stream-151.zeno.fm/ttofovumhg1vv"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "ZB1JReSgsjE4cp",
+    "name": "Radio Moldova",
+    "sources": {
+      "streams": [
+        "https://www.radio.md/stream/radiomoldovanews"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "1UwGprznAWav3O",
+    "name": "Radio Noroc",
+    "stream_urls": [
+      "https://stream.noroc.tv/radionoroc_aac"
+    ],
+    "country": "md",
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "1UwGprznAWav3O",
+    "name": "Radio Noroc",
+    "sources": {
+      "streams": [
+        "https://stream.noroc.tv/radionoroc_aac"
+      ]
+    },
+    "languages": [
+      "ron"
+    ],
+    "country": "md",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "GrFsMG9jmw3iNT",
+    "name": "Radio Plai",
+    "sources": {
+      "streams": [
+        "https://stream.radioplai.md/live"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "AbArddqLh1wS9M",
+    "name": "Radio ROKS",
+    "sources": {
+      "streams": [
+        "https://stream.dixi.md:9443/Roks"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "pjUjZ2g8cwx2eC",
+    "name": "Radio Zum 1",
+    "sources": {
+      "streams": [
+        "https://streams.radiozum.md/listen/zum1/ZUM1"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "s7eqcbzwD1BcWU",
+    "name": "Radio Zum 2",
+    "sources": {
+      "streams": [
+        "https://streams.radiozum.md/listen/zum2/ZUM2"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "voYYmb0wrcKoSI",
+    "name": "Radio Zum 4",
+    "sources": {
+      "streams": [
+        "https://streams.radiozum.md/listen/zum4/ZUM4"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "rxK28xzjd8rwVv",
+    "name": "Retro FM",
+    "sources": {
+      "streams": [
+        "https://europaplus.hostingradio.ru:8014/retro320.mp3",
+        "https://efir.retrofm.md:8000/retro"
+      ]
+    },
+    "languages": [
+      "rus",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "KAPutWB0DJkTQb",
+    "name": "RFI Moldova",
+    "sources": {
+      "streams": [
+        "https://asculta.radiorfi.ro/live.mp3"
+      ]
+    },
+    "languages": [
+      "eng",
+      "fra",
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "DRgMuyIXskfaog",
+    "name": "Smile FM",
+    "sources": {
+      "streams": [
+        "https://sonicssl.namehost.ro/8050/;"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  },
+  {
+    "nanoid": "iCHYf02Ta9DngX",
+    "name": "Vibe FM",
+    "sources": {
+      "streams": [
+        "https://stream.radio.co/s6a544f6c9/listen"
+      ]
+    },
+    "languages": [
+      "ron"
+    ]
+  }
+]

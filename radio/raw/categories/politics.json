@@ -1,0 +1,88 @@
+[
+  {
+    "nanoid": "VTTclseByVygVt",
+    "name": "C-SPAN Radio",
+    "stream_urls": [
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO.mp3",
+      "https://playerservices.streamtheworld.com/api/livestream-redirect/CSPANRADIO_SC"
+    ],
+    "country": "us",
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "zv1kgGIQozZ4lf",
+    "name": "National Alliance Radio Network",
+    "sources": {
+      "streams": [
+        "https://radio.biocentric.org/listen/national_alliance_radio_network/listen"
+      ]
+    },
+    "languages": [
+      "eng"
+    ]
+  },
+  {
+    "nanoid": "Jy6Uc5nijRRHhC",
+    "name": "Radio Maisha",
+    "sources": {
+      "streams": [
+        "https://radiomaisha-atunwadigital.streamguys1.com/radiomaisha"
+      ]
+    },
+    "languages": [
+      "swa"
+    ],
+    "country": "ke",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2l1pY4L3GdYCU1",
+    "name": "Radio Mojahed",
+    "sources": {
+      "streams": [
+        "https://s2.radio.co/s830691c74/listen"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "zhoB4FoIe05gL0",
+    "name": "Radio Radicale",
+    "sources": {
+      "streams": [
+        "https://live.radioradicale.it/live.mp3"
+      ]
+    },
+    "languages": [
+      "ita"
+    ]
+  },
+  {
+    "nanoid": "XB9ZY25FkmHoMK",
+    "name": "Radio ZZA",
+    "sources": {
+      "streams": [
+        "https://listen.radioking.com/radio/526993/stream/585379"
+      ]
+    },
+    "languages": [
+      "fas"
+    ]
+  },
+  {
+    "nanoid": "Vd9cf4H56DJhHQ",
+    "name": "Rai Gr Parlamento",
+    "stream_urls": [
+      "https://icestreaming.rai.it/7.mp3",
+      "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S32576004/GxPKuXIdZBcL/icecast"
+    ],
+    "country": "it",
+    "languages": [
+      "ita"
+    ]
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "nanoid": "AaAMaBbMEC8K2H",
+    "name": "Islom.uz Radio",
+    "sources": {
+      "streams": [
+        "https://radio.islom.uz/islomuz"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ]
+  },
+  {
+    "nanoid": "VdambhBomIU9cs",
+    "name": "O'zbegim Taronasi",
+    "stream_urls": [
+      "https://fm101.uz:9943/fm101_low.aac"
+    ],
+    "country": "uz",
+    "languages": [
+      "uzb"
+    ]
+  },
+  {
+    "nanoid": "VdambhBomIU9cs",
+    "name": "O'zbegim Taronasi",
+    "sources": {
+      "streams": [
+        "https://fm101.uz:9943/fm101_low.aac"
+      ]
+    },
+    "languages": [
+      "uzb"
+    ]
+  }
+]

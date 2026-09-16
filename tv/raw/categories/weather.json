@@ -1,0 +1,129 @@
+[
+
+  {
+    "country": "it",
+    "isGeoBlocked": false,
+    "languages": ["ita"],
+    "name": "3BMeteo",
+    "nanoid": "3BmEtEo3BmE",
+    "stream_urls": ["https://jmp2.uk/stvp-IT500008CB"],
+    "youtube_urls": []
+  },
+  {
+    "nanoid": "JVUe7nnKCNgESR",
+    "name": "3Cat Cameres del temps",
+    "sources": {
+      "streams": [
+        "https://directes-tv-int.3catdirectes.cat/live-content/beauties-hls/master.m3u8"
+      ]
+    },
+    "languages": [
+      "cat"
+    ],
+    "country": "es",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "AQflHxNei4CCgO",
+    "name": "AccuWeather NOW",
+    "stream_urls": [
+      "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8",
+      "https://d1gldweznovt26.cloudfront.net/Accuweather.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "IP9BtoTfdM66NO",
+    "name": "Fox Weather",
+    "sources": {
+      "streams": [
+        "https://pb-hum8cczphcrpf.akamaized.net/FOX_Weather.m3u8",
+        "https://247wlive.foxweather.com/stream/index.m3u8",
+        "https://aegis-cloudfront-1.tubi.video/d4d03a5e-dd3e-4b9a-8b11-b86c88d717fe/index.m3u8"
+      ],
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/wt6SIE7BXS8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "f39IJRVJcdw1WH",
+    "name": "NorCast Weather",
+    "sources": {
+      "streams": [
+        "https://norcast-weather.streamology.live/api/v1/streams/c1b5b114698e1ad4687153c4402d5ef0/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "stream_urls": [
+      "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "CkqK0vHvwZKLiX",
+    "name": "Sky News Weather",
+    "sources": {
+      "streams": [
+        "https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "uk",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rsgBN1CiczuZvL",
+    "name": "WeatherNation",
+    "sources": {
+      "streams": [
+        "https://d2ferbiwcx1539.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-8zd06wicndthf-ssai-prd/WNNationalSamsung/WNNationalSamsung.m3u8",
+        "https://stream.weathernationtv.com/WNTVStirr_eokxldieulowixkdimn/ND1/playlistSCTE35.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "us",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EHhc90wawtgTuv",
+    "name": "Wetter-Panorama",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/NIuO6hrFTrg"
+      ]
+    },
+    "languages": [
+      "deu"
+    ],
+    "country": "at",
+    "isGeoBlocked": false
+  }
+]

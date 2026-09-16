@@ -1,0 +1,364 @@
+[
+  {
+    "nanoid": "J7GORAc55I7JnJ",
+    "name": "1 FM Hits Radio",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yg1gkzwabzzuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7AG6teS6BcnVdN",
+    "name": "94su FM 94.1",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/94SUFM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "W4HC7X8dEZ2Raw",
+    "name": "Blue Wave Radio 101.1",
+    "sources": {
+      "streams": [
+        "https://streaming.shoutcast.com/101-1-blue-wave-radio-roatan"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "7BIFgOCf8oMU0s",
+    "name": "Cadena Radial del Centro 89.7 FM",
+    "sources": {
+      "streams": [
+        "https://sonic.portalfoxmix.cl/8442/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "ccwhDZ00wrCEeH",
+    "name": "Deejay FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6wpxyt9htg0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "tFzbfSxvZnRnlC",
+    "name": "Encuentro Digital 104.3 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/n1dn94e661zuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "g37cV8zznPkDTv",
+    "name": "Estéreo Clásica",
+    "sources": {
+      "streams": [
+        "https://streaming.radio.co/s0c06b7076/listen"
+      ]
+    },
+    "languages": [
+      "eng",
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DkaQkqkrp6IOwV",
+    "name": "Exa FM Honduras",
+    "stream_urls": [
+      "https://stream.zeno.fm/fy0fhgp937zuv",
+      "https://stream.zeno.fm/0n4tnx3wd5zuv"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "fhxIqzVYdjqXzt",
+    "name": "Girasol Stereo 102.3 FM",
+    "sources": {
+      "streams": [
+        "https://stream.playerlive.info:8037/live.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zzkd72KPpjrIzP",
+    "name": "Infinity Radio",
+    "sources": {
+      "streams": [
+        "https://sonicpanel.us/8022/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "OoKzvVFekDlCM5",
+    "name": "La Top 102.9 FM",
+    "stream_urls": [
+      "https://us9.maindigitalstream.com/ssl/latop102"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3WqX2v427LZ6Uc",
+    "name": "LHT Radio 104.1 FM",
+    "sources": {
+      "streams": [
+        "https://ice26.securenetsystems.net/LHTFM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "2BL2gfspGXRbIm",
+    "name": "Otoro Radio 105.9 FM",
+    "sources": {
+      "streams": [
+        "https://stream.playerlive.info:8089/live.aac"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "Ay5gNDzr5mvBm3",
+    "name": "Radio América 94.7 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/AMERICA_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "DJ2eKEMGFBQKFW",
+    "name": "Radio Cortes FM",
+    "stream_urls": [
+      "https://cortesfm-zikoxweb.radioca.st/stream/1/"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "mslV2qI0Ngkzm4",
+    "name": "Radio Globo 88.5 FM",
+    "sources": {
+      "streams": [
+        "https://stream.radiosmundiales.com:8016/GLOBO885",
+        "https://stream.radiosmundiales.com/stream/radioglobo"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "csCRFkefxbObI9",
+    "name": "Radio HRN 92.9 FM",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/HRN"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "qrzWBiaI3haOqb",
+    "name": "Radio Moderna",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/MODERNAAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "uAC6td7J3bqtTP",
+    "name": "Radio Musiquera 93.3 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/83h238tqsceuv",
+        "https://stream-142.zeno.fm/83h238tqsceuv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "3FmQpGCOobsk1t",
+    "name": "Radio Nacional de Honduras",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/mb5f69fk0d0uv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "zHPb9RlASG5Ewv",
+    "name": "Radio XY 90.5 FM",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/XY905"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9VTgztvrvlEi0A",
+    "name": "Radioactiva 99.7 FM",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/6n7fp9t2pceuv",
+        "https://stream.zeno.fm/fh8qfg75puquv"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "9ZM0kwFQOu48aJ",
+    "name": "Rock N' Pop 92.1 FM",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/ROCKNPOP"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xMqfo9cVNEdLf7",
+    "name": "Stereo Ceiba 99.9 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_CEIBAAAC_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "KzFrJzjfsn3h6X",
+    "name": "Stereo Dimensión 96.1 FM",
+    "sources": {
+      "streams": [
+        "https://rr5100.globalhost1.com:7328/stream"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "v909v5VqiAKGdQ",
+    "name": "Stereo Luz 103.7 FM",
+    "sources": {
+      "streams": [
+        "https://stream.playerlive.info:8081/;"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "yL8k8YO1aOnYcG",
+    "name": "Stereo Éxitos 88.1 FM",
+    "stream_urls": [
+      "https://ice42.securenetsystems.net/EXITOS"
+    ],
+    "country": "hn",
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "IRUeo9FWlAdrxu",
+    "name": "Suave 102.5 FM",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/SUAVE"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "xYJPASSd72w0mN",
+    "name": "Super 100 100.1 FM",
+    "sources": {
+      "streams": [
+        "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER100_SC"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  },
+  {
+    "nanoid": "W9uBlBmSC4cfx4",
+    "name": "Vox FM 101.7",
+    "sources": {
+      "streams": [
+        "https://ice42.securenetsystems.net/VOXFM"
+      ]
+    },
+    "languages": [
+      "spa"
+    ]
+  }
+]

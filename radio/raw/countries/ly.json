@@ -1,0 +1,38 @@
+[
+  {
+    "nanoid": "VtjaMUmoRfrohS",
+    "name": "Hala Sabratha",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/1dy2395z3k8uv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "RKHgzPpLixsVJ8",
+    "name": "Radio Arts Tripoli",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/z9wfrdpmgg0uv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  },
+  {
+    "nanoid": "UwWBK03YLiKMDs",
+    "name": "Radio Nour Aleman",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/r6eprdta6nhvv"
+      ]
+    },
+    "languages": [
+      "ara"
+    ]
+  }
+]

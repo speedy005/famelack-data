@@ -1,0 +1,209 @@
+[
+  {
+    "nanoid": "oy2IuHePxeJrIA",
+    "name": "BUDMC RTV FM",
+    "sources": {
+      "streams": [
+        "https://stream-173.zeno.fm/uy9g742c0hhvv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "zlY5z7yUKHq1aW",
+    "name": "Irebe FM 91.4",
+    "stream_urls": [
+      "https://stream-170.zeno.fm/vhnduaz8wtstv"
+    ],
+    "country": "bi",
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "sGgjUrcaqIRrR4",
+    "name": "Make Money",
+    "sources": {
+      "streams": [
+        "https://stream-178.zeno.fm/tduvf0p3leauv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "r2zIvvwLjb9KPM",
+    "name": "Menya Live Radio",
+    "stream_urls": [
+      "https://stream-176.zeno.fm/387qyxsn0c9uv"
+    ],
+    "country": "bi",
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "vqkj3MrYjvkrUn",
+    "name": "NRG Burundi",
+    "sources": {
+      "streams": [
+        "https://stream-179.zeno.fm/p5nkyyxnt4uvv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "svqGAAzdRdQYUr",
+    "name": "Radio Buntu",
+    "stream_urls": [
+      "https://stream.rcast.net/62581"
+    ],
+    "country": "bi",
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "BgGZXgZW7QpHnE",
+    "name": "Radio Inkinzo",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/x3ktdppgx98uv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "phsXu4HVFHc0np",
+    "name": "Radio Isanganiro",
+    "stream_urls": [
+      "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3"
+    ],
+    "country": "bi",
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "8lCAmzzGOVaVw5",
+    "name": "Radio Nderagakura",
+    "sources": {
+      "streams": [
+        "https://eu10.fastcast4u.com/nderagakura/;"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "phsXu4HVFHc0np",
+    "name": "Radio Isanganiro",
+    "sources": {
+      "streams": [
+        "https://isanganiro.ice.infomaniak.ch/isanganiro-64.mp3"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ],
+    "country": "bi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8lCAmzzGOVaVw5",
+    "name": "Radio Nderagakura",
+    "sources": {
+      "streams": [
+        "https://eu10.fastcast4u.com/nderagakura/;"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "vhL1POTXLc8tV0",
+    "name": "Radio Peace",
+    "sources": {
+      "streams": [
+        "https://stream-176.zeno.fm/f08xxutefg8uv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "CvnYVFEx9wsxL3",
+    "name": "RTRI",
+    "stream_urls": [
+      "https://stream-175.zeno.fm/wbdf30rtxd0uv"
+    ],
+    "country": "bi",
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "JqC9BH7MHan3In",
+    "name": "Santanna Radio Music",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/cd8nn31as2zuv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  },
+  {
+    "nanoid": "JqC9BH7MHan3In",
+    "name": "Santanna Radio Music",
+    "sources": {
+      "streams": [
+        "https://stream-175.zeno.fm/cd8nn31as2zuv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ],
+    "country": "bi",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9xiBbNX2VU48Wt",
+    "name": "Yantu FM",
+    "sources": {
+      "streams": [
+        "https://stream-173.zeno.fm/6ezvc5a44bhvv"
+      ]
+    },
+    "languages": [
+      "fra",
+      "run"
+    ]
+  }
+]

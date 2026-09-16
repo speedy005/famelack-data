@@ -1,0 +1,197 @@
+[
+  {
+    "nanoid": "conChFaPtzeNfQ",
+    "name": "ACTV",
+    "sources": {
+      "streams": [
+        "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/4db788c7/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "OjULEJEZVhhZ9N",
+    "name": "ATV",
+    "sources": {
+      "streams": [
+        "https://live.zendzend.com/mpegts/29375_107244/media_mpegts_0.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "yCMKeXQRVBIK53",
+    "name": "Bouke",
+    "sources": {
+      "streams": [
+        "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/e1ccc6aa/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "xCsQ7dJnPDumil",
+    "name": "BX1",
+    "sources": {
+      "streams": [
+        "https://59959724487e3.streamlock.net/stream/live/playlist.m3u8",
+        "https://dlgt0tdl2hpq3.cloudfront.net/rtbf/clr-rtbf/7ec67c8d/index.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZH3cJ0x61gRh14",
+    "name": "La Une",
+    "stream_urls": [
+      "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/6d35e26e/1bffdaaf.isml/.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "gjVf4nNywCuqcL",
+    "name": "LN24",
+    "stream_urls": [
+      "https://live-ln24.digiteka.com/1911668011/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8NTileZb0uFTPL",
+    "name": "Matele",
+    "sources": {
+      "streams": [
+        "https://live.matele.be/hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "T3lFd2TRO2UgTl",
+    "name": "MNM",
+    "sources": {
+      "streams": [
+        "https://live.vrtcdn.be/groupa/live/1718328a-5c53-410d-87ec-d8db68124cfc/live.isml/.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VaXjiVOr6bKqVn",
+    "name": "Notele",
+    "sources": {
+      "streams": [
+        "https://streaming01.divercom.be/notele_live/direct.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "nfYMccVoHeESGx",
+    "name": "QU4TRE Liege Media",
+    "sources": {
+      "streams": [
+        "https://tvlocales-live.freecaster.com/rtc/95d2f6ec-22f7-4027-b23d-d5372116b2ad/95d2f6ec-22f7-4027-b23d-d5372116b2ad.isml/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "dbLCGehk04Xrpd",
+    "name": "Ring House TV",
+    "sources": {
+      "streams": [
+        "https://eggproiptv.duckdns.org:3946/hybrid/play.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Nawp6hUkpbwpTg",
+    "name": "RTL-TVI",
+    "sources": {
+      "streams": [
+        "https://tvi-live-hls.akamaized.net/hls/live/2038650/TVI-Live-HLS/master.m3u8"
+      ]
+    },
+    "languages": [
+      "fra"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lWN9VGjoiBWUeD",
+    "name": "Tipik",
+    "stream_urls": [
+      "https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L22/425fb6b1/8a250afc.isml/.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "fra",
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QMKdJTMZUTheYK",
+    "name": "WTV",
+    "sources": {
+      "streams": [
+        "https://wtvlive.b-cdn.net/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "nld"
+    ],
+    "country": "be",
+    "isGeoBlocked": false
+  }
+]

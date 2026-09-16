@@ -1,0 +1,996 @@
+[
+  {
+    "nanoid": "gnXbQSLxnNAtTV",
+    "name": "4 Fun TV",
+    "stream_urls": [
+      "https://stream.4fun.tv:8888/hls/4f_high/index.m3u8",
+      "https://stream.4fun.tv:8888/hls/4f.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XCeIlVYmtUB3hr",
+    "name": "American Crime Channel",
+    "stream_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FHHW8HxY4wkWHY",
+    "name": "Arche TV",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/xhkLaSkLEwg"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5fsuYuCG8ydAtN",
+    "name": "Bigtime",
+    "sources": {
+      "streams": [
+        "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "JwjTtBdIXCgMJP",
+    "name": "BTB",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/1/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "NHCXMxoKr3soBB",
+    "name": "BTB 2",
+    "sources": {
+      "streams": [
+        "https://emisja.btb.j00r.us/iptv/session/2/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DHR1El8JiIdfUH",
+    "name": "BTB 3",
+    "sources": {
+      "streams": [
+        "https://emisja3.btb.j00r.us/iptv/session/3/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "vifXiIDfcyAksy",
+    "name": "BTB Info",
+    "sources": {
+      "streams": [
+        "https://panel.btb.j00r.us/memfs/928cfb64-fed7-4c27-9937-f5ad72d9d73c.m3u8",
+        "https://emisja2.btb.j00r.us/iptv/session/4/hls.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zgg5DBKwX2XCJo",
+    "name": "BTB International",
+    "stream_urls": [
+      "https://emisja.btb.j00r.us/iptv/channel/2.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QpkwHa7GwFnKLp",
+    "name": "BTB Music",
+    "sources": {
+      "streams": [
+        "https://panel.btb.j00r.us/memfs/ebaffae6-0086-49d7-843d-57f2c561de86.m3u8"
+      ]
+    },
+    "languages": [],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "QPykxNCJ0OXJFT",
+    "name": "Buzzfeed Unsolved",
+    "stream_urls": [
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "w778NNhzUPLcZH",
+    "name": "Car City Adventures",
+    "sources": {
+      "streams": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883095"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MsdbQSAkSSWayB",
+    "name": "DAZN Combat Poland",
+    "sources": {
+      "streams": [
+        "https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9IWJvqi8MKA5iX",
+    "name": "Dr G Medical Examiner",
+    "sources": {
+      "streams": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883008"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "n0Yrqu41VbuhX5",
+    "name": "Eska Rock TV",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/EskaRockTV.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "STOLjmeQ7MSyya",
+    "name": "Eska TV",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/EskaTV.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "mOEBukBIla0Jvs",
+    "name": "Eska TV Extra",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/EskaTVExtra.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BrhdrwsQAO4B4e",
+    "name": "EWTN Poland",
+    "sources": {
+      "streams": [
+        "https://cdn3.wowza.com/1/ZHdrMWt1NjlDSzFu/bzdDVG10/hls/live/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "5dT3o8Qzp8yON8",
+    "name": "FILMBOX+ Emotion Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_extra.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KbidRDRhifoVAS",
+    "name": "FILMBOX+ Festival",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_arthouse.m3u8",
+        "https://dash3.antik.sk/live/test_filmbox_arthouse_atk_1200/playlist.m3u8",
+        "https://nosignal1.antenaplay.ro/hls/fb-festival-hd/index.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9EkWIDYKroUA8f",
+    "name": "FILMBOX+ Hits Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_premium.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "L1MnKhYpJdL0NG",
+    "name": "FILMBOX+ Love & Crime Adria",
+    "sources": {
+      "streams": [
+        "https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "WWlg5pGjVUMKba",
+    "name": "Grjngo",
+    "sources": {
+      "streams": [
+        "https://b6c7c7d1020a4588982ca7c2625f85d1.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_GrjngoWesterny/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "FGu0fYqXfBQdVu",
+    "name": "Hard Knocks Fighting Championship",
+    "sources": {
+      "streams": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "DN6TpQ0x9cD41t",
+    "name": "HORYZONT TV",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/sORPxNNh20U"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "SPKf8qiF4zzrz5",
+    "name": "Jail",
+    "stream_urls": [
+      "https://e85541db4ae943d9b5a09477d6b1d8ab.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_Jail/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "KFX8r91Rf69oJB",
+    "name": "Kapitan Bomba",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/atGseg3uH8w"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "IaxDYWaZAHhrQ0",
+    "name": "Moconomy",
+    "sources": {
+      "streams": [
+        "https://3ee905090d464be5a51478fd9c642e93.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Moconomy/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9IfVKY5hLbrIvn",
+    "name": "MTV",
+    "sources": {
+      "streams": [
+        "https://adpnetworkhd-cmd.github.io/iptv/MTVHDPoland.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eNWb8bLZwMFVpE",
+    "name": "NewsWorld",
+    "stream_urls": [
+      "https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lgqzeQFxqCN8jW",
+    "name": "NewTV",
+    "stream_urls": [
+      "https://1409502578.rsc.cdn77.org/live/stream-1/chunklist.m3u8",
+      "https://1409502578.rsc.cdn77.org/live/stream-1/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "HCuXiJRBY0QrpX",
+    "name": "Puls 2",
+    "stream_urls": [
+      "https://edge06.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": true
+  },
+  {
+    "nanoid": "HCuXiJRBY0QrpX",
+    "name": "Puls 2",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.emitel.pl/bpk-tv/Puls2_HD/hbbtv-hls/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "PgSQJkjlJAZPaq",
+    "name": "RACER International",
+    "stream_urls": [
+      "https://amg00378-mavtv-amg00378c2-rakuten-us-1048.playouts.now.amagi.tv/playlist/amg00378-mavtvfast-motorsportsnetwork-rakutenus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "uro7Gvibaed6g8",
+    "name": "Rakuten Viki Poland",
+    "sources": {
+      "streams": [
+        "https://fd18f1cadd404894a31a3362c5f319bd.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_RakutenViki-1/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "VLsNSTHCvxn0JN",
+    "name": "Remonty TV",
+    "sources": {
+      "streams": [
+        "https://prx-y5cf8.4vod.tv/playout/repl-abr67/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bYyllb5PVIf1uE",
+    "name": "Royalworld",
+    "stream_urls": [
+      "https://ac76260b1102416c93f3d20958bfeb4b.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-pl_Royalworld/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "coRLnGknftkVsQ",
+    "name": "Sfera TV",
+    "sources": {
+      "streams": [
+        "https://stream.sferatv.pl/sferatvlive/live.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "7E4pi94NmbOia5",
+    "name": "Super Express TV",
+    "stream_urls": [
+      "https://s-pl-01.mediatool.tv/playout/sepl-abr/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EQEGSe3LlRCr52",
+    "name": "Szlagierowo: Biesiadne Radio",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/xSgIrK_b2mI"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Mt2WzNC4k7bC15",
+    "name": "Szlagierowo: Szlagierowe Radio",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/j50JVAlVL-g"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bYYTLTAgRHKH7N",
+    "name": "TBN Polska",
+    "stream_urls": [
+      "https://s-pl-01.mediatool.tv/playout/tbn-abr/tracks-v1a1/mono.ts.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "BlvOv7Ksnyq1tc",
+    "name": "Telewizja Biznesowa",
+    "sources": {
+      "streams": [
+        "https://s-pl-01.mediatool.tv/playout/tbpl-abr/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hjCXHjX41BNCM8",
+    "name": "Telewizja Gorzów",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/rIjmDE7TyNE"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "hs9A8d0OBl1eij",
+    "name": "Telewizja iTTV",
+    "sources": {
+      "streams": [
+        "https://5d84fe297ee2b.streamlock.net/sercanie/scj_florek.stream_aac/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Zfbee02Fm1Nqwi",
+    "name": "Telewizja Jaslo",
+    "sources": {
+      "streams": [
+        "https://cdn01.aztv.pl/live_tvjaslo/live_tvjaslo.stream/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "lZ08XnHwjKG7mF",
+    "name": "Telewizja Regionalna Zary",
+    "sources": {
+      "streams": [
+        "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "ZQRxQD0cfkbApQ",
+    "name": "Telewizja Relax",
+    "stream_urls": [
+      "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd_output_0.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "99BxHYFs1W5Wmp",
+    "name": "Telewizja Republika",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/dzntyCTgJMQ"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "1o8NYd58kqEnFJ",
+    "name": "Telewizja Republika Plus",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/ktZAeEBdaa0"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZZPr1C3WHRQYc",
+    "name": "Telewizja wPolsce",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/YNqeMjq3E5A"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9s6DDTJkNu9V38",
+    "name": "Telewizja Zabrze",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/eFxsSlFOkcc"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "9s6DDTJkNu9V38",
+    "name": "Telewizja Zabrze",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/EVOt6OyHU9g"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "zfdmNYbszO1KPF",
+    "name": "Telewizja Żary",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Nbsg20YMsF0"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "EgbF9TJv7t7rWC",
+    "name": "The Reuters 60",
+    "stream_urls": [
+      "https://amg00453-amg00453c1-distrotv-us-7691.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-distrotvus/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "eR7HsNDqvDnpND",
+    "name": "TNA Wrestling Channel",
+    "stream_urls": [
+      "https://amg00966-amg00966c1-distrotv-us-7706.playouts.now.amagi.tv/playlist/amg00966-anthem-tnawrestling-distrotvus/playlist.m3u8",
+      "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883039"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "rg1mqweNVc3OwT",
+    "name": "TOP Barca",
+    "stream_urls": [
+      "https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8",
+      "https://amg17560-fcb-amg17560c1-samsung-gb-9839.playouts.now.amagi.tv/playlist.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "viSqDXiMLM8FN0",
+    "name": "TV ASTA",
+    "sources": {
+      "streams": [
+        "https://5cce8c6f0e84c.streamlock.net/LiveCast/smil:PlayStream9.smil/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "XHTx1GiWzd6xhN",
+    "name": "TV Puls",
+    "sources": {
+      "streams": [
+        "https://edge01.cdn.emitel.pl/bpk-tv/Puls_HD/hbbtv-hls/index.m3u8",
+        "https://lowa8026-cmyk.github.io/PL/PULSHD.php.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8WHhXW6sorajRc",
+    "name": "TV Regionalna Lubin",
+    "sources": {
+      "streams": [
+        "https://tvregfull.mailfull.pl/tvregfull/memfs/e64b3e05-649c-4939-9ff6-584e79285ccd.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2SfhuUEazfjthW",
+    "name": "TV Relax",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/fAc2b4cZ4Xk"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "aY6u7qwNMI1Wgm",
+    "name": "TVK Stella",
+    "sources": {
+      "streams": [
+        "https://stream.tvkstella.pl/stella/stella.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "Se7x9HGaZbNY8X",
+    "name": "TVP Info",
+    "stream_urls": [
+      "https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399699.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fzamcn1eHJ76Mf",
+    "name": "TVP Polonia",
+    "stream_urls": [
+      "https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399723.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "2NOHQqe5XXGwtZ",
+    "name": "TVP World",
+    "stream_urls": [
+      "https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8",
+      "https://lowa8026-cmyk.github.io/tvpvod/399731.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "8fkva1GfM7tM4w",
+    "name": "TVSUDECKA PL",
+    "sources": {
+      "youtube": [
+        "https://www.youtube-nocookie.com/embed/BmsocELr6ck"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "UJrA93oKFNB1K1",
+    "name": "Twoja.TV",
+    "sources": {
+      "streams": [
+        "https://stream.twoja.tv/ttv_hls/live.m3u8"
+      ]
+    },
+    "languages": [
+      "eng",
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZI48V3oPHwUhn",
+    "name": "W Polsce PL",
+    "sources": {
+      "streams": [
+        "https://lowa8026-cmyk.github.io/WPolscePL.m3u8",
+        "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
+      ]
+    },
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "fZI48V3oPHwUhn",
+    "name": "W Polsce PL",
+    "stream_urls": [
+      "https://str.onnetwork.tv/hls/onnet-358726_hi/index.m3u8"
+    ],
+    "youtube_urls": [],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "MJU7VJSTDePIik",
+    "name": "World Billiards",
+    "sources": {
+      "streams": [
+        "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "xUqnXZyWFKx10m",
+    "name": "Z Nation",
+    "sources": {
+      "streams": [
+        "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
+      ]
+    },
+    "languages": [
+      "eng"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  },
+  {
+    "nanoid": "bpwyCfxeYK07lR",
+    "name": "ZTV live",
+    "stream_urls": [],
+    "youtube_urls": [
+      "https://www.youtube-nocookie.com/embed/Ag1PLqWx23I"
+    ],
+    "languages": [
+      "pol"
+    ],
+    "country": "pl",
+    "isGeoBlocked": false
+  }
+]

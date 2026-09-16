@@ -1,0 +1,26 @@
+[
+  {
+    "nanoid": "HvSfRA7Rvv49hQ",
+    "name": "Raadiyo Baydhabo",
+    "sources": {
+      "streams": [
+        "https://stream.zeno.fm/yxsfn746kg8uv"
+      ]
+    },
+    "languages": [
+      "som"
+    ]
+  },
+  {
+    "nanoid": "yLu8qkJnR9dvAH",
+    "name": "VOA Somali",
+    "sources": {
+      "streams": [
+        "https://av.voanews.com/clips/VSO/2021/04/29/20210429-033000-VSO065-program_48k.mp3"
+      ]
+    },
+    "languages": [
+      "som"
+    ]
+  }
+]
